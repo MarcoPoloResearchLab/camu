@@ -1,0 +1,182 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "the-shepherd-of-myddvai",
+  "storyPath": "irish/085-the-shepherd-of-myddvai.md",
+  "language": "en",
+  "source": {
+    "kind": "clean-catalog",
+    "path": "source-library/clean/irish/085-the-shepherd-of-myddvai.md",
+    "sha256": "72dd4ce6b32ee904aae103dc3d7ee2c902b11aeee698bea593ce6584660ae7f4"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "Up in the Black Mountains in Caermarthenshire lies the lake known as Lyn y Van Vach. To the margin of this lake the shepherd of Myddvai once led his lambs, and lay there whilst they sought pasture. Suddenly, from the dark waters of the lake, he saw three maidens rise. Shaking the bright drops from their hair and gliding to the shore they wandered about amongst his flock. They had more than mortal beauty, and he was filled with love for her that came nearest to him. He offered her the bread he had with him, and she took it and tried it, but then sang to him:"
+      ],
+      "text": "Up in the Black Mountains in Caermarthenshire lies the lake known as Lyn y Van Vach. To the margin of this lake the shepherd of Myddvai once led his lambs, and lay there whilst they sought pasture. Suddenly, from the dark waters of the lake, he saw three maidens rise. Shaking the bright drops from their hair and gliding to the shore they wandered about amongst his flock. They had more than mortal beauty, and he was filled with love for her that came nearest to him. He offered her the bread he had with him, and she took it and tried it, but then sang to him:"
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "\"Hard-baked is thy bread, 'Tis not easy to catch me,\""
+      ],
+      "text": "\"Hard-baked is thy bread, 'Tis not easy to catch me,\""
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "and then ran off laughing to the lake."
+      ],
+      "text": "and then ran off laughing to the lake."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "Next day he took with him bread not so well done, and watched for the maidens. When they came ashore he offered his bread as before, and the maiden tasted it and sang:"
+      ],
+      "text": "Next day he took with him bread not so well done, and watched for the maidens. When they came ashore he offered his bread as before, and the maiden tasted it and sang:"
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "lines": [
+        "\"Unbaked is thy bread, I will not have thee,\""
+      ],
+      "text": "\"Unbaked is thy bread, I will not have thee,\""
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "lines": [
+        "and again disappeared in the waves."
+      ],
+      "text": "and again disappeared in the waves."
+    },
+    {
+      "index": 6,
+      "type": "paragraph",
+      "lines": [
+        "A third time did the shepherd of Myddvai try to attract the maiden, and this time he offered bread that he had found floating about near the shore. This pleased her, and she promised to become his wife if he were able to pick her out from among her sisters on the following day. When the time came the shepherd knew his love by the strap of her sandal. Then she told him she would be as good a wife to him as any earthly maiden could be unless he should strike her three times without cause. Of course he deemed that this could never be; and she summoning from the lake three cows, two oxen, and a bull, as her marriage portion, was led homeward by him as his bride."
+      ],
+      "text": "A third time did the shepherd of Myddvai try to attract the maiden, and this time he offered bread that he had found floating about near the shore. This pleased her, and she promised to become his wife if he were able to pick her out from among her sisters on the following day. When the time came the shepherd knew his love by the strap of her sandal. Then she told him she would be as good a wife to him as any earthly maiden could be unless he should strike her three times without cause. Of course he deemed that this could never be; and she summoning from the lake three cows, two oxen, and a bull, as her marriage portion, was led homeward by him as his bride."
+    },
+    {
+      "index": 7,
+      "type": "paragraph",
+      "lines": [
+        "The years passed happily, and three children were born to the shepherd and the lake-maiden. But one day they were going to a christening, and she said to her husband it was far to walk, so he told her to go for the horses."
+      ],
+      "text": "The years passed happily, and three children were born to the shepherd and the lake-maiden. But one day they were going to a christening, and she said to her husband it was far to walk, so he told her to go for the horses."
+    },
+    {
+      "index": 8,
+      "type": "paragraph",
+      "lines": [
+        "\"I will,\" said she, \"If you bring me my gloves which I've left in the house.\""
+      ],
+      "text": "\"I will,\" said she, \"If you bring me my gloves which I've left in the house.\""
+    },
+    {
+      "index": 9,
+      "type": "paragraph",
+      "lines": [
+        "But when he came back with the gloves he found she had not gone for the horses; so he tapped her lightly on the shoulder with the gloves, and said, \"Go, go.\""
+      ],
+      "text": "But when he came back with the gloves he found she had not gone for the horses; so he tapped her lightly on the shoulder with the gloves, and said, \"Go, go.\""
+    },
+    {
+      "index": 10,
+      "type": "paragraph",
+      "lines": [
+        "\"That's one,\" said she."
+      ],
+      "text": "\"That's one,\" said she."
+    },
+    {
+      "index": 11,
+      "type": "paragraph",
+      "lines": [
+        "Another time they were at a wedding, when suddenly the lake-maiden fell a-sobbing and a-weeping, amid the joy and mirth of all around her."
+      ],
+      "text": "Another time they were at a wedding, when suddenly the lake-maiden fell a-sobbing and a-weeping, amid the joy and mirth of all around her."
+    },
+    {
+      "index": 12,
+      "type": "paragraph",
+      "lines": [
+        "Her husband tapped her on the shoulder, and asked her, \"Why do you weep?\""
+      ],
+      "text": "Her husband tapped her on the shoulder, and asked her, \"Why do you weep?\""
+    },
+    {
+      "index": 13,
+      "type": "paragraph",
+      "lines": [
+        "\"Because they are entering into trouble; and trouble is upon you; for that is the second causeless blow you have given me. Be careful; the third is the last.\""
+      ],
+      "text": "\"Because they are entering into trouble; and trouble is upon you; for that is the second causeless blow you have given me. Be careful; the third is the last.\""
+    },
+    {
+      "index": 14,
+      "type": "paragraph",
+      "lines": [
+        "The husband was very careful never to strike her. But one day at a funeral she suddenly burst out into fits of laughter. Her husband forgot, and touched her rather roughly on the shoulder, saying, \"Is this a time for laughter?\""
+      ],
+      "text": "The husband was very careful never to strike her. But one day at a funeral she suddenly burst out into fits of laughter. Her husband forgot, and touched her rather roughly on the shoulder, saying, \"Is this a time for laughter?\""
+    },
+    {
+      "index": 15,
+      "type": "paragraph",
+      "lines": [
+        "\"I laugh,\" she said, \"because those that die go out of trouble, but your trouble has come. The last blow has been struck; our marriage is at an end, and so farewell.\" And with that she rose up and left the house and went to their home."
+      ],
+      "text": "\"I laugh,\" she said, \"because those that die go out of trouble, but your trouble has come. The last blow has been struck; our marriage is at an end, and so farewell.\" And with that she rose up and left the house and went to their home."
+    },
+    {
+      "index": 16,
+      "type": "paragraph",
+      "lines": [
+        "Then she, looking round upon her home, called to the cattle she had brought with her:"
+      ],
+      "text": "Then she, looking round upon her home, called to the cattle she had brought with her:"
+    },
+    {
+      "index": 17,
+      "type": "paragraph",
+      "lines": [
+        "\"Brindle cow, white speckled, Spotted cow, bold freckled, Old white face, and grey Geringer, And the white bull from the king's coast Grey ox, and black calf, All, all, follow me home.\""
+      ],
+      "text": "\"Brindle cow, white speckled, Spotted cow, bold freckled, Old white face, and grey Geringer, And the white bull from the king's coast Grey ox, and black calf, All, all, follow me home.\""
+    },
+    {
+      "index": 18,
+      "type": "paragraph",
+      "lines": [
+        "Now the black calf had just been slaughtered, and was hanging on the hook; but it got off the hook alive and well and followed her; and the oxen, though they were ploughing, trailed the plough with them and did her bidding. So she fled to the lake again, they following her, and with them plunged into the dark waters. And to this day is the furrow seen which the plough left as it was dragged across the mountains to the tarn."
+      ],
+      "text": "Now the black calf had just been slaughtered, and was hanging on the hook; but it got off the hook alive and well and followed her; and the oxen, though they were ploughing, trailed the plough with them and did her bidding. So she fled to the lake again, they following her, and with them plunged into the dark waters. And to this day is the furrow seen which the plough left as it was dragged across the mountains to the tarn."
+    },
+    {
+      "index": 19,
+      "type": "paragraph",
+      "lines": [
+        "Only once did she come again, when her sons were grown to manhood, and then she gave them gifts of healing by which they won the name of Meddygon Myddvai, the physicians of Myddvai."
+      ],
+      "text": "Only once did she come again, when her sons were grown to manhood, and then she gave them gifts of healing by which they won the name of Meddygon Myddvai, the physicians of Myddvai."
+    }
+  ],
+  "plainText": "Up in the Black Mountains in Caermarthenshire lies the lake known as Lyn y Van Vach. To the margin of this lake the shepherd of Myddvai once led his lambs, and lay there whilst they sought pasture. Suddenly, from the dark waters of the lake, he saw three maidens rise. Shaking the bright drops from their hair and gliding to the shore they wandered about amongst his flock. They had more than mortal beauty, and he was filled with love for her that came nearest to him. He offered her the bread he had with him, and she took it and tried it, but then sang to him:\n\n\"Hard-baked is thy bread, 'Tis not easy to catch me,\"\n\nand then ran off laughing to the lake.\n\nNext day he took with him bread not so well done, and watched for the maidens. When they came ashore he offered his bread as before, and the maiden tasted it and sang:\n\n\"Unbaked is thy bread, I will not have thee,\"\n\nand again disappeared in the waves.\n\nA third time did the shepherd of Myddvai try to attract the maiden, and this time he offered bread that he had found floating about near the shore. This pleased her, and she promised to become his wife if he were able to pick her out from among her sisters on the following day. When the time came the shepherd knew his love by the strap of her sandal. Then she told him she would be as good a wife to him as any earthly maiden could be unless he should strike her three times without cause. Of course he deemed that this could never be; and she summoning from the lake three cows, two oxen, and a bull, as her marriage portion, was led homeward by him as his bride.\n\nThe years passed happily, and three children were born to the shepherd and the lake-maiden. But one day they were going to a christening, and she said to her husband it was far to walk, so he told her to go for the horses.\n\n\"I will,\" said she, \"If you bring me my gloves which I've left in the house.\"\n\nBut when he came back with the gloves he found she had not gone for the horses; so he tapped her lightly on the shoulder with the gloves, and said, \"Go, go.\"\n\n\"That's one,\" said she.\n\nAnother time they were at a wedding, when suddenly the lake-maiden fell a-sobbing and a-weeping, amid the joy and mirth of all around her.\n\nHer husband tapped her on the shoulder, and asked her, \"Why do you weep?\"\n\n\"Because they are entering into trouble; and trouble is upon you; for that is the second causeless blow you have given me. Be careful; the third is the last.\"\n\nThe husband was very careful never to strike her. But one day at a funeral she suddenly burst out into fits of laughter. Her husband forgot, and touched her rather roughly on the shoulder, saying, \"Is this a time for laughter?\"\n\n\"I laugh,\" she said, \"because those that die go out of trouble, but your trouble has come. The last blow has been struck; our marriage is at an end, and so farewell.\" And with that she rose up and left the house and went to their home.\n\nThen she, looking round upon her home, called to the cattle she had brought with her:\n\n\"Brindle cow, white speckled, Spotted cow, bold freckled, Old white face, and grey Geringer, And the white bull from the king's coast Grey ox, and black calf, All, all, follow me home.\"\n\nNow the black calf had just been slaughtered, and was hanging on the hook; but it got off the hook alive and well and followed her; and the oxen, though they were ploughing, trailed the plough with them and did her bidding. So she fled to the lake again, they following her, and with them plunged into the dark waters. And to this day is the furrow seen which the plough left as it was dragged across the mountains to the tarn.\n\nOnly once did she come again, when her sons were grown to manhood, and then she gave them gifts of healing by which they won the name of Meddygon Myddvai, the physicians of Myddvai.",
+  "plainTextSha256": "72dd4ce6b32ee904aae103dc3d7ee2c902b11aeee698bea593ce6584660ae7f4",
+  "spokenRelation": {
+    "sha256": "08239dbee78b5a1156a112cffb251f9e06000591a35fed42ea22af9fc2177cfc",
+    "tokenCount": 728
+  },
+  "wordCount": 728,
+  "characterCount": 3793,
+  "sha256": "a63ab892997afcaffaaa17b4790fd7ae7f9bb479526f5cbd0bbeed3205c371dd"
+}

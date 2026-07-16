@@ -1,0 +1,3391 @@
+{
+  "schema": "kamu.story-sync.v1",
+  "generatedAt": "2026-06-24T16:29:21.646Z",
+  "storyId": "paul-bunyan",
+  "storyPath": "american/007-paul-bunyan.md",
+  "source": "alignment/alignment.json",
+  "displayText": {
+    "path": "data/text/american-007-paul-bunyan.display.json",
+    "sha256": "e2e7d2e4e467e37e0d962ec96e4f710b5a5e1a517d23289910f7f3d2b4ac18eb",
+    "sourceSha256": "1c48c59455f79ccc9cf0123214edc15f9cc916ff29f9869659cde298cefc57d2"
+  },
+  "reader": {
+    "readerId": "3",
+    "role": "male",
+    "label": "David - Gruff Cowboy",
+    "voiceId": "OYWwCdDHouzDwiZJWOOu",
+    "voiceName": "David - Gruff Cowboy"
+  },
+  "transcript": "Babe, the big blue ox, constituted Paul Bunyan's assets and liabilities. History disagrees as to when, where and how Paul first acquired this bovine locomotive but his subsequent record is reliably established. Babe could pull anything that had two ends to it. Babe was seven axe handles wide between the eyes according to some authorities; others equally dependable say forty-two axe handles and a plug of tobacco. Like other historical contradictions this comes from using different standards. Seven of Paul's axe handles were equal to a little more than forty-two of the ordinary kind. When cost sheets were figured on Babe, Johnny Inkslinger found that upkeep and overhead were expensive but the charges for operation and depreciation were low and the efficiency was very high. How else could Paul have hauled logs to the landing a whole section (640 acres) at a time? He also used Babe to pull the kinks out of the crooked logging roads and it was on a job of this kind that Babe pulled a chain of three-inch links out into a straight bar. They could never keep Babe more than one night at a camp for he would eat in one day all the feed one crew could tote to camp in a year. For a snack between meals he would eat fifty bales of hay, wire and all, and six men with pickaroons were kept busy picking the wire out of his teeth. Babe was a great pet and very docile as a general thing but he seemed to have a sense of humor and frequently got into mischief. He would sneak up behind a drive and drink all the water out of the river, leaving the logs high and dry. It was impossible to build an ox-sling big enough to hoist Babe off the ground for shoeing, but after they logged off Dakota there was room for Babe to lie down for this operation. Once in a while Babe would run away and be gone all day roaming all over the Northwestern country. His tracks were so far apart that it was impossible to follow him and so deep that a man falling into one could only be hauled out with difficulty and a long rope. Once a settler and his wife and baby fell into one of these tracks and the son got out when he was fifty-seven years old and reported the accident. These tracks today form the thousands of lakes in the \"Land of the Sky-Blue Water.\"",
+  "speakers": {
+    "narrator": {
+      "label": "David - Gruff Cowboy",
+      "readerId": "3"
+    }
+  },
+  "tokens": [
+    {
+      "index": 0,
+      "text": "Babe,",
+      "normalizedText": "babe",
+      "start": 0.1,
+      "end": 0.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 1,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 0.63,
+      "end": 0.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 2,
+      "text": "big",
+      "normalizedText": "big",
+      "start": 0.8,
+      "end": 0.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 3,
+      "text": "blue",
+      "normalizedText": "blue",
+      "start": 1.04,
+      "end": 1.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 4,
+      "text": "ox,",
+      "normalizedText": "ox",
+      "start": 1.36,
+      "end": 1.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 5,
+      "text": "constituted",
+      "normalizedText": "constituted",
+      "start": 2.06,
+      "end": 2.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 6,
+      "text": "Paul",
+      "normalizedText": "paul",
+      "start": 2.86,
+      "end": 3.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 7,
+      "text": "Bunyan's",
+      "normalizedText": "bunyan's",
+      "start": 3.16,
+      "end": 3.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "assets",
+      "normalizedText": "assets",
+      "start": 3.84,
+      "end": 4.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 9,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 4.4,
+      "end": 4.55,
+      "speaker": "narrator"
+    },
+    {
+      "index": 10,
+      "text": "liabilities.",
+      "normalizedText": "liabilities",
+      "start": 4.64,
+      "end": 5.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 11,
+      "text": "History",
+      "normalizedText": "history",
+      "start": 6.26,
+      "end": 6.63,
+      "speaker": "narrator"
+    },
+    {
+      "index": 12,
+      "text": "disagrees",
+      "normalizedText": "disagrees",
+      "start": 6.74,
+      "end": 7.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 13,
+      "text": "as",
+      "normalizedText": "as",
+      "start": 7.58,
+      "end": 7.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 14,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 7.74,
+      "end": 7.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 15,
+      "text": "when,",
+      "normalizedText": "when",
+      "start": 7.94,
+      "end": 8.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 16,
+      "text": "where",
+      "normalizedText": "where",
+      "start": 8.62,
+      "end": 9.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 17,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 9.16,
+      "end": 9.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 18,
+      "text": "how",
+      "normalizedText": "how",
+      "start": 9.44,
+      "end": 9.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 19,
+      "text": "Paul",
+      "normalizedText": "paul",
+      "start": 9.96,
+      "end": 10.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 20,
+      "text": "first",
+      "normalizedText": "first",
+      "start": 10.3,
+      "end": 10.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 21,
+      "text": "acquired",
+      "normalizedText": "acquired",
+      "start": 10.59,
+      "end": 11.23,
+      "speaker": "narrator"
+    },
+    {
+      "index": 22,
+      "text": "this",
+      "normalizedText": "this",
+      "start": 11.231,
+      "end": 11.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 23,
+      "text": "bovine",
+      "normalizedText": "bovine",
+      "start": 11.74,
+      "end": 12.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 24,
+      "text": "locomotive",
+      "normalizedText": "locomotive",
+      "start": 12.44,
+      "end": 13.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 25,
+      "text": "but",
+      "normalizedText": "but",
+      "start": 13.44,
+      "end": 13.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 26,
+      "text": "his",
+      "normalizedText": "his",
+      "start": 13.64,
+      "end": 13.83,
+      "speaker": "narrator"
+    },
+    {
+      "index": 27,
+      "text": "subsequent",
+      "normalizedText": "subsequent",
+      "start": 13.88,
+      "end": 14.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 28,
+      "text": "record",
+      "normalizedText": "record",
+      "start": 14.46,
+      "end": 14.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 29,
+      "text": "is",
+      "normalizedText": "is",
+      "start": 14.96,
+      "end": 15.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 30,
+      "text": "reliably",
+      "normalizedText": "reliably",
+      "start": 15.16,
+      "end": 15.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 31,
+      "text": "established.",
+      "normalizedText": "established",
+      "start": 15.88,
+      "end": 16.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 32,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 17.22,
+      "end": 17.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 33,
+      "text": "could",
+      "normalizedText": "could",
+      "start": 17.6,
+      "end": 17.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 34,
+      "text": "pull",
+      "normalizedText": "pull",
+      "start": 17.84,
+      "end": 18.23,
+      "speaker": "narrator"
+    },
+    {
+      "index": 35,
+      "text": "anything",
+      "normalizedText": "anything",
+      "start": 18.3,
+      "end": 18.83,
+      "speaker": "narrator"
+    },
+    {
+      "index": 36,
+      "text": "that",
+      "normalizedText": "that",
+      "start": 18.86,
+      "end": 18.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 37,
+      "text": "had",
+      "normalizedText": "had",
+      "start": 19.1,
+      "end": 19.35,
+      "speaker": "narrator"
+    },
+    {
+      "index": 38,
+      "text": "two",
+      "normalizedText": "two",
+      "start": 19.4,
+      "end": 19.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 39,
+      "text": "ends",
+      "normalizedText": "ends",
+      "start": 19.82,
+      "end": 20.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 40,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 20.14,
+      "end": 20.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 41,
+      "text": "it.",
+      "normalizedText": "it",
+      "start": 20.32,
+      "end": 20.51,
+      "speaker": "narrator"
+    },
+    {
+      "index": 42,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 21.12,
+      "end": 21.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 43,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 21.46,
+      "end": 21.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 44,
+      "text": "seven",
+      "normalizedText": "seven",
+      "start": 21.7,
+      "end": 22.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 45,
+      "text": "axe",
+      "normalizedText": "axe",
+      "start": 22.24,
+      "end": 22.45,
+      "speaker": "narrator"
+    },
+    {
+      "index": 46,
+      "text": "handles",
+      "normalizedText": "handles",
+      "start": 22.5,
+      "end": 22.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 47,
+      "text": "wide",
+      "normalizedText": "wide",
+      "start": 23.02,
+      "end": 23.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 48,
+      "text": "between",
+      "normalizedText": "between",
+      "start": 23.52,
+      "end": 23.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 49,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 23.9,
+      "end": 23.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 50,
+      "text": "eyes",
+      "normalizedText": "eyes",
+      "start": 24.04,
+      "end": 24.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 51,
+      "text": "according",
+      "normalizedText": "according",
+      "start": 24.68,
+      "end": 25.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 52,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 25.08,
+      "end": 25.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 53,
+      "text": "some",
+      "normalizedText": "some",
+      "start": 25.22,
+      "end": 25.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 54,
+      "text": "authorities;",
+      "normalizedText": "authorities",
+      "start": 25.42,
+      "end": 26.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 55,
+      "text": "others",
+      "normalizedText": "others",
+      "start": 26.54,
+      "end": 26.91,
+      "speaker": "narrator"
+    },
+    {
+      "index": 56,
+      "text": "equally",
+      "normalizedText": "equally",
+      "start": 27.06,
+      "end": 27.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 57,
+      "text": "dependable",
+      "normalizedText": "dependable",
+      "start": 27.52,
+      "end": 28.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 58,
+      "text": "say",
+      "normalizedText": "say",
+      "start": 28.42,
+      "end": 28.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 59,
+      "text": "forty-two",
+      "normalizedText": "forty-two",
+      "start": 28.76,
+      "end": 29.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 60,
+      "text": "axe",
+      "normalizedText": "axe",
+      "start": 29.62,
+      "end": 29.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 61,
+      "text": "handles",
+      "normalizedText": "handles",
+      "start": 29.9,
+      "end": 30.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 62,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 30.46,
+      "end": 30.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 63,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 30.69,
+      "end": 30.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 64,
+      "text": "plug",
+      "normalizedText": "plug",
+      "start": 30.88,
+      "end": 31.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 65,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 31.22,
+      "end": 31.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 66,
+      "text": "tobacco.",
+      "normalizedText": "tobacco",
+      "start": 31.36,
+      "end": 31.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 67,
+      "text": "Like",
+      "normalizedText": "like",
+      "start": 32.66,
+      "end": 32.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 68,
+      "text": "other",
+      "normalizedText": "other",
+      "start": 32.98,
+      "end": 33.15,
+      "speaker": "narrator"
+    },
+    {
+      "index": 69,
+      "text": "historical",
+      "normalizedText": "historical",
+      "start": 33.151,
+      "end": 33.85,
+      "speaker": "narrator"
+    },
+    {
+      "index": 70,
+      "text": "contradictions",
+      "normalizedText": "contradictions",
+      "start": 33.88,
+      "end": 34.629,
+      "speaker": "narrator"
+    },
+    {
+      "index": 71,
+      "text": "this",
+      "normalizedText": "this",
+      "start": 35.04,
+      "end": 35.21,
+      "speaker": "narrator"
+    },
+    {
+      "index": 72,
+      "text": "comes",
+      "normalizedText": "comes",
+      "start": 35.24,
+      "end": 35.55,
+      "speaker": "narrator"
+    },
+    {
+      "index": 73,
+      "text": "from",
+      "normalizedText": "from",
+      "start": 35.58,
+      "end": 35.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 74,
+      "text": "using",
+      "normalizedText": "using",
+      "start": 35.8,
+      "end": 36.21,
+      "speaker": "narrator"
+    },
+    {
+      "index": 75,
+      "text": "different",
+      "normalizedText": "different",
+      "start": 36.24,
+      "end": 36.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 76,
+      "text": "standards.",
+      "normalizedText": "standards",
+      "start": 36.66,
+      "end": 37.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 77,
+      "text": "Seven",
+      "normalizedText": "seven",
+      "start": 38,
+      "end": 38.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 78,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 38.4,
+      "end": 38.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 79,
+      "text": "Paul's",
+      "normalizedText": "paul's",
+      "start": 38.62,
+      "end": 39.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 80,
+      "text": "axe",
+      "normalizedText": "axe",
+      "start": 39.18,
+      "end": 39.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 81,
+      "text": "handles",
+      "normalizedText": "handles",
+      "start": 39.38,
+      "end": 39.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 82,
+      "text": "were",
+      "normalizedText": "were",
+      "start": 39.96,
+      "end": 40.11,
+      "speaker": "narrator"
+    },
+    {
+      "index": 83,
+      "text": "equal",
+      "normalizedText": "equal",
+      "start": 40.16,
+      "end": 40.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 84,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 40.52,
+      "end": 40.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 85,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 40.62,
+      "end": 40.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 86,
+      "text": "little",
+      "normalizedText": "little",
+      "start": 40.76,
+      "end": 40.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 87,
+      "text": "more",
+      "normalizedText": "more",
+      "start": 40.98,
+      "end": 41.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 88,
+      "text": "than",
+      "normalizedText": "than",
+      "start": 41.3,
+      "end": 41.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 89,
+      "text": "forty-two",
+      "normalizedText": "forty-two",
+      "start": 41.58,
+      "end": 42.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 90,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 42.54,
+      "end": 42.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 91,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 42.7,
+      "end": 42.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 92,
+      "text": "ordinary",
+      "normalizedText": "ordinary",
+      "start": 42.84,
+      "end": 43.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 93,
+      "text": "kind.",
+      "normalizedText": "kind",
+      "start": 43.36,
+      "end": 43.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 94,
+      "text": "When",
+      "normalizedText": "when",
+      "start": 44.38,
+      "end": 44.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 95,
+      "text": "cost",
+      "normalizedText": "cost",
+      "start": 44.6,
+      "end": 44.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 96,
+      "text": "sheets",
+      "normalizedText": "sheets",
+      "start": 44.94,
+      "end": 45.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 97,
+      "text": "were",
+      "normalizedText": "were",
+      "start": 45.42,
+      "end": 45.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 98,
+      "text": "figured",
+      "normalizedText": "figured",
+      "start": 45.64,
+      "end": 45.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 99,
+      "text": "on",
+      "normalizedText": "on",
+      "start": 46,
+      "end": 46.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 100,
+      "text": "Babe,",
+      "normalizedText": "babe",
+      "start": 46.2,
+      "end": 46.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 101,
+      "text": "Johnny",
+      "normalizedText": "johnny",
+      "start": 47.02,
+      "end": 47.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 102,
+      "text": "Inkslinger",
+      "normalizedText": "inkslinger",
+      "start": 47.44,
+      "end": 48.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 103,
+      "text": "found",
+      "normalizedText": "found",
+      "start": 48.2,
+      "end": 48.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 104,
+      "text": "that",
+      "normalizedText": "that",
+      "start": 48.56,
+      "end": 48.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 105,
+      "text": "upkeep",
+      "normalizedText": "upkeep",
+      "start": 48.82,
+      "end": 49.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 106,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 49.32,
+      "end": 49.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 107,
+      "text": "overhead",
+      "normalizedText": "overhead",
+      "start": 49.58,
+      "end": 50.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 108,
+      "text": "were",
+      "normalizedText": "were",
+      "start": 50.14,
+      "end": 50.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 109,
+      "text": "expensive",
+      "normalizedText": "expensive",
+      "start": 50.26,
+      "end": 50.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 110,
+      "text": "but",
+      "normalizedText": "but",
+      "start": 51.26,
+      "end": 51.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 111,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 51.39,
+      "end": 51.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 112,
+      "text": "charges",
+      "normalizedText": "charges",
+      "start": 51.6,
+      "end": 52.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 113,
+      "text": "for",
+      "normalizedText": "for",
+      "start": 52.12,
+      "end": 52.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 114,
+      "text": "operation",
+      "normalizedText": "operation",
+      "start": 52.38,
+      "end": 53.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 115,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 53.1,
+      "end": 53.23,
+      "speaker": "narrator"
+    },
+    {
+      "index": 116,
+      "text": "depreciation",
+      "normalizedText": "depreciation",
+      "start": 53.3,
+      "end": 54.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 117,
+      "text": "were",
+      "normalizedText": "were",
+      "start": 54.22,
+      "end": 54.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 118,
+      "text": "low",
+      "normalizedText": "low",
+      "start": 54.38,
+      "end": 54.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 119,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 55.16,
+      "end": 55.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 120,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 55.3,
+      "end": 55.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 121,
+      "text": "efficiency",
+      "normalizedText": "efficiency",
+      "start": 55.42,
+      "end": 56.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 122,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 56.18,
+      "end": 56.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 123,
+      "text": "very",
+      "normalizedText": "very",
+      "start": 56.44,
+      "end": 56.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 124,
+      "text": "high.",
+      "normalizedText": "high",
+      "start": 56.8,
+      "end": 57.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 125,
+      "text": "How",
+      "normalizedText": "how",
+      "start": 57.84,
+      "end": 58.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 126,
+      "text": "else",
+      "normalizedText": "else",
+      "start": 58.06,
+      "end": 58.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 127,
+      "text": "could",
+      "normalizedText": "could",
+      "start": 58.48,
+      "end": 58.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 128,
+      "text": "Paul",
+      "normalizedText": "paul",
+      "start": 58.7,
+      "end": 59.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 129,
+      "text": "have",
+      "normalizedText": "have",
+      "start": 59.08,
+      "end": 59.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 130,
+      "text": "hauled",
+      "normalizedText": "hauled",
+      "start": 59.3,
+      "end": 59.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 131,
+      "text": "logs",
+      "normalizedText": "logs",
+      "start": 59.7,
+      "end": 60.13,
+      "speaker": "narrator"
+    },
+    {
+      "index": 132,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 60.22,
+      "end": 60.269,
+      "speaker": "narrator"
+    },
+    {
+      "index": 133,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 60.36,
+      "end": 60.41,
+      "speaker": "narrator"
+    },
+    {
+      "index": 134,
+      "text": "landing",
+      "normalizedText": "landing",
+      "start": 60.44,
+      "end": 60.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 135,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 61.22,
+      "end": 61.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 136,
+      "text": "whole",
+      "normalizedText": "whole",
+      "start": 61.36,
+      "end": 61.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 137,
+      "text": "section",
+      "normalizedText": "section",
+      "start": 61.74,
+      "end": 62.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 138,
+      "text": "(640",
+      "normalizedText": "640",
+      "start": 62.7,
+      "end": 63.7,
+      "speaker": "narrator",
+      "spokenText": "six hundred forty",
+      "sourceOverrideId": "paul-bunyan-section-acreage"
+    },
+    {
+      "index": 139,
+      "text": "acres)",
+      "normalizedText": "acres",
+      "start": 63.88,
+      "end": 64.36,
+      "speaker": "narrator",
+      "spokenText": "acres,",
+      "sourceOverrideId": "paul-bunyan-section-acreage"
+    },
+    {
+      "index": 140,
+      "text": "at",
+      "normalizedText": "at",
+      "start": 64.54,
+      "end": 64.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 141,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 64.68,
+      "end": 64.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 142,
+      "text": "time?",
+      "normalizedText": "time",
+      "start": 64.82,
+      "end": 65.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 143,
+      "text": "He",
+      "normalizedText": "he",
+      "start": 66,
+      "end": 66.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 144,
+      "text": "also",
+      "normalizedText": "also",
+      "start": 66.22,
+      "end": 66.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 145,
+      "text": "used",
+      "normalizedText": "used",
+      "start": 66.7,
+      "end": 66.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 146,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 67,
+      "end": 67.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 147,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 67.38,
+      "end": 67.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 148,
+      "text": "pull",
+      "normalizedText": "pull",
+      "start": 67.58,
+      "end": 67.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 149,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 67.82,
+      "end": 67.87,
+      "speaker": "narrator"
+    },
+    {
+      "index": 150,
+      "text": "kinks",
+      "normalizedText": "kinks",
+      "start": 68,
+      "end": 68.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 151,
+      "text": "out",
+      "normalizedText": "out",
+      "start": 68.42,
+      "end": 68.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 152,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 68.58,
+      "end": 68.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 153,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 68.68,
+      "end": 68.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 154,
+      "text": "crooked",
+      "normalizedText": "crooked",
+      "start": 68.84,
+      "end": 69.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 155,
+      "text": "logging",
+      "normalizedText": "logging",
+      "start": 69.28,
+      "end": 69.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 156,
+      "text": "roads",
+      "normalizedText": "roads",
+      "start": 69.72,
+      "end": 70.09,
+      "speaker": "narrator"
+    },
+    {
+      "index": 157,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 70.5,
+      "end": 70.57,
+      "speaker": "narrator"
+    },
+    {
+      "index": 158,
+      "text": "it",
+      "normalizedText": "it",
+      "start": 70.62,
+      "end": 70.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 159,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 70.74,
+      "end": 70.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 160,
+      "text": "on",
+      "normalizedText": "on",
+      "start": 70.92,
+      "end": 71.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 161,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 71.06,
+      "end": 71.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 162,
+      "text": "job",
+      "normalizedText": "job",
+      "start": 71.22,
+      "end": 71.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 163,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 71.56,
+      "end": 71.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 164,
+      "text": "this",
+      "normalizedText": "this",
+      "start": 71.72,
+      "end": 71.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 165,
+      "text": "kind",
+      "normalizedText": "kind",
+      "start": 71.96,
+      "end": 72.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 166,
+      "text": "that",
+      "normalizedText": "that",
+      "start": 72.6,
+      "end": 72.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 167,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 72.84,
+      "end": 73.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 168,
+      "text": "pulled",
+      "normalizedText": "pulled",
+      "start": 73.28,
+      "end": 73.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 169,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 73.6,
+      "end": 73.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 170,
+      "text": "chain",
+      "normalizedText": "chain",
+      "start": 73.74,
+      "end": 74.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 171,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 74.12,
+      "end": 74.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 172,
+      "text": "three-inch",
+      "normalizedText": "three-inch",
+      "start": 74.32,
+      "end": 74.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 173,
+      "text": "links",
+      "normalizedText": "links",
+      "start": 74.96,
+      "end": 75.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 174,
+      "text": "out",
+      "normalizedText": "out",
+      "start": 75.62,
+      "end": 75.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 175,
+      "text": "into",
+      "normalizedText": "into",
+      "start": 75.92,
+      "end": 76.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 176,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 76.2,
+      "end": 76.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 177,
+      "text": "straight",
+      "normalizedText": "straight",
+      "start": 76.38,
+      "end": 76.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 178,
+      "text": "bar.",
+      "normalizedText": "bar",
+      "start": 76.82,
+      "end": 77.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 179,
+      "text": "They",
+      "normalizedText": "they",
+      "start": 77.88,
+      "end": 77.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 180,
+      "text": "could",
+      "normalizedText": "could",
+      "start": 78,
+      "end": 78.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 181,
+      "text": "never",
+      "normalizedText": "never",
+      "start": 78.2,
+      "end": 78.39,
+      "speaker": "narrator"
+    },
+    {
+      "index": 182,
+      "text": "keep",
+      "normalizedText": "keep",
+      "start": 78.54,
+      "end": 78.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 183,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 78.86,
+      "end": 79.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 184,
+      "text": "more",
+      "normalizedText": "more",
+      "start": 79.3,
+      "end": 79.49,
+      "speaker": "narrator"
+    },
+    {
+      "index": 185,
+      "text": "than",
+      "normalizedText": "than",
+      "start": 79.56,
+      "end": 79.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 186,
+      "text": "one",
+      "normalizedText": "one",
+      "start": 79.8,
+      "end": 79.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 187,
+      "text": "night",
+      "normalizedText": "night",
+      "start": 80.04,
+      "end": 80.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 188,
+      "text": "at",
+      "normalizedText": "at",
+      "start": 80.35,
+      "end": 80.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 189,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 80.48,
+      "end": 80.49,
+      "speaker": "narrator"
+    },
+    {
+      "index": 190,
+      "text": "camp",
+      "normalizedText": "camp",
+      "start": 80.58,
+      "end": 80.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 191,
+      "text": "for",
+      "normalizedText": "for",
+      "start": 81.22,
+      "end": 81.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 192,
+      "text": "he",
+      "normalizedText": "he",
+      "start": 81.4,
+      "end": 81.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 193,
+      "text": "would",
+      "normalizedText": "would",
+      "start": 81.56,
+      "end": 81.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 194,
+      "text": "eat",
+      "normalizedText": "eat",
+      "start": 81.78,
+      "end": 81.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 195,
+      "text": "in",
+      "normalizedText": "in",
+      "start": 82.06,
+      "end": 82.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 196,
+      "text": "one",
+      "normalizedText": "one",
+      "start": 82.26,
+      "end": 82.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 197,
+      "text": "day",
+      "normalizedText": "day",
+      "start": 82.52,
+      "end": 82.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 198,
+      "text": "all",
+      "normalizedText": "all",
+      "start": 83.1,
+      "end": 83.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 199,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 83.36,
+      "end": 83.41,
+      "speaker": "narrator"
+    },
+    {
+      "index": 200,
+      "text": "feed",
+      "normalizedText": "feed",
+      "start": 83.52,
+      "end": 83.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 201,
+      "text": "one",
+      "normalizedText": "one",
+      "start": 83.94,
+      "end": 84.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 202,
+      "text": "crew",
+      "normalizedText": "crew",
+      "start": 84.22,
+      "end": 84.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 203,
+      "text": "could",
+      "normalizedText": "could",
+      "start": 84.58,
+      "end": 84.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 204,
+      "text": "tote",
+      "normalizedText": "tote",
+      "start": 84.82,
+      "end": 85.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 205,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 85.05,
+      "end": 85.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 206,
+      "text": "camp",
+      "normalizedText": "camp",
+      "start": 85.28,
+      "end": 85.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 207,
+      "text": "in",
+      "normalizedText": "in",
+      "start": 85.66,
+      "end": 85.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 208,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 85.8,
+      "end": 85.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 209,
+      "text": "year.",
+      "normalizedText": "year",
+      "start": 85.96,
+      "end": 86.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 210,
+      "text": "For",
+      "normalizedText": "for",
+      "start": 87,
+      "end": 87.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 211,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 87.16,
+      "end": 87.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 212,
+      "text": "snack",
+      "normalizedText": "snack",
+      "start": 87.3,
+      "end": 87.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 213,
+      "text": "between",
+      "normalizedText": "between",
+      "start": 87.7,
+      "end": 88.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 214,
+      "text": "meals",
+      "normalizedText": "meals",
+      "start": 88.16,
+      "end": 88.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 215,
+      "text": "he",
+      "normalizedText": "he",
+      "start": 88.8,
+      "end": 88.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 216,
+      "text": "would",
+      "normalizedText": "would",
+      "start": 88.96,
+      "end": 89.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 217,
+      "text": "eat",
+      "normalizedText": "eat",
+      "start": 89.22,
+      "end": 89.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 218,
+      "text": "fifty",
+      "normalizedText": "fifty",
+      "start": 89.52,
+      "end": 89.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 219,
+      "text": "bales",
+      "normalizedText": "bales",
+      "start": 90,
+      "end": 90.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 220,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 90.42,
+      "end": 90.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 221,
+      "text": "hay,",
+      "normalizedText": "hay",
+      "start": 90.53,
+      "end": 90.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 222,
+      "text": "wire",
+      "normalizedText": "wire",
+      "start": 91.2,
+      "end": 91.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 223,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 91.64,
+      "end": 91.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 224,
+      "text": "all,",
+      "normalizedText": "all",
+      "start": 91.86,
+      "end": 92.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 225,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 92.6,
+      "end": 92.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 226,
+      "text": "six",
+      "normalizedText": "six",
+      "start": 92.9,
+      "end": 93.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 227,
+      "text": "men",
+      "normalizedText": "men",
+      "start": 93.22,
+      "end": 93.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 228,
+      "text": "with",
+      "normalizedText": "with",
+      "start": 93.54,
+      "end": 93.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 229,
+      "text": "pickaroons",
+      "normalizedText": "pickaroons",
+      "start": 93.78,
+      "end": 94.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 230,
+      "text": "were",
+      "normalizedText": "were",
+      "start": 94.62,
+      "end": 94.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 231,
+      "text": "kept",
+      "normalizedText": "kept",
+      "start": 94.84,
+      "end": 95.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 232,
+      "text": "busy",
+      "normalizedText": "busy",
+      "start": 95.16,
+      "end": 95.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 233,
+      "text": "picking",
+      "normalizedText": "picking",
+      "start": 95.6,
+      "end": 95.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 234,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 95.91,
+      "end": 96.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 235,
+      "text": "wire",
+      "normalizedText": "wire",
+      "start": 96.1,
+      "end": 96.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 236,
+      "text": "out",
+      "normalizedText": "out",
+      "start": 96.56,
+      "end": 96.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 237,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 96.7,
+      "end": 96.77,
+      "speaker": "narrator"
+    },
+    {
+      "index": 238,
+      "text": "his",
+      "normalizedText": "his",
+      "start": 96.8,
+      "end": 96.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 239,
+      "text": "teeth.",
+      "normalizedText": "teeth",
+      "start": 96.98,
+      "end": 97.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 240,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 98.06,
+      "end": 98.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 241,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 98.4,
+      "end": 98.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 242,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 98.58,
+      "end": 98.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 243,
+      "text": "great",
+      "normalizedText": "great",
+      "start": 98.72,
+      "end": 99.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 244,
+      "text": "pet",
+      "normalizedText": "pet",
+      "start": 99.16,
+      "end": 99.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 245,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 99.74,
+      "end": 99.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 246,
+      "text": "very",
+      "normalizedText": "very",
+      "start": 99.9,
+      "end": 100.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 247,
+      "text": "docile",
+      "normalizedText": "docile",
+      "start": 100.26,
+      "end": 100.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 248,
+      "text": "as",
+      "normalizedText": "as",
+      "start": 100.74,
+      "end": 100.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 249,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 100.92,
+      "end": 101,
+      "speaker": "narrator"
+    },
+    {
+      "index": 250,
+      "text": "general",
+      "normalizedText": "general",
+      "start": 101.04,
+      "end": 101.37,
+      "speaker": "narrator"
+    },
+    {
+      "index": 251,
+      "text": "thing",
+      "normalizedText": "thing",
+      "start": 101.5,
+      "end": 101.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 252,
+      "text": "but",
+      "normalizedText": "but",
+      "start": 102.14,
+      "end": 102.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 253,
+      "text": "he",
+      "normalizedText": "he",
+      "start": 102.24,
+      "end": 102.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 254,
+      "text": "seemed",
+      "normalizedText": "seemed",
+      "start": 102.42,
+      "end": 102.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 255,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 102.66,
+      "end": 102.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 256,
+      "text": "have",
+      "normalizedText": "have",
+      "start": 102.82,
+      "end": 102.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 257,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 103,
+      "end": 103.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 258,
+      "text": "sense",
+      "normalizedText": "sense",
+      "start": 103.12,
+      "end": 103.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 259,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 103.36,
+      "end": 103.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 260,
+      "text": "humor",
+      "normalizedText": "humor",
+      "start": 103.54,
+      "end": 104.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 261,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 104.2,
+      "end": 104.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 262,
+      "text": "frequently",
+      "normalizedText": "frequently",
+      "start": 104.42,
+      "end": 105,
+      "speaker": "narrator"
+    },
+    {
+      "index": 263,
+      "text": "got",
+      "normalizedText": "got",
+      "start": 105.04,
+      "end": 105.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 264,
+      "text": "into",
+      "normalizedText": "into",
+      "start": 105.24,
+      "end": 105.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 265,
+      "text": "mischief.",
+      "normalizedText": "mischief",
+      "start": 105.48,
+      "end": 105.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 266,
+      "text": "He",
+      "normalizedText": "he",
+      "start": 106.68,
+      "end": 106.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 267,
+      "text": "would",
+      "normalizedText": "would",
+      "start": 106.8,
+      "end": 106.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 268,
+      "text": "sneak",
+      "normalizedText": "sneak",
+      "start": 107.08,
+      "end": 107.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 269,
+      "text": "up",
+      "normalizedText": "up",
+      "start": 107.38,
+      "end": 107.55,
+      "speaker": "narrator"
+    },
+    {
+      "index": 270,
+      "text": "behind",
+      "normalizedText": "behind",
+      "start": 107.58,
+      "end": 107.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 271,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 107.96,
+      "end": 108.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 272,
+      "text": "drive",
+      "normalizedText": "drive",
+      "start": 108.06,
+      "end": 108.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 273,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 108.78,
+      "end": 108.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 274,
+      "text": "drink",
+      "normalizedText": "drink",
+      "start": 108.98,
+      "end": 109.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 275,
+      "text": "all",
+      "normalizedText": "all",
+      "start": 109.44,
+      "end": 109.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 276,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 109.7,
+      "end": 109.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 277,
+      "text": "water",
+      "normalizedText": "water",
+      "start": 109.86,
+      "end": 110.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 278,
+      "text": "out",
+      "normalizedText": "out",
+      "start": 110.19,
+      "end": 110.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 279,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 110.38,
+      "end": 110.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 280,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 110.48,
+      "end": 110.53,
+      "speaker": "narrator"
+    },
+    {
+      "index": 281,
+      "text": "river,",
+      "normalizedText": "river",
+      "start": 110.6,
+      "end": 110.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 282,
+      "text": "leaving",
+      "normalizedText": "leaving",
+      "start": 111.26,
+      "end": 111.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 283,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 111.57,
+      "end": 111.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 284,
+      "text": "logs",
+      "normalizedText": "logs",
+      "start": 111.74,
+      "end": 112.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 285,
+      "text": "high",
+      "normalizedText": "high",
+      "start": 112.36,
+      "end": 112.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 286,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 112.67,
+      "end": 112.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 287,
+      "text": "dry.",
+      "normalizedText": "dry",
+      "start": 112.88,
+      "end": 113.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 288,
+      "text": "It",
+      "normalizedText": "it",
+      "start": 114,
+      "end": 114.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 289,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 114.16,
+      "end": 114.27,
+      "speaker": "narrator"
+    },
+    {
+      "index": 290,
+      "text": "impossible",
+      "normalizedText": "impossible",
+      "start": 114.3,
+      "end": 115.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 291,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 115.03,
+      "end": 115.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 292,
+      "text": "build",
+      "normalizedText": "build",
+      "start": 115.22,
+      "end": 115.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 293,
+      "text": "an",
+      "normalizedText": "an",
+      "start": 115.5,
+      "end": 115.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 294,
+      "text": "ox-sling",
+      "normalizedText": "ox-sling",
+      "start": 115.76,
+      "end": 116.399,
+      "speaker": "narrator"
+    },
+    {
+      "index": 295,
+      "text": "big",
+      "normalizedText": "big",
+      "start": 116.56,
+      "end": 116.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 296,
+      "text": "enough",
+      "normalizedText": "enough",
+      "start": 116.72,
+      "end": 117.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 297,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 117.08,
+      "end": 117.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 298,
+      "text": "hoist",
+      "normalizedText": "hoist",
+      "start": 117.24,
+      "end": 117.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 299,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 117.66,
+      "end": 117.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 300,
+      "text": "off",
+      "normalizedText": "off",
+      "start": 118.06,
+      "end": 118.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 301,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 118.26,
+      "end": 118.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 302,
+      "text": "ground",
+      "normalizedText": "ground",
+      "start": 118.38,
+      "end": 118.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 303,
+      "text": "for",
+      "normalizedText": "for",
+      "start": 118.82,
+      "end": 118.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 304,
+      "text": "shoeing,",
+      "normalizedText": "shoeing",
+      "start": 119,
+      "end": 119.39,
+      "speaker": "narrator"
+    },
+    {
+      "index": 305,
+      "text": "but",
+      "normalizedText": "but",
+      "start": 119.82,
+      "end": 119.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 306,
+      "text": "after",
+      "normalizedText": "after",
+      "start": 120.02,
+      "end": 120.23,
+      "speaker": "narrator"
+    },
+    {
+      "index": 307,
+      "text": "they",
+      "normalizedText": "they",
+      "start": 120.3,
+      "end": 120.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 308,
+      "text": "logged",
+      "normalizedText": "logged",
+      "start": 120.46,
+      "end": 120.79,
+      "speaker": "narrator"
+    },
+    {
+      "index": 309,
+      "text": "off",
+      "normalizedText": "off",
+      "start": 120.88,
+      "end": 121,
+      "speaker": "narrator"
+    },
+    {
+      "index": 310,
+      "text": "Dakota",
+      "normalizedText": "dakota",
+      "start": 121.08,
+      "end": 121.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 311,
+      "text": "there",
+      "normalizedText": "there",
+      "start": 121.9,
+      "end": 122.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 312,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 122.08,
+      "end": 122.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 313,
+      "text": "room",
+      "normalizedText": "room",
+      "start": 122.3,
+      "end": 122.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 314,
+      "text": "for",
+      "normalizedText": "for",
+      "start": 122.72,
+      "end": 122.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 315,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 122.92,
+      "end": 123.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 316,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 123.27,
+      "end": 123.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 317,
+      "text": "lie",
+      "normalizedText": "lie",
+      "start": 123.46,
+      "end": 123.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 318,
+      "text": "down",
+      "normalizedText": "down",
+      "start": 123.74,
+      "end": 124.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 319,
+      "text": "for",
+      "normalizedText": "for",
+      "start": 124.18,
+      "end": 124.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 320,
+      "text": "this",
+      "normalizedText": "this",
+      "start": 124.34,
+      "end": 124.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 321,
+      "text": "operation.",
+      "normalizedText": "operation",
+      "start": 124.58,
+      "end": 125.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 322,
+      "text": "Once",
+      "normalizedText": "once",
+      "start": 125.94,
+      "end": 126.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 323,
+      "text": "in",
+      "normalizedText": "in",
+      "start": 126.16,
+      "end": 126.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 324,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 126.26,
+      "end": 126.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 325,
+      "text": "while",
+      "normalizedText": "while",
+      "start": 126.38,
+      "end": 126.69,
+      "speaker": "narrator"
+    },
+    {
+      "index": 326,
+      "text": "Babe",
+      "normalizedText": "babe",
+      "start": 127.08,
+      "end": 127.35,
+      "speaker": "narrator"
+    },
+    {
+      "index": 327,
+      "text": "would",
+      "normalizedText": "would",
+      "start": 127.42,
+      "end": 127.55,
+      "speaker": "narrator"
+    },
+    {
+      "index": 328,
+      "text": "run",
+      "normalizedText": "run",
+      "start": 127.64,
+      "end": 127.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 329,
+      "text": "away",
+      "normalizedText": "away",
+      "start": 127.82,
+      "end": 128.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 330,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 128.479,
+      "end": 128.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 331,
+      "text": "be",
+      "normalizedText": "be",
+      "start": 128.64,
+      "end": 128.759,
+      "speaker": "narrator"
+    },
+    {
+      "index": 332,
+      "text": "gone",
+      "normalizedText": "gone",
+      "start": 128.8,
+      "end": 129.199,
+      "speaker": "narrator"
+    },
+    {
+      "index": 333,
+      "text": "all",
+      "normalizedText": "all",
+      "start": 129.32,
+      "end": 129.479,
+      "speaker": "narrator"
+    },
+    {
+      "index": 334,
+      "text": "day",
+      "normalizedText": "day",
+      "start": 129.6,
+      "end": 129.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 335,
+      "text": "roaming",
+      "normalizedText": "roaming",
+      "start": 130.16,
+      "end": 130.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 336,
+      "text": "all",
+      "normalizedText": "all",
+      "start": 130.74,
+      "end": 130.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 337,
+      "text": "over",
+      "normalizedText": "over",
+      "start": 131,
+      "end": 131.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 338,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 131.26,
+      "end": 131.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 339,
+      "text": "Northwestern",
+      "normalizedText": "northwestern",
+      "start": 131.36,
+      "end": 132,
+      "speaker": "narrator"
+    },
+    {
+      "index": 340,
+      "text": "country.",
+      "normalizedText": "country",
+      "start": 132.12,
+      "end": 132.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 341,
+      "text": "His",
+      "normalizedText": "his",
+      "start": 133.16,
+      "end": 133.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 342,
+      "text": "tracks",
+      "normalizedText": "tracks",
+      "start": 133.4,
+      "end": 133.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 343,
+      "text": "were",
+      "normalizedText": "were",
+      "start": 133.86,
+      "end": 134.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 344,
+      "text": "so",
+      "normalizedText": "so",
+      "start": 134.1,
+      "end": 134.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 345,
+      "text": "far",
+      "normalizedText": "far",
+      "start": 134.38,
+      "end": 134.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 346,
+      "text": "apart",
+      "normalizedText": "apart",
+      "start": 134.62,
+      "end": 135.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 347,
+      "text": "that",
+      "normalizedText": "that",
+      "start": 135.34,
+      "end": 135.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 348,
+      "text": "it",
+      "normalizedText": "it",
+      "start": 135.46,
+      "end": 135.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 349,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 135.6,
+      "end": 135.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 350,
+      "text": "impossible",
+      "normalizedText": "impossible",
+      "start": 135.76,
+      "end": 136.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 351,
+      "text": "to",
+      "normalizedText": "to",
+      "start": 136.45,
+      "end": 136.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 352,
+      "text": "follow",
+      "normalizedText": "follow",
+      "start": 136.64,
+      "end": 136.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 353,
+      "text": "him",
+      "normalizedText": "him",
+      "start": 136.94,
+      "end": 137.109,
+      "speaker": "narrator"
+    },
+    {
+      "index": 354,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 137.48,
+      "end": 137.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 355,
+      "text": "so",
+      "normalizedText": "so",
+      "start": 137.72,
+      "end": 137.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 356,
+      "text": "deep",
+      "normalizedText": "deep",
+      "start": 138.1,
+      "end": 138.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 357,
+      "text": "that",
+      "normalizedText": "that",
+      "start": 138.64,
+      "end": 138.71,
+      "speaker": "narrator"
+    },
+    {
+      "index": 358,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 138.76,
+      "end": 138.799,
+      "speaker": "narrator"
+    },
+    {
+      "index": 359,
+      "text": "man",
+      "normalizedText": "man",
+      "start": 138.86,
+      "end": 139.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 360,
+      "text": "falling",
+      "normalizedText": "falling",
+      "start": 139.24,
+      "end": 139.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 361,
+      "text": "into",
+      "normalizedText": "into",
+      "start": 139.6,
+      "end": 139.859,
+      "speaker": "narrator"
+    },
+    {
+      "index": 362,
+      "text": "one",
+      "normalizedText": "one",
+      "start": 139.98,
+      "end": 140.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 363,
+      "text": "could",
+      "normalizedText": "could",
+      "start": 140.26,
+      "end": 140.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 364,
+      "text": "only",
+      "normalizedText": "only",
+      "start": 140.52,
+      "end": 140.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 365,
+      "text": "be",
+      "normalizedText": "be",
+      "start": 140.88,
+      "end": 141.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 366,
+      "text": "hauled",
+      "normalizedText": "hauled",
+      "start": 141.1,
+      "end": 141.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 367,
+      "text": "out",
+      "normalizedText": "out",
+      "start": 141.46,
+      "end": 141.67,
+      "speaker": "narrator"
+    },
+    {
+      "index": 368,
+      "text": "with",
+      "normalizedText": "with",
+      "start": 141.7,
+      "end": 141.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 369,
+      "text": "difficulty",
+      "normalizedText": "difficulty",
+      "start": 141.92,
+      "end": 142.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 370,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 142.829,
+      "end": 142.97,
+      "speaker": "narrator"
+    },
+    {
+      "index": 371,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 143.04,
+      "end": 143.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 372,
+      "text": "long",
+      "normalizedText": "long",
+      "start": 143.14,
+      "end": 143.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 373,
+      "text": "rope.",
+      "normalizedText": "rope",
+      "start": 143.56,
+      "end": 144.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 374,
+      "text": "Once",
+      "normalizedText": "once",
+      "start": 144.74,
+      "end": 144.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 375,
+      "text": "a",
+      "normalizedText": "a",
+      "start": 145.08,
+      "end": 145.09,
+      "speaker": "narrator"
+    },
+    {
+      "index": 376,
+      "text": "settler",
+      "normalizedText": "settler",
+      "start": 145.12,
+      "end": 145.549,
+      "speaker": "narrator"
+    },
+    {
+      "index": 377,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 145.56,
+      "end": 145.67,
+      "speaker": "narrator"
+    },
+    {
+      "index": 378,
+      "text": "his",
+      "normalizedText": "his",
+      "start": 145.7,
+      "end": 145.87,
+      "speaker": "narrator"
+    },
+    {
+      "index": 379,
+      "text": "wife",
+      "normalizedText": "wife",
+      "start": 145.9,
+      "end": 146.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 380,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 146.28,
+      "end": 146.45,
+      "speaker": "narrator"
+    },
+    {
+      "index": 381,
+      "text": "baby",
+      "normalizedText": "baby",
+      "start": 146.46,
+      "end": 146.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 382,
+      "text": "fell",
+      "normalizedText": "fell",
+      "start": 146.98,
+      "end": 147.19,
+      "speaker": "narrator"
+    },
+    {
+      "index": 383,
+      "text": "into",
+      "normalizedText": "into",
+      "start": 147.24,
+      "end": 147.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 384,
+      "text": "one",
+      "normalizedText": "one",
+      "start": 147.52,
+      "end": 147.609,
+      "speaker": "narrator"
+    },
+    {
+      "index": 385,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 147.62,
+      "end": 147.73,
+      "speaker": "narrator"
+    },
+    {
+      "index": 386,
+      "text": "these",
+      "normalizedText": "these",
+      "start": 147.78,
+      "end": 148.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 387,
+      "text": "tracks",
+      "normalizedText": "tracks",
+      "start": 148.04,
+      "end": 148.71,
+      "speaker": "narrator"
+    },
+    {
+      "index": 388,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 148.74,
+      "end": 148.829,
+      "speaker": "narrator"
+    },
+    {
+      "index": 389,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 148.86,
+      "end": 148.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 390,
+      "text": "son",
+      "normalizedText": "son",
+      "start": 149,
+      "end": 149.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 391,
+      "text": "got",
+      "normalizedText": "got",
+      "start": 149.32,
+      "end": 149.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 392,
+      "text": "out",
+      "normalizedText": "out",
+      "start": 149.6,
+      "end": 149.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 393,
+      "text": "when",
+      "normalizedText": "when",
+      "start": 149.81,
+      "end": 149.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 394,
+      "text": "he",
+      "normalizedText": "he",
+      "start": 150,
+      "end": 150.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 395,
+      "text": "was",
+      "normalizedText": "was",
+      "start": 150.14,
+      "end": 150.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 396,
+      "text": "fifty-seven",
+      "normalizedText": "fifty-seven",
+      "start": 150.38,
+      "end": 151.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 397,
+      "text": "years",
+      "normalizedText": "years",
+      "start": 151.16,
+      "end": 151.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 398,
+      "text": "old",
+      "normalizedText": "old",
+      "start": 151.52,
+      "end": 151.829,
+      "speaker": "narrator"
+    },
+    {
+      "index": 399,
+      "text": "and",
+      "normalizedText": "and",
+      "start": 152.04,
+      "end": 152.19,
+      "speaker": "narrator"
+    },
+    {
+      "index": 400,
+      "text": "reported",
+      "normalizedText": "reported",
+      "start": 152.22,
+      "end": 152.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 401,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 152.73,
+      "end": 152.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 402,
+      "text": "accident.",
+      "normalizedText": "accident",
+      "start": 152.96,
+      "end": 153.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 403,
+      "text": "These",
+      "normalizedText": "these",
+      "start": 154.109,
+      "end": 154.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 404,
+      "text": "tracks",
+      "normalizedText": "tracks",
+      "start": 154.42,
+      "end": 154.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 405,
+      "text": "today",
+      "normalizedText": "today",
+      "start": 154.78,
+      "end": 155.35,
+      "speaker": "narrator"
+    },
+    {
+      "index": 406,
+      "text": "form",
+      "normalizedText": "form",
+      "start": 155.4,
+      "end": 155.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 407,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 155.68,
+      "end": 155.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 408,
+      "text": "thousands",
+      "normalizedText": "thousands",
+      "start": 155.9,
+      "end": 156.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 409,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 156.48,
+      "end": 156.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 410,
+      "text": "lakes",
+      "normalizedText": "lakes",
+      "start": 156.66,
+      "end": 157.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 411,
+      "text": "in",
+      "normalizedText": "in",
+      "start": 157.32,
+      "end": 157.45,
+      "speaker": "narrator"
+    },
+    {
+      "index": 412,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 157.48,
+      "end": 157.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 413,
+      "text": "\"Land",
+      "normalizedText": "land",
+      "start": 157.57,
+      "end": 158.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 414,
+      "text": "of",
+      "normalizedText": "of",
+      "start": 158.04,
+      "end": 158.15,
+      "speaker": "narrator"
+    },
+    {
+      "index": 415,
+      "text": "the",
+      "normalizedText": "the",
+      "start": 158.18,
+      "end": 158.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 416,
+      "text": "Sky-Blue",
+      "normalizedText": "sky-blue",
+      "start": 158.36,
+      "end": 159.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 417,
+      "text": "Water.\"",
+      "normalizedText": "water",
+      "start": 159.24,
+      "end": 159.56,
+      "speaker": "narrator"
+    }
+  ],
+  "spokenOverrides": [
+    {
+      "id": "paul-bunyan-section-acreage",
+      "operation": "replace",
+      "reason": "number_expansion_for_tts",
+      "writtenText": "(640 acres)",
+      "spokenText": "six hundred forty acres",
+      "sourceBaseStart": 852,
+      "sourceBaseEnd": 863,
+      "spokenTokenStartIndex": 138,
+      "spokenTokenEndIndex": 142,
+      "outputTokenStartIndex": 138,
+      "outputTokenEndIndex": 140
+    }
+  ]
+}

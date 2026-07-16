@@ -1,0 +1,17 @@
+environments:
+  - description: "Kamu public site"
+    origins:
+      - "https://kamutales.com"
+      - "https://www.kamutales.com"
+    auth:
+      tauthUrl: "https://kamu-api.kamutales.com"
+      googleClientId: "312331327459-epu4lrq9soa05cj4tqamcpm7mc3hr5ta.apps.googleusercontent.com"
+      tenantId: "kamu"
+      loginPath: "/auth/google"
+      logoutPath: "/auth/logout"
+      noncePath: "/auth/nonce"
+    authButton:
+      text: "signin_with"
+      size: "large"
+      theme: "outline"
+      shape: "circle"

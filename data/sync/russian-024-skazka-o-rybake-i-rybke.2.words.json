@@ -1,0 +1,7572 @@
+{
+  "schema": "kamu.story-sync.v1",
+  "generatedAt": "2026-06-24T16:29:21.646Z",
+  "storyId": "skazka-o-rybake-i-rybke",
+  "storyPath": "russian/024-skazka-o-rybake-i-rybke.md",
+  "source": "alignment/alignment.json",
+  "displayText": {
+    "path": "data/text/russian-024-skazka-o-rybake-i-rybke.display.json",
+    "sha256": "ad6a3a7ecdb641bfe15a67d8df6053a44eb939b230356c44b12a23d6af5c1496",
+    "sourceSha256": "9643e8a11a94288d47d8fec91381e7e70e4675e38466fe57ecf1a035cf930f80"
+  },
+  "reader": {
+    "readerId": "2",
+    "role": "female",
+    "label": "TatanaLuke",
+    "voiceId": "ymDCYd8puC7gYjxIamPt",
+    "voiceName": "TatanaLuke"
+  },
+  "transcript": "Жил старик со своею старухой У самого синего моря; Они жили в ветхой землянке Ровно тридцать лет и три года. Старик ловил неводом рыбу, Старуха пряла свою пряжу. Раз он в море закинул невод, — Пришел невод с одною тиной. Он в другой раз закинул невод, Пришел невод с травой морскою. В третий раз закинул он невод, — Пришел невод с одною рыбкой, С непростою рыбкой, — золотою. Как взмолится золотая рыбка! Голосом молвит человечьим: «Отпусти ты, старче, меня в море, Дорогой за себя дам откуп: Откуплюсь чем только пожелаешь.» Удивился старик, испугался: Он рыбачил тридцать лет и три года И не слыхивал, чтоб рыба говорила. Отпустил он рыбку золотую И сказал ей ласковое слово: «Бог с тобою, золотая рыбка! Твоего мне откупа не надо; Ступай себе в синее море, Гуляй там себе на просторе». Воротился старик ко старухе, Рассказал ей великое чудо. «Я сегодня поймал было рыбку, Золотую рыбку, не простую; По-нашему говорила рыбка, Домой в море синее просилась, Дорогою ценою откупалась: Откупалась чем только пожелаю. Не посмел я взять с нее выкуп; Так пустил ее в синее море». Старика старуха забранила: «Дурачина ты, простофиля! Не умел ты взять выкупа с рыбки! Хоть бы взял ты с нее корыто, Наше-то совсем раскололось». Вот пошел он к синему морю; Видит, — море слегка разыгралось. Стал он кликать золотую рыбку, Приплыла к нему рыбка и спросила: «Чего тебе надобно, старче?» Ей с поклоном старик отвечает: «Смилуйся, государыня рыбка, Разбранила меня моя старуха, Не дает старику мне покою: Надобно ей новое корыто; Наше-то совсем раскололось». Отвечает золотая рыбка: «Не печалься, ступай себе с богом, Будет вам новое корыто». Воротился старик ко старухе, У старухи новое корыто. Еще пуще старуха бранится: «Дурачина ты, простофиля! Выпросил, дурачина, корыто! В корыте много ль корысти? Воротись, дурачина, ты к рыбке; Поклонись ей, выпроси уж избу». Вот пошел он к синему морю, (Помутилося синее море.) Стал он кликать золотую рыбку, Приплыла к нему рыбка, спросила: «Чего тебе надобно, старче?» Ей старик с поклоном отвечает: «Смилуйся, государыня рыбка! Еще пуще старуха бранится, Не дает старику мне покою: Избу просит сварливая баба». Отвечает золотая рыбка: «Не печалься, ступай себе с богом, Так и быть: изба вам уж будет». Пошёл он ко своей землянке, А землянки нет уж и следа; Перед ним изба со светелкой, С кирпичною, беленою трубою, С дубовыми, тесовыми вороты. Старуха сидит под окошком, На чем свет стоит мужа ругает. «Дурачина ты, прямой простофиля! Выпросил, простофиля, избу! Воротись, поклонися рыбке: Не хочу быть черной крестьянкой, Хочу быть столбовою дворянкой». Пошел старик к синему морю; (Не спокойно синее море.) Стал он кликать золотую рыбку. Приплыла к нему рыбка, спросила: «Чего тебе надобно, старче?» Ей с поклоном старик отвечает: «Смилуйся, государыня рыбка! Пуще прежнего старуха вздурилась, Не дает старику мне покою: Уж не хочет быть она крестьянкой, Хочет быть столбовою дворянкой». Отвечает золотая рыбка: «Не печалься, ступай себе с богом». Воротился старик ко старухе. Что ж он видит? Высокий терем. На крыльце стоит его старуха В дорогой собольей душегрейке, Парчовая на маковке кичка, Жемчуги огрузили шею, На руках золотые перстни, На ногах красные сапожки. Перед нею усердные слуги; Она бьет их, за чупрун таскает. Говорит старик своей старухе: «Здравствуй, барыня сударыня дворянка! Чай, теперь твоя душенька довольна». На него прикрикнула старуха, На конюшне служить его послала. Вот неделя, другая проходит, Еще пуще старуха вздурилась: Опять к рыбке старика посылает. «Воротись, поклонися рыбке: Не хочу быть столбовою дворянкой, А хочу быть вольною царицей». Испугался старик, взмолился: «Что ты, баба, белены объелась? Ни ступить, ни молвить не умеешь, Насмешишь ты целое царство». Осердилася пуще старуха, По щеке ударила мужа. «Как ты смеешь, мужик, спорить со мною, Со мною, дворянкой столбовою? — Ступай к морю, говорят тебе честью, Не пойдешь, поведут поневоле». Старичок отправился к морю, (Почернело синее море.) Стал он кликать золотую рыбку. Приплыла к нему рыбка, спросила: «Чего тебе надобно, старче?» Ей с поклоном старик отвечает: «Смилуйся, государыня рыбка! Опять моя старуха бунтует: Уж не хочет быть она дворянкой, Хочет быть вольною царицей». Отвечает золотая рыбка: «Не печалься, ступай себе с богом! Добро! будет старуха царицей!» Старичок к старухе воротился. Что ж? пред ним царские палаты. В палатах видит свою старуху, За столом сидит она царицей, Служат ей бояре да дворяне, Наливают ей заморские вины; Заедает она пряником печатным; Вкруг ее стоит грозная стража, На плечах топорики держат. Как увидел старик, — испугался! В ноги он старухе поклонился, Молвил: «Здравствуй, грозная царица! Ну, теперь твоя душенька довольна». На него старуха не взглянула, Лишь с очей прогнать его велела. Подбежали бояре и дворяне, Старика взашеи затолкали. А в дверях-то стража подбежала, Топорами чуть не изрубила. А народ-то над ним насмеялся: «Поделом тебе, старый невежа! Впредь тебе, невежа, наука: Не садися не в свои сани!» Вот неделя, другая проходит, Еще пуще старуха вздурилась: Царедворцев за мужем посылает, Отыскали старика, привели к ней. Говорит старику старуха: «Воротись, поклонися рыбке. Не хочу быть вольною царицей, Хочу быть владычицей морскою, Чтобы жить мне в Окияне-море, Чтоб служила мне рыбка золотая И была б у меня на посылках». Старик не осмелился перечить, Не дерзнул поперек слова молвить. Вот идет он к синему морю, Видит, на море черная буря: Так и вздулись сердитые волны, Так и ходят, так воем и воют. Стал он кликать золотую рыбку. Приплыла к нему рыбка, спросила: «Чего тебе надобно, старче?» Ей старик с поклоном отвечает: «Смилуйся, государыня рыбка! Что мне делать с проклятою бабой? Уж не хочет быть она царицей, Хочет быть владычицей морскою; Чтобы жить ей в Окияне-море, Чтобы ты сама ей служила И была бы у ней на посылках». Ничего не сказала рыбка, Лишь хвостом по воде плеснула И ушла в глубокое море. Долго у моря ждал он ответа, Не дождался, к старухе воротился — Глядь: опять перед ним землянка; На пороге сидит его старуха, А пред нею разбитое корыто.",
+  "speakers": {
+    "narrator": {
+      "label": "TatanaLuke",
+      "readerId": "2"
+    }
+  },
+  "tokens": [
+    {
+      "index": 0,
+      "text": "Жил",
+      "normalizedText": "жил",
+      "start": 0.08,
+      "end": 0.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 1,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 0.32,
+      "end": 0.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 2,
+      "text": "со",
+      "normalizedText": "со",
+      "start": 0.82,
+      "end": 0.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 3,
+      "text": "своею",
+      "normalizedText": "своею",
+      "start": 1,
+      "end": 1.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 4,
+      "text": "старухой",
+      "normalizedText": "старухои",
+      "start": 1.48,
+      "end": 2.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 5,
+      "text": "У",
+      "normalizedText": "у",
+      "start": 2.72,
+      "end": 2.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 6,
+      "text": "самого",
+      "normalizedText": "самого",
+      "start": 2.88,
+      "end": 3.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 7,
+      "text": "синего",
+      "normalizedText": "синего",
+      "start": 3.4,
+      "end": 3.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "моря;",
+      "normalizedText": "моря",
+      "start": 3.96,
+      "end": 4.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 9,
+      "text": "Они",
+      "normalizedText": "они",
+      "start": 4.76,
+      "end": 5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 10,
+      "text": "жили",
+      "normalizedText": "жили",
+      "start": 5.06,
+      "end": 5.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 11,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 5.6,
+      "end": 5.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 12,
+      "text": "ветхой",
+      "normalizedText": "ветхои",
+      "start": 5.7,
+      "end": 6.03,
+      "speaker": "narrator"
+    },
+    {
+      "index": 13,
+      "text": "землянке",
+      "normalizedText": "землянке",
+      "start": 6.1,
+      "end": 6.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 14,
+      "text": "Ровно",
+      "normalizedText": "ровно",
+      "start": 7.5,
+      "end": 7.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 15,
+      "text": "тридцать",
+      "normalizedText": "тридцать",
+      "start": 7.88,
+      "end": 8.29,
+      "speaker": "narrator"
+    },
+    {
+      "index": 16,
+      "text": "лет",
+      "normalizedText": "лет",
+      "start": 8.36,
+      "end": 8.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 17,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 8.9,
+      "end": 8.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 18,
+      "text": "три",
+      "normalizedText": "три",
+      "start": 9.08,
+      "end": 9.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 19,
+      "text": "года.",
+      "normalizedText": "года",
+      "start": 9.34,
+      "end": 9.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 20,
+      "text": "Старик",
+      "normalizedText": "старик",
+      "start": 10.14,
+      "end": 10.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 21,
+      "text": "ловил",
+      "normalizedText": "ловил",
+      "start": 10.76,
+      "end": 11.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 22,
+      "text": "неводом",
+      "normalizedText": "неводом",
+      "start": 11.26,
+      "end": 11.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 23,
+      "text": "рыбу,",
+      "normalizedText": "рыбу",
+      "start": 11.9,
+      "end": 12.19,
+      "speaker": "narrator"
+    },
+    {
+      "index": 24,
+      "text": "Старуха",
+      "normalizedText": "старуха",
+      "start": 12.44,
+      "end": 13.03,
+      "speaker": "narrator"
+    },
+    {
+      "index": 25,
+      "text": "пряла",
+      "normalizedText": "пряла",
+      "start": 13.36,
+      "end": 13.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 26,
+      "text": "свою",
+      "normalizedText": "свою",
+      "start": 13.76,
+      "end": 14.17,
+      "speaker": "narrator"
+    },
+    {
+      "index": 27,
+      "text": "пряжу.",
+      "normalizedText": "пряжу",
+      "start": 14.2,
+      "end": 14.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 28,
+      "text": "Раз",
+      "normalizedText": "раз",
+      "start": 14.94,
+      "end": 15.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 29,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 15.42,
+      "end": 15.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 30,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 15.64,
+      "end": 15.65,
+      "speaker": "narrator"
+    },
+    {
+      "index": 31,
+      "text": "море",
+      "normalizedText": "море",
+      "start": 15.74,
+      "end": 16.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 32,
+      "text": "закинул",
+      "normalizedText": "закинул",
+      "start": 16.42,
+      "end": 17.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 33,
+      "text": "невод,",
+      "normalizedText": "невод",
+      "start": 17.1,
+      "end": 17.51,
+      "speaker": "narrator"
+    },
+    {
+      "index": 34,
+      "text": "— Пришел",
+      "normalizedText": "пришел",
+      "start": 17.84,
+      "end": 18.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 35,
+      "text": "невод",
+      "normalizedText": "невод",
+      "start": 18.52,
+      "end": 19.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 36,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 19.2,
+      "end": 19.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 37,
+      "text": "одною",
+      "normalizedText": "одною",
+      "start": 19.28,
+      "end": 19.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 38,
+      "text": "тиной.",
+      "normalizedText": "тинои",
+      "start": 19.82,
+      "end": 20.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 39,
+      "text": "Он",
+      "normalizedText": "он",
+      "start": 20.52,
+      "end": 20.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 40,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 20.72,
+      "end": 20.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 41,
+      "text": "другой",
+      "normalizedText": "другои",
+      "start": 20.82,
+      "end": 21.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 42,
+      "text": "раз",
+      "normalizedText": "раз",
+      "start": 21.32,
+      "end": 21.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 43,
+      "text": "закинул",
+      "normalizedText": "закинул",
+      "start": 21.96,
+      "end": 22.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 44,
+      "text": "невод,",
+      "normalizedText": "невод",
+      "start": 22.62,
+      "end": 22.97,
+      "speaker": "narrator"
+    },
+    {
+      "index": 45,
+      "text": "Пришел",
+      "normalizedText": "пришел",
+      "start": 23.24,
+      "end": 23.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 46,
+      "text": "невод",
+      "normalizedText": "невод",
+      "start": 23.8,
+      "end": 24.17,
+      "speaker": "narrator"
+    },
+    {
+      "index": 47,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 24.36,
+      "end": 24.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 48,
+      "text": "травой",
+      "normalizedText": "травои",
+      "start": 24.48,
+      "end": 24.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 49,
+      "text": "морскою.",
+      "normalizedText": "морскою",
+      "start": 24.88,
+      "end": 25.439,
+      "speaker": "narrator"
+    },
+    {
+      "index": 50,
+      "text": "В",
+      "normalizedText": "в",
+      "start": 25.74,
+      "end": 25.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 51,
+      "text": "третий",
+      "normalizedText": "третии",
+      "start": 25.9,
+      "end": 26.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 52,
+      "text": "раз",
+      "normalizedText": "раз",
+      "start": 26.34,
+      "end": 26.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 53,
+      "text": "закинул",
+      "normalizedText": "закинул",
+      "start": 26.84,
+      "end": 27.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 54,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 27.52,
+      "end": 27.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 55,
+      "text": "невод,",
+      "normalizedText": "невод",
+      "start": 27.76,
+      "end": 28.13,
+      "speaker": "narrator"
+    },
+    {
+      "index": 56,
+      "text": "— Пришел",
+      "normalizedText": "пришел",
+      "start": 28.66,
+      "end": 29.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 57,
+      "text": "невод",
+      "normalizedText": "невод",
+      "start": 29.26,
+      "end": 29.67,
+      "speaker": "narrator"
+    },
+    {
+      "index": 58,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 29.92,
+      "end": 29.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 59,
+      "text": "одною",
+      "normalizedText": "одною",
+      "start": 30,
+      "end": 30.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 60,
+      "text": "рыбкой,",
+      "normalizedText": "рыбкои",
+      "start": 30.46,
+      "end": 30.79,
+      "speaker": "narrator"
+    },
+    {
+      "index": 61,
+      "text": "С",
+      "normalizedText": "с",
+      "start": 31.06,
+      "end": 31.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 62,
+      "text": "непростою",
+      "normalizedText": "непростою",
+      "start": 31.16,
+      "end": 31.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 63,
+      "text": "рыбкой,",
+      "normalizedText": "рыбкои",
+      "start": 31.96,
+      "end": 32.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 64,
+      "text": "— золотою.",
+      "normalizedText": "золотою",
+      "start": 32.74,
+      "end": 33.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 65,
+      "text": "Как",
+      "normalizedText": "как",
+      "start": 34.24,
+      "end": 34.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 66,
+      "text": "взмолится",
+      "normalizedText": "взмолится",
+      "start": 34.5,
+      "end": 35.15,
+      "speaker": "narrator"
+    },
+    {
+      "index": 67,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 35.24,
+      "end": 35.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 68,
+      "text": "рыбка!",
+      "normalizedText": "рыбка",
+      "start": 35.88,
+      "end": 36.29,
+      "speaker": "narrator"
+    },
+    {
+      "index": 69,
+      "text": "Голосом",
+      "normalizedText": "голосом",
+      "start": 36.86,
+      "end": 37.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 70,
+      "text": "молвит",
+      "normalizedText": "молвит",
+      "start": 37.54,
+      "end": 37.93,
+      "speaker": "narrator"
+    },
+    {
+      "index": 71,
+      "text": "человечьим:",
+      "normalizedText": "человечьим",
+      "start": 38.02,
+      "end": 38.73,
+      "speaker": "narrator"
+    },
+    {
+      "index": 72,
+      "text": "«Отпусти",
+      "normalizedText": "отпусти",
+      "start": 39.53,
+      "end": 40.089,
+      "speaker": "narrator"
+    },
+    {
+      "index": 73,
+      "text": "ты,",
+      "normalizedText": "ты",
+      "start": 40.24,
+      "end": 40.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 74,
+      "text": "старче,",
+      "normalizedText": "старче",
+      "start": 40.34,
+      "end": 40.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 75,
+      "text": "меня",
+      "normalizedText": "меня",
+      "start": 40.92,
+      "end": 41.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 76,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 41.24,
+      "end": 41.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 77,
+      "text": "море,",
+      "normalizedText": "море",
+      "start": 41.38,
+      "end": 41.65,
+      "speaker": "narrator"
+    },
+    {
+      "index": 78,
+      "text": "Дорогой",
+      "normalizedText": "дорогои",
+      "start": 41.98,
+      "end": 42.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 79,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 42.46,
+      "end": 42.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 80,
+      "text": "себя",
+      "normalizedText": "себя",
+      "start": 42.64,
+      "end": 42.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 81,
+      "text": "дам",
+      "normalizedText": "дам",
+      "start": 43.02,
+      "end": 43.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 82,
+      "text": "откуп:",
+      "normalizedText": "откуп",
+      "start": 43.4,
+      "end": 43.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 83,
+      "text": "Откуплюсь",
+      "normalizedText": "откуплюсь",
+      "start": 44.1,
+      "end": 44.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 84,
+      "text": "чем",
+      "normalizedText": "чем",
+      "start": 44.92,
+      "end": 45.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 85,
+      "text": "только",
+      "normalizedText": "только",
+      "start": 45.12,
+      "end": 45.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 86,
+      "text": "пожелаешь.»",
+      "normalizedText": "пожелаешь",
+      "start": 45.52,
+      "end": 46.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 87,
+      "text": "Удивился",
+      "normalizedText": "удивился",
+      "start": 47.2,
+      "end": 47.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 88,
+      "text": "старик,",
+      "normalizedText": "старик",
+      "start": 47.8,
+      "end": 48.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 89,
+      "text": "испугался:",
+      "normalizedText": "испугался",
+      "start": 48.4,
+      "end": 49.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 90,
+      "text": "Он",
+      "normalizedText": "он",
+      "start": 49.96,
+      "end": 50.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 91,
+      "text": "рыбачил",
+      "normalizedText": "рыбачил",
+      "start": 50.18,
+      "end": 50.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 92,
+      "text": "тридцать",
+      "normalizedText": "тридцать",
+      "start": 50.72,
+      "end": 51.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 93,
+      "text": "лет",
+      "normalizedText": "лет",
+      "start": 51.18,
+      "end": 51.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 94,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 51.5,
+      "end": 51.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 95,
+      "text": "три",
+      "normalizedText": "три",
+      "start": 51.64,
+      "end": 51.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 96,
+      "text": "года",
+      "normalizedText": "года",
+      "start": 51.86,
+      "end": 52.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 97,
+      "text": "И",
+      "normalizedText": "и",
+      "start": 52.76,
+      "end": 52.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 98,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 52.88,
+      "end": 53,
+      "speaker": "narrator"
+    },
+    {
+      "index": 99,
+      "text": "слыхивал,",
+      "normalizedText": "слыхивал",
+      "start": 53.02,
+      "end": 53.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 100,
+      "text": "чтоб",
+      "normalizedText": "чтоб",
+      "start": 53.84,
+      "end": 54.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 101,
+      "text": "рыба",
+      "normalizedText": "рыба",
+      "start": 54.08,
+      "end": 54.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 102,
+      "text": "говорила.",
+      "normalizedText": "говорила",
+      "start": 54.38,
+      "end": 54.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 103,
+      "text": "Отпустил",
+      "normalizedText": "отпустил",
+      "start": 55.94,
+      "end": 56.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 104,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 56.62,
+      "end": 56.71,
+      "speaker": "narrator"
+    },
+    {
+      "index": 105,
+      "text": "рыбку",
+      "normalizedText": "рыбку",
+      "start": 56.78,
+      "end": 57.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 106,
+      "text": "золотую",
+      "normalizedText": "золотую",
+      "start": 57.16,
+      "end": 58.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 107,
+      "text": "И",
+      "normalizedText": "и",
+      "start": 58.24,
+      "end": 58.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 108,
+      "text": "сказал",
+      "normalizedText": "сказал",
+      "start": 58.36,
+      "end": 58.839,
+      "speaker": "narrator"
+    },
+    {
+      "index": 109,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 58.92,
+      "end": 59.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 110,
+      "text": "ласковое",
+      "normalizedText": "ласковое",
+      "start": 59.08,
+      "end": 59.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 111,
+      "text": "слово:",
+      "normalizedText": "слово",
+      "start": 59.82,
+      "end": 60.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 112,
+      "text": "«Бог",
+      "normalizedText": "бог",
+      "start": 60.949,
+      "end": 61.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 113,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 61.2,
+      "end": 61.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 114,
+      "text": "тобою,",
+      "normalizedText": "тобою",
+      "start": 61.3,
+      "end": 61.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 115,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 61.84,
+      "end": 62.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 116,
+      "text": "рыбка!",
+      "normalizedText": "рыбка",
+      "start": 62.38,
+      "end": 62.769,
+      "speaker": "narrator"
+    },
+    {
+      "index": 117,
+      "text": "Твоего",
+      "normalizedText": "твоего",
+      "start": 63.29,
+      "end": 63.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 118,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 63.78,
+      "end": 63.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 119,
+      "text": "откупа",
+      "normalizedText": "откупа",
+      "start": 64.06,
+      "end": 64.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 120,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 64.519,
+      "end": 64.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 121,
+      "text": "надо;",
+      "normalizedText": "надо",
+      "start": 64.7,
+      "end": 65.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 122,
+      "text": "Ступай",
+      "normalizedText": "ступаи",
+      "start": 65.22,
+      "end": 65.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 123,
+      "text": "себе",
+      "normalizedText": "себе",
+      "start": 65.96,
+      "end": 66.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 124,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 66.28,
+      "end": 66.29,
+      "speaker": "narrator"
+    },
+    {
+      "index": 125,
+      "text": "синее",
+      "normalizedText": "синее",
+      "start": 66.4,
+      "end": 66.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 126,
+      "text": "море,",
+      "normalizedText": "море",
+      "start": 66.94,
+      "end": 67.27,
+      "speaker": "narrator"
+    },
+    {
+      "index": 127,
+      "text": "Гуляй",
+      "normalizedText": "гуляи",
+      "start": 67.64,
+      "end": 68.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 128,
+      "text": "там",
+      "normalizedText": "там",
+      "start": 68.12,
+      "end": 68.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 129,
+      "text": "себе",
+      "normalizedText": "себе",
+      "start": 68.36,
+      "end": 68.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 130,
+      "text": "на",
+      "normalizedText": "на",
+      "start": 68.62,
+      "end": 68.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 131,
+      "text": "просторе».",
+      "normalizedText": "просторе",
+      "start": 68.8,
+      "end": 69.35,
+      "speaker": "narrator"
+    },
+    {
+      "index": 132,
+      "text": "Воротился",
+      "normalizedText": "воротился",
+      "start": 70.31,
+      "end": 70.91,
+      "speaker": "narrator"
+    },
+    {
+      "index": 133,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 70.98,
+      "end": 71.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 134,
+      "text": "ко",
+      "normalizedText": "ко",
+      "start": 71.4,
+      "end": 71.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 135,
+      "text": "старухе,",
+      "normalizedText": "старухе",
+      "start": 71.54,
+      "end": 72.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 136,
+      "text": "Рассказал",
+      "normalizedText": "рассказал",
+      "start": 72.74,
+      "end": 73.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 137,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 73.38,
+      "end": 73.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 138,
+      "text": "великое",
+      "normalizedText": "великое",
+      "start": 73.56,
+      "end": 74.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 139,
+      "text": "чудо.",
+      "normalizedText": "чудо",
+      "start": 74.24,
+      "end": 75.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 140,
+      "text": "«Я",
+      "normalizedText": "я",
+      "start": 75.41,
+      "end": 75.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 141,
+      "text": "сегодня",
+      "normalizedText": "сегодня",
+      "start": 75.64,
+      "end": 76.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 142,
+      "text": "поймал",
+      "normalizedText": "поимал",
+      "start": 76.34,
+      "end": 76.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 143,
+      "text": "было",
+      "normalizedText": "было",
+      "start": 76.8,
+      "end": 77.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 144,
+      "text": "рыбку,",
+      "normalizedText": "рыбку",
+      "start": 77.08,
+      "end": 77.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 145,
+      "text": "Золотую",
+      "normalizedText": "золотую",
+      "start": 78.16,
+      "end": 78.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 146,
+      "text": "рыбку,",
+      "normalizedText": "рыбку",
+      "start": 78.84,
+      "end": 79.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 147,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 79.28,
+      "end": 79.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 148,
+      "text": "простую;",
+      "normalizedText": "простую",
+      "start": 79.44,
+      "end": 80.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 149,
+      "text": "По-нашему",
+      "normalizedText": "по-нашему",
+      "start": 80.891,
+      "end": 81.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 150,
+      "text": "говорила",
+      "normalizedText": "говорила",
+      "start": 81.6,
+      "end": 82.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 151,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 82.14,
+      "end": 82.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 152,
+      "text": "Домой",
+      "normalizedText": "домои",
+      "start": 83.3,
+      "end": 83.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 153,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 83.72,
+      "end": 83.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 154,
+      "text": "море",
+      "normalizedText": "море",
+      "start": 83.82,
+      "end": 84.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 155,
+      "text": "синее",
+      "normalizedText": "синее",
+      "start": 84.18,
+      "end": 84.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 156,
+      "text": "просилась,",
+      "normalizedText": "просилась",
+      "start": 84.64,
+      "end": 85.33,
+      "speaker": "narrator"
+    },
+    {
+      "index": 157,
+      "text": "Дорогою",
+      "normalizedText": "дорогою",
+      "start": 85.64,
+      "end": 86.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 158,
+      "text": "ценою",
+      "normalizedText": "ценою",
+      "start": 86.26,
+      "end": 86.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 159,
+      "text": "откупалась:",
+      "normalizedText": "откупалась",
+      "start": 86.74,
+      "end": 87.51,
+      "speaker": "narrator"
+    },
+    {
+      "index": 160,
+      "text": "Откупалась",
+      "normalizedText": "откупалась",
+      "start": 88.18,
+      "end": 88.93,
+      "speaker": "narrator"
+    },
+    {
+      "index": 161,
+      "text": "чем",
+      "normalizedText": "чем",
+      "start": 89.22,
+      "end": 89.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 162,
+      "text": "только",
+      "normalizedText": "только",
+      "start": 89.46,
+      "end": 89.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 163,
+      "text": "пожелаю.",
+      "normalizedText": "пожелаю",
+      "start": 89.88,
+      "end": 90.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 164,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 91.34,
+      "end": 91.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 165,
+      "text": "посмел",
+      "normalizedText": "посмел",
+      "start": 91.5,
+      "end": 91.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 166,
+      "text": "я",
+      "normalizedText": "я",
+      "start": 92,
+      "end": 92.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 167,
+      "text": "взять",
+      "normalizedText": "взять",
+      "start": 92.12,
+      "end": 92.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 168,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 92.44,
+      "end": 92.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 169,
+      "text": "нее",
+      "normalizedText": "нее",
+      "start": 92.56,
+      "end": 92.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 170,
+      "text": "выкуп;",
+      "normalizedText": "выкуп",
+      "start": 92.82,
+      "end": 93.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 171,
+      "text": "Так",
+      "normalizedText": "так",
+      "start": 93.5,
+      "end": 93.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 172,
+      "text": "пустил",
+      "normalizedText": "пустил",
+      "start": 93.74,
+      "end": 94.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 173,
+      "text": "ее",
+      "normalizedText": "ее",
+      "start": 94.38,
+      "end": 94.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 174,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 94.92,
+      "end": 94.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 175,
+      "text": "синее",
+      "normalizedText": "синее",
+      "start": 95.06,
+      "end": 95.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 176,
+      "text": "море».",
+      "normalizedText": "море",
+      "start": 95.62,
+      "end": 95.87,
+      "speaker": "narrator"
+    },
+    {
+      "index": 177,
+      "text": "Старика",
+      "normalizedText": "старика",
+      "start": 96.3,
+      "end": 96.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 178,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 96.74,
+      "end": 97.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 179,
+      "text": "забранила:",
+      "normalizedText": "забранила",
+      "start": 97.22,
+      "end": 97.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 180,
+      "text": "«Дурачина",
+      "normalizedText": "дурачина",
+      "start": 98.42,
+      "end": 99.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 181,
+      "text": "ты,",
+      "normalizedText": "ты",
+      "start": 99.1,
+      "end": 99.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 182,
+      "text": "простофиля!",
+      "normalizedText": "простофиля",
+      "start": 99.24,
+      "end": 99.87,
+      "speaker": "narrator"
+    },
+    {
+      "index": 183,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 100.42,
+      "end": 100.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 184,
+      "text": "умел",
+      "normalizedText": "умел",
+      "start": 100.54,
+      "end": 100.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 185,
+      "text": "ты",
+      "normalizedText": "ты",
+      "start": 100.94,
+      "end": 101.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 186,
+      "text": "взять",
+      "normalizedText": "взять",
+      "start": 101.06,
+      "end": 101.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 187,
+      "text": "выкупа",
+      "normalizedText": "выкупа",
+      "start": 101.42,
+      "end": 101.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 188,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 101.9,
+      "end": 101.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 189,
+      "text": "рыбки!",
+      "normalizedText": "рыбки",
+      "start": 102,
+      "end": 102.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 190,
+      "text": "Хоть",
+      "normalizedText": "хоть",
+      "start": 102.82,
+      "end": 103.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 191,
+      "text": "бы",
+      "normalizedText": "бы",
+      "start": 103.06,
+      "end": 103.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 192,
+      "text": "взял",
+      "normalizedText": "взял",
+      "start": 103.2,
+      "end": 103.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 193,
+      "text": "ты",
+      "normalizedText": "ты",
+      "start": 103.54,
+      "end": 103.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 194,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 103.7,
+      "end": 103.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 195,
+      "text": "нее",
+      "normalizedText": "нее",
+      "start": 103.78,
+      "end": 104.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 196,
+      "text": "корыто,",
+      "normalizedText": "корыто",
+      "start": 104.1,
+      "end": 104.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 197,
+      "text": "Наше-то",
+      "normalizedText": "наше-то",
+      "start": 105.16,
+      "end": 105.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 198,
+      "text": "совсем",
+      "normalizedText": "совсем",
+      "start": 105.84,
+      "end": 106.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 199,
+      "text": "раскололось».",
+      "normalizedText": "раскололось",
+      "start": 106.28,
+      "end": 106.97,
+      "speaker": "narrator"
+    },
+    {
+      "index": 200,
+      "text": "Вот",
+      "normalizedText": "вот",
+      "start": 107.84,
+      "end": 108.039,
+      "speaker": "narrator"
+    },
+    {
+      "index": 201,
+      "text": "пошел",
+      "normalizedText": "пошел",
+      "start": 108.08,
+      "end": 108.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 202,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 108.48,
+      "end": 108.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 203,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 108.6,
+      "end": 108.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 204,
+      "text": "синему",
+      "normalizedText": "синему",
+      "start": 108.74,
+      "end": 109.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 205,
+      "text": "морю;",
+      "normalizedText": "морю",
+      "start": 109.24,
+      "end": 109.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 206,
+      "text": "Видит,",
+      "normalizedText": "видит",
+      "start": 110.18,
+      "end": 110.59,
+      "speaker": "narrator"
+    },
+    {
+      "index": 207,
+      "text": "— море",
+      "normalizedText": "море",
+      "start": 111.08,
+      "end": 111.39,
+      "speaker": "narrator"
+    },
+    {
+      "index": 208,
+      "text": "слегка",
+      "normalizedText": "слегка",
+      "start": 111.48,
+      "end": 111.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 209,
+      "text": "разыгралось.",
+      "normalizedText": "разыгралось",
+      "start": 111.9,
+      "end": 112.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 210,
+      "text": "Стал",
+      "normalizedText": "стал",
+      "start": 113.46,
+      "end": 113.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 211,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 113.72,
+      "end": 113.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 212,
+      "text": "кликать",
+      "normalizedText": "кликать",
+      "start": 113.88,
+      "end": 114.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 213,
+      "text": "золотую",
+      "normalizedText": "золотую",
+      "start": 114.26,
+      "end": 114.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 214,
+      "text": "рыбку,",
+      "normalizedText": "рыбку",
+      "start": 114.86,
+      "end": 115.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 215,
+      "text": "Приплыла",
+      "normalizedText": "приплыла",
+      "start": 115.9,
+      "end": 116.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 216,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 116.46,
+      "end": 116.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 217,
+      "text": "нему",
+      "normalizedText": "нему",
+      "start": 116.56,
+      "end": 116.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 218,
+      "text": "рыбка",
+      "normalizedText": "рыбка",
+      "start": 116.82,
+      "end": 117.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 219,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 117.28,
+      "end": 117.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 220,
+      "text": "спросила:",
+      "normalizedText": "спросила",
+      "start": 117.44,
+      "end": 117.99,
+      "speaker": "narrator"
+    },
+    {
+      "index": 221,
+      "text": "«Чего",
+      "normalizedText": "чего",
+      "start": 118.63,
+      "end": 118.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 222,
+      "text": "тебе",
+      "normalizedText": "тебе",
+      "start": 118.96,
+      "end": 119.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 223,
+      "text": "надобно,",
+      "normalizedText": "надобно",
+      "start": 119.24,
+      "end": 119.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 224,
+      "text": "старче?»",
+      "normalizedText": "старче",
+      "start": 119.78,
+      "end": 120.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 225,
+      "text": "Ей",
+      "normalizedText": "еи",
+      "start": 121.18,
+      "end": 121.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 226,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 121.36,
+      "end": 121.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 227,
+      "text": "поклоном",
+      "normalizedText": "поклоном",
+      "start": 121.46,
+      "end": 122.03,
+      "speaker": "narrator"
+    },
+    {
+      "index": 228,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 122.1,
+      "end": 122.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 229,
+      "text": "отвечает:",
+      "normalizedText": "отвечает",
+      "start": 122.52,
+      "end": 123.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 230,
+      "text": "«Смилуйся,",
+      "normalizedText": "смилуися",
+      "start": 123.82,
+      "end": 124.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 231,
+      "text": "государыня",
+      "normalizedText": "государыня",
+      "start": 124.56,
+      "end": 125.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 232,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 125.3,
+      "end": 125.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 233,
+      "text": "Разбранила",
+      "normalizedText": "разбранила",
+      "start": 126.18,
+      "end": 126.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 234,
+      "text": "меня",
+      "normalizedText": "меня",
+      "start": 126.9,
+      "end": 127.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 235,
+      "text": "моя",
+      "normalizedText": "моя",
+      "start": 127.24,
+      "end": 127.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 236,
+      "text": "старуха,",
+      "normalizedText": "старуха",
+      "start": 127.52,
+      "end": 128.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 237,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 128.66,
+      "end": 128.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 238,
+      "text": "дает",
+      "normalizedText": "дает",
+      "start": 128.8,
+      "end": 129.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 239,
+      "text": "старику",
+      "normalizedText": "старику",
+      "start": 129.16,
+      "end": 129.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 240,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 129.68,
+      "end": 129.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 241,
+      "text": "покою:",
+      "normalizedText": "покою",
+      "start": 129.84,
+      "end": 130.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 242,
+      "text": "Надобно",
+      "normalizedText": "надобно",
+      "start": 131.14,
+      "end": 131.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 243,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 131.68,
+      "end": 131.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 244,
+      "text": "новое",
+      "normalizedText": "новое",
+      "start": 131.84,
+      "end": 132.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 245,
+      "text": "корыто;",
+      "normalizedText": "корыто",
+      "start": 132.3,
+      "end": 132.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 246,
+      "text": "Наше-то",
+      "normalizedText": "наше-то",
+      "start": 133.36,
+      "end": 133.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 247,
+      "text": "совсем",
+      "normalizedText": "совсем",
+      "start": 134.06,
+      "end": 134.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 248,
+      "text": "раскололось».",
+      "normalizedText": "раскололось",
+      "start": 134.5,
+      "end": 135.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 249,
+      "text": "Отвечает",
+      "normalizedText": "отвечает",
+      "start": 136.02,
+      "end": 136.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 250,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 136.68,
+      "end": 137.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 251,
+      "text": "рыбка:",
+      "normalizedText": "рыбка",
+      "start": 137.26,
+      "end": 137.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 252,
+      "text": "«Не",
+      "normalizedText": "не",
+      "start": 138.13,
+      "end": 138.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 253,
+      "text": "печалься,",
+      "normalizedText": "печалься",
+      "start": 138.32,
+      "end": 138.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 254,
+      "text": "ступай",
+      "normalizedText": "ступаи",
+      "start": 139.5,
+      "end": 139.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 255,
+      "text": "себе",
+      "normalizedText": "себе",
+      "start": 140,
+      "end": 140.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 256,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 140.28,
+      "end": 140.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 257,
+      "text": "богом,",
+      "normalizedText": "богом",
+      "start": 140.4,
+      "end": 140.75,
+      "speaker": "narrator"
+    },
+    {
+      "index": 258,
+      "text": "Будет",
+      "normalizedText": "будет",
+      "start": 141.34,
+      "end": 141.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 259,
+      "text": "вам",
+      "normalizedText": "вам",
+      "start": 141.72,
+      "end": 141.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 260,
+      "text": "новое",
+      "normalizedText": "новое",
+      "start": 141.92,
+      "end": 142.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 261,
+      "text": "корыто».",
+      "normalizedText": "корыто",
+      "start": 142.4,
+      "end": 142.85,
+      "speaker": "narrator"
+    },
+    {
+      "index": 262,
+      "text": "Воротился",
+      "normalizedText": "воротился",
+      "start": 143.56,
+      "end": 144.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 263,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 144.18,
+      "end": 144.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 264,
+      "text": "ко",
+      "normalizedText": "ко",
+      "start": 144.54,
+      "end": 144.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 265,
+      "text": "старухе,",
+      "normalizedText": "старухе",
+      "start": 144.66,
+      "end": 145.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 266,
+      "text": "У",
+      "normalizedText": "у",
+      "start": 145.88,
+      "end": 145.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 267,
+      "text": "старухи",
+      "normalizedText": "старухи",
+      "start": 146.02,
+      "end": 146.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 268,
+      "text": "новое",
+      "normalizedText": "новое",
+      "start": 146.82,
+      "end": 147.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 269,
+      "text": "корыто.",
+      "normalizedText": "корыто",
+      "start": 147.26,
+      "end": 148.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 270,
+      "text": "Еще",
+      "normalizedText": "еще",
+      "start": 148.58,
+      "end": 148.829,
+      "speaker": "narrator"
+    },
+    {
+      "index": 271,
+      "text": "пуще",
+      "normalizedText": "пуще",
+      "start": 149,
+      "end": 149.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 272,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 149.44,
+      "end": 149.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 273,
+      "text": "бранится:",
+      "normalizedText": "бранится",
+      "start": 149.891,
+      "end": 150.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 274,
+      "text": "«Дурачина",
+      "normalizedText": "дурачина",
+      "start": 151.08,
+      "end": 151.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 275,
+      "text": "ты,",
+      "normalizedText": "ты",
+      "start": 151.76,
+      "end": 151.829,
+      "speaker": "narrator"
+    },
+    {
+      "index": 276,
+      "text": "простофиля!",
+      "normalizedText": "простофиля",
+      "start": 151.92,
+      "end": 152.609,
+      "speaker": "narrator"
+    },
+    {
+      "index": 277,
+      "text": "Выпросил,",
+      "normalizedText": "выпросил",
+      "start": 153.2,
+      "end": 153.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 278,
+      "text": "дурачина,",
+      "normalizedText": "дурачина",
+      "start": 153.82,
+      "end": 154.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 279,
+      "text": "корыто!",
+      "normalizedText": "корыто",
+      "start": 154.46,
+      "end": 154.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 280,
+      "text": "В",
+      "normalizedText": "в",
+      "start": 155.5,
+      "end": 155.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 281,
+      "text": "корыте",
+      "normalizedText": "корыте",
+      "start": 155.62,
+      "end": 156.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 282,
+      "text": "много",
+      "normalizedText": "много",
+      "start": 156.1,
+      "end": 156.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 283,
+      "text": "ль",
+      "normalizedText": "ль",
+      "start": 156.42,
+      "end": 156.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 284,
+      "text": "корысти?",
+      "normalizedText": "корысти",
+      "start": 156.54,
+      "end": 157.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 285,
+      "text": "Воротись,",
+      "normalizedText": "воротись",
+      "start": 157.78,
+      "end": 158.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 286,
+      "text": "дурачина,",
+      "normalizedText": "дурачина",
+      "start": 158.28,
+      "end": 158.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 287,
+      "text": "ты",
+      "normalizedText": "ты",
+      "start": 158.88,
+      "end": 158.93,
+      "speaker": "narrator"
+    },
+    {
+      "index": 288,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 159,
+      "end": 159.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 289,
+      "text": "рыбке;",
+      "normalizedText": "рыбке",
+      "start": 159.08,
+      "end": 159.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 290,
+      "text": "Поклонись",
+      "normalizedText": "поклонись",
+      "start": 159.94,
+      "end": 160.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 291,
+      "text": "ей,",
+      "normalizedText": "еи",
+      "start": 160.66,
+      "end": 160.75,
+      "speaker": "narrator"
+    },
+    {
+      "index": 292,
+      "text": "выпроси",
+      "normalizedText": "выпроси",
+      "start": 161.16,
+      "end": 161.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 293,
+      "text": "уж",
+      "normalizedText": "уж",
+      "start": 161.74,
+      "end": 161.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 294,
+      "text": "избу».",
+      "normalizedText": "избу",
+      "start": 162.08,
+      "end": 162.489,
+      "speaker": "narrator"
+    },
+    {
+      "index": 295,
+      "text": "Вот",
+      "normalizedText": "вот",
+      "start": 163.24,
+      "end": 163.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 296,
+      "text": "пошел",
+      "normalizedText": "пошел",
+      "start": 163.48,
+      "end": 163.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 297,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 163.84,
+      "end": 163.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 298,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 163.98,
+      "end": 164,
+      "speaker": "narrator"
+    },
+    {
+      "index": 299,
+      "text": "синему",
+      "normalizedText": "синему",
+      "start": 164.1,
+      "end": 164.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 300,
+      "text": "морю,",
+      "normalizedText": "морю",
+      "start": 164.58,
+      "end": 164.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 301,
+      "text": "(Помутилося",
+      "normalizedText": "помутилося",
+      "start": 165.39,
+      "end": 166.895,
+      "speaker": "narrator"
+    },
+    {
+      "index": 302,
+      "text": "синее",
+      "normalizedText": "синее",
+      "start": 166.895,
+      "end": 167.648,
+      "speaker": "narrator"
+    },
+    {
+      "index": 303,
+      "text": "море.)",
+      "normalizedText": "море",
+      "start": 167.648,
+      "end": 168.25,
+      "speaker": "narrator"
+    },
+    {
+      "index": 304,
+      "text": "Стал",
+      "normalizedText": "стал",
+      "start": 168.4,
+      "end": 168.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 305,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 168.8,
+      "end": 168.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 306,
+      "text": "кликать",
+      "normalizedText": "кликать",
+      "start": 169.02,
+      "end": 169.489,
+      "speaker": "narrator"
+    },
+    {
+      "index": 307,
+      "text": "золотую",
+      "normalizedText": "золотую",
+      "start": 169.54,
+      "end": 170.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 308,
+      "text": "рыбку,",
+      "normalizedText": "рыбку",
+      "start": 170.26,
+      "end": 170.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 309,
+      "text": "Приплыла",
+      "normalizedText": "приплыла",
+      "start": 171.24,
+      "end": 171.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 310,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 171.84,
+      "end": 171.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 311,
+      "text": "нему",
+      "normalizedText": "нему",
+      "start": 171.96,
+      "end": 172.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 312,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 172.24,
+      "end": 172.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 313,
+      "text": "спросила:",
+      "normalizedText": "спросила",
+      "start": 172.9,
+      "end": 173.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 314,
+      "text": "«Чего",
+      "normalizedText": "чего",
+      "start": 174.2,
+      "end": 174.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 315,
+      "text": "тебе",
+      "normalizedText": "тебе",
+      "start": 174.6,
+      "end": 174.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 316,
+      "text": "надобно,",
+      "normalizedText": "надобно",
+      "start": 174.88,
+      "end": 175.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 317,
+      "text": "старче?»",
+      "normalizedText": "старче",
+      "start": 175.48,
+      "end": 175.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 318,
+      "text": "Ей",
+      "normalizedText": "еи",
+      "start": 176.88,
+      "end": 177.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 319,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 177.04,
+      "end": 177.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 320,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 177.52,
+      "end": 177.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 321,
+      "text": "поклоном",
+      "normalizedText": "поклоном",
+      "start": 177.62,
+      "end": 178.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 322,
+      "text": "отвечает:",
+      "normalizedText": "отвечает",
+      "start": 178.18,
+      "end": 178.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 323,
+      "text": "«Смилуйся,",
+      "normalizedText": "смилуися",
+      "start": 179.48,
+      "end": 180.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 324,
+      "text": "государыня",
+      "normalizedText": "государыня",
+      "start": 180.28,
+      "end": 181.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 325,
+      "text": "рыбка!",
+      "normalizedText": "рыбка",
+      "start": 181.1,
+      "end": 181.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 326,
+      "text": "Еще",
+      "normalizedText": "еще",
+      "start": 182.16,
+      "end": 182.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 327,
+      "text": "пуще",
+      "normalizedText": "пуще",
+      "start": 182.64,
+      "end": 183.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 328,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 183.08,
+      "end": 183.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 329,
+      "text": "бранится,",
+      "normalizedText": "бранится",
+      "start": 183.7,
+      "end": 184.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 330,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 184.88,
+      "end": 184.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 331,
+      "text": "дает",
+      "normalizedText": "дает",
+      "start": 185,
+      "end": 185.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 332,
+      "text": "старику",
+      "normalizedText": "старику",
+      "start": 185.4,
+      "end": 185.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 333,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 185.94,
+      "end": 186.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 334,
+      "text": "покою:",
+      "normalizedText": "покою",
+      "start": 186.18,
+      "end": 186.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 335,
+      "text": "Избу",
+      "normalizedText": "избу",
+      "start": 187.34,
+      "end": 187.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 336,
+      "text": "просит",
+      "normalizedText": "просит",
+      "start": 187.92,
+      "end": 188.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 337,
+      "text": "сварливая",
+      "normalizedText": "сварливая",
+      "start": 188.44,
+      "end": 189.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 338,
+      "text": "баба».",
+      "normalizedText": "баба",
+      "start": 189.16,
+      "end": 189.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 339,
+      "text": "Отвечает",
+      "normalizedText": "отвечает",
+      "start": 190.44,
+      "end": 191.09,
+      "speaker": "narrator"
+    },
+    {
+      "index": 340,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 191.16,
+      "end": 191.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 341,
+      "text": "рыбка:",
+      "normalizedText": "рыбка",
+      "start": 191.76,
+      "end": 192.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 342,
+      "text": "«Не",
+      "normalizedText": "не",
+      "start": 192.7,
+      "end": 192.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 343,
+      "text": "печалься,",
+      "normalizedText": "печалься",
+      "start": 192.92,
+      "end": 193.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 344,
+      "text": "ступай",
+      "normalizedText": "ступаи",
+      "start": 194.06,
+      "end": 194.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 345,
+      "text": "себе",
+      "normalizedText": "себе",
+      "start": 194.64,
+      "end": 194.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 346,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 194.96,
+      "end": 195,
+      "speaker": "narrator"
+    },
+    {
+      "index": 347,
+      "text": "богом,",
+      "normalizedText": "богом",
+      "start": 195.12,
+      "end": 195.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 348,
+      "text": "Так",
+      "normalizedText": "так",
+      "start": 195.92,
+      "end": 196.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 349,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 196.14,
+      "end": 196.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 350,
+      "text": "быть:",
+      "normalizedText": "быть",
+      "start": 196.28,
+      "end": 196.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 351,
+      "text": "изба",
+      "normalizedText": "изба",
+      "start": 197.12,
+      "end": 197.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 352,
+      "text": "вам",
+      "normalizedText": "вам",
+      "start": 197.6,
+      "end": 197.75,
+      "speaker": "narrator"
+    },
+    {
+      "index": 353,
+      "text": "уж",
+      "normalizedText": "уж",
+      "start": 197.8,
+      "end": 198,
+      "speaker": "narrator"
+    },
+    {
+      "index": 354,
+      "text": "будет».",
+      "normalizedText": "будет",
+      "start": 198.06,
+      "end": 198.45,
+      "speaker": "narrator"
+    },
+    {
+      "index": 355,
+      "text": "Пошёл",
+      "normalizedText": "пошел",
+      "start": 199.6,
+      "end": 200.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 356,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 200.08,
+      "end": 200.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 357,
+      "text": "ко",
+      "normalizedText": "ко",
+      "start": 200.24,
+      "end": 200.37,
+      "speaker": "narrator"
+    },
+    {
+      "index": 358,
+      "text": "своей",
+      "normalizedText": "своеи",
+      "start": 200.38,
+      "end": 200.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 359,
+      "text": "землянке,",
+      "normalizedText": "землянке",
+      "start": 200.8,
+      "end": 201.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 360,
+      "text": "А",
+      "normalizedText": "а",
+      "start": 202.06,
+      "end": 202.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 361,
+      "text": "землянки",
+      "normalizedText": "землянки",
+      "start": 202.18,
+      "end": 202.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 362,
+      "text": "нет",
+      "normalizedText": "нет",
+      "start": 203.16,
+      "end": 203.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 363,
+      "text": "уж",
+      "normalizedText": "уж",
+      "start": 203.4,
+      "end": 203.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 364,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 203.56,
+      "end": 203.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 365,
+      "text": "следа;",
+      "normalizedText": "следа",
+      "start": 203.66,
+      "end": 204.07,
+      "speaker": "narrator"
+    },
+    {
+      "index": 366,
+      "text": "Перед",
+      "normalizedText": "перед",
+      "start": 204.84,
+      "end": 205.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 367,
+      "text": "ним",
+      "normalizedText": "ним",
+      "start": 205.16,
+      "end": 205.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 368,
+      "text": "изба",
+      "normalizedText": "изба",
+      "start": 205.48,
+      "end": 205.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 369,
+      "text": "со",
+      "normalizedText": "со",
+      "start": 206,
+      "end": 206.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 370,
+      "text": "светелкой,",
+      "normalizedText": "светелкои",
+      "start": 206.16,
+      "end": 206.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 371,
+      "text": "С",
+      "normalizedText": "с",
+      "start": 207.4,
+      "end": 207.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 372,
+      "text": "кирпичною,",
+      "normalizedText": "кирпичною",
+      "start": 207.52,
+      "end": 208.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 373,
+      "text": "беленою",
+      "normalizedText": "беленою",
+      "start": 208.44,
+      "end": 208.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 374,
+      "text": "трубою,",
+      "normalizedText": "трубою",
+      "start": 209.08,
+      "end": 209.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 375,
+      "text": "С",
+      "normalizedText": "с",
+      "start": 210.24,
+      "end": 210.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 376,
+      "text": "дубовыми,",
+      "normalizedText": "дубовыми",
+      "start": 210.38,
+      "end": 211.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 377,
+      "text": "тесовыми",
+      "normalizedText": "тесовыми",
+      "start": 211.18,
+      "end": 211.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 378,
+      "text": "вороты.",
+      "normalizedText": "вороты",
+      "start": 211.86,
+      "end": 212.35,
+      "speaker": "narrator"
+    },
+    {
+      "index": 379,
+      "text": "Старуха",
+      "normalizedText": "старуха",
+      "start": 213.42,
+      "end": 214.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 380,
+      "text": "сидит",
+      "normalizedText": "сидит",
+      "start": 214.12,
+      "end": 214.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 381,
+      "text": "под",
+      "normalizedText": "под",
+      "start": 214.54,
+      "end": 214.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 382,
+      "text": "окошком,",
+      "normalizedText": "окошком",
+      "start": 214.72,
+      "end": 215.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 383,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 215.9,
+      "end": 215.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 384,
+      "text": "чем",
+      "normalizedText": "чем",
+      "start": 216.04,
+      "end": 216.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 385,
+      "text": "свет",
+      "normalizedText": "свет",
+      "start": 216.3,
+      "end": 216.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 386,
+      "text": "стоит",
+      "normalizedText": "стоит",
+      "start": 216.64,
+      "end": 217.049,
+      "speaker": "narrator"
+    },
+    {
+      "index": 387,
+      "text": "мужа",
+      "normalizedText": "мужа",
+      "start": 217.32,
+      "end": 217.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 388,
+      "text": "ругает.",
+      "normalizedText": "ругает",
+      "start": 217.7,
+      "end": 218.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 389,
+      "text": "«Дурачина",
+      "normalizedText": "дурачина",
+      "start": 219.21,
+      "end": 219.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 390,
+      "text": "ты,",
+      "normalizedText": "ты",
+      "start": 219.98,
+      "end": 220.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 391,
+      "text": "прямой",
+      "normalizedText": "прямои",
+      "start": 220.32,
+      "end": 220.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 392,
+      "text": "простофиля!",
+      "normalizedText": "простофиля",
+      "start": 220.74,
+      "end": 221.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 393,
+      "text": "Выпросил,",
+      "normalizedText": "выпросил",
+      "start": 222.26,
+      "end": 222.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 394,
+      "text": "простофиля,",
+      "normalizedText": "простофиля",
+      "start": 222.94,
+      "end": 223.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 395,
+      "text": "избу!",
+      "normalizedText": "избу",
+      "start": 223.68,
+      "end": 224.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 396,
+      "text": "Воротись,",
+      "normalizedText": "воротись",
+      "start": 224.8,
+      "end": 225.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 397,
+      "text": "поклонися",
+      "normalizedText": "поклонися",
+      "start": 225.62,
+      "end": 226.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 398,
+      "text": "рыбке:",
+      "normalizedText": "рыбке",
+      "start": 226.34,
+      "end": 226.73,
+      "speaker": "narrator"
+    },
+    {
+      "index": 399,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 227.66,
+      "end": 227.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 400,
+      "text": "хочу",
+      "normalizedText": "хочу",
+      "start": 227.8,
+      "end": 228.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 401,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 228.2,
+      "end": 228.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 402,
+      "text": "черной",
+      "normalizedText": "чернои",
+      "start": 228.44,
+      "end": 228.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 403,
+      "text": "крестьянкой,",
+      "normalizedText": "крестьянкои",
+      "start": 228.84,
+      "end": 230.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 404,
+      "text": "Хочу",
+      "normalizedText": "хочу",
+      "start": 230.18,
+      "end": 230.67,
+      "speaker": "narrator"
+    },
+    {
+      "index": 405,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 230.72,
+      "end": 230.91,
+      "speaker": "narrator"
+    },
+    {
+      "index": 406,
+      "text": "столбовою",
+      "normalizedText": "столбовою",
+      "start": 231.06,
+      "end": 231.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 407,
+      "text": "дворянкой».",
+      "normalizedText": "дворянкои",
+      "start": 231.94,
+      "end": 232.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 408,
+      "text": "Пошел",
+      "normalizedText": "пошел",
+      "start": 233.8,
+      "end": 234.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 409,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 234.3,
+      "end": 234.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 410,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 234.73,
+      "end": 234.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 411,
+      "text": "синему",
+      "normalizedText": "синему",
+      "start": 234.88,
+      "end": 235.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 412,
+      "text": "морю;",
+      "normalizedText": "морю",
+      "start": 235.44,
+      "end": 235.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 413,
+      "text": "(Не",
+      "normalizedText": "не",
+      "start": 236.08,
+      "end": 236.347,
+      "speaker": "narrator"
+    },
+    {
+      "index": 414,
+      "text": "спокойно",
+      "normalizedText": "спокоино",
+      "start": 236.347,
+      "end": 237.417,
+      "speaker": "narrator"
+    },
+    {
+      "index": 415,
+      "text": "синее",
+      "normalizedText": "синее",
+      "start": 237.417,
+      "end": 238.085,
+      "speaker": "narrator"
+    },
+    {
+      "index": 416,
+      "text": "море.)",
+      "normalizedText": "море",
+      "start": 238.085,
+      "end": 238.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 417,
+      "text": "Стал",
+      "normalizedText": "стал",
+      "start": 238.72,
+      "end": 239.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 418,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 239.1,
+      "end": 239.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 419,
+      "text": "кликать",
+      "normalizedText": "кликать",
+      "start": 239.3,
+      "end": 239.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 420,
+      "text": "золотую",
+      "normalizedText": "золотую",
+      "start": 239.72,
+      "end": 240.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 421,
+      "text": "рыбку.",
+      "normalizedText": "рыбку",
+      "start": 240.32,
+      "end": 240.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 422,
+      "text": "Приплыла",
+      "normalizedText": "приплыла",
+      "start": 241.42,
+      "end": 241.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 423,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 242.04,
+      "end": 242.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 424,
+      "text": "нему",
+      "normalizedText": "нему",
+      "start": 242.14,
+      "end": 242.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 425,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 242.4,
+      "end": 242.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 426,
+      "text": "спросила:",
+      "normalizedText": "спросила",
+      "start": 243.18,
+      "end": 243.87,
+      "speaker": "narrator"
+    },
+    {
+      "index": 427,
+      "text": "«Чего",
+      "normalizedText": "чего",
+      "start": 244.6,
+      "end": 244.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 428,
+      "text": "тебе",
+      "normalizedText": "тебе",
+      "start": 245,
+      "end": 245.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 429,
+      "text": "надобно,",
+      "normalizedText": "надобно",
+      "start": 245.3,
+      "end": 245.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 430,
+      "text": "старче?»",
+      "normalizedText": "старче",
+      "start": 245.9,
+      "end": 246.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 431,
+      "text": "Ей",
+      "normalizedText": "еи",
+      "start": 247.38,
+      "end": 247.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 432,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 247.6,
+      "end": 247.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 433,
+      "text": "поклоном",
+      "normalizedText": "поклоном",
+      "start": 247.72,
+      "end": 248.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 434,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 248.36,
+      "end": 248.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 435,
+      "text": "отвечает:",
+      "normalizedText": "отвечает",
+      "start": 248.72,
+      "end": 249.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 436,
+      "text": "«Смилуйся,",
+      "normalizedText": "смилуися",
+      "start": 250.23,
+      "end": 250.87,
+      "speaker": "narrator"
+    },
+    {
+      "index": 437,
+      "text": "государыня",
+      "normalizedText": "государыня",
+      "start": 250.96,
+      "end": 251.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 438,
+      "text": "рыбка!",
+      "normalizedText": "рыбка",
+      "start": 251.72,
+      "end": 252.109,
+      "speaker": "narrator"
+    },
+    {
+      "index": 439,
+      "text": "Пуще",
+      "normalizedText": "пуще",
+      "start": 252.76,
+      "end": 253.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 440,
+      "text": "прежнего",
+      "normalizedText": "прежнего",
+      "start": 253.22,
+      "end": 253.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 441,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 253.84,
+      "end": 254.31,
+      "speaker": "narrator"
+    },
+    {
+      "index": 442,
+      "text": "вздурилась,",
+      "normalizedText": "вздурилась",
+      "start": 254.5,
+      "end": 255.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 443,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 255.88,
+      "end": 255.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 444,
+      "text": "дает",
+      "normalizedText": "дает",
+      "start": 256.019,
+      "end": 256.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 445,
+      "text": "старику",
+      "normalizedText": "старику",
+      "start": 256.38,
+      "end": 256.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 446,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 256.88,
+      "end": 257.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 447,
+      "text": "покою:",
+      "normalizedText": "покою",
+      "start": 257.14,
+      "end": 257.649,
+      "speaker": "narrator"
+    },
+    {
+      "index": 448,
+      "text": "Уж",
+      "normalizedText": "уж",
+      "start": 258.5,
+      "end": 258.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 449,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 258.7,
+      "end": 258.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 450,
+      "text": "хочет",
+      "normalizedText": "хочет",
+      "start": 258.86,
+      "end": 259.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 451,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 259.3,
+      "end": 259.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 452,
+      "text": "она",
+      "normalizedText": "она",
+      "start": 259.5,
+      "end": 259.709,
+      "speaker": "narrator"
+    },
+    {
+      "index": 453,
+      "text": "крестьянкой,",
+      "normalizedText": "крестьянкои",
+      "start": 259.72,
+      "end": 261.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 454,
+      "text": "Хочет",
+      "normalizedText": "хочет",
+      "start": 261.06,
+      "end": 261.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 455,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 261.56,
+      "end": 261.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 456,
+      "text": "столбовою",
+      "normalizedText": "столбовою",
+      "start": 262.019,
+      "end": 262.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 457,
+      "text": "дворянкой».",
+      "normalizedText": "дворянкои",
+      "start": 262.8,
+      "end": 263.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 458,
+      "text": "Отвечает",
+      "normalizedText": "отвечает",
+      "start": 264.62,
+      "end": 265.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 459,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 265.26,
+      "end": 265.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 460,
+      "text": "рыбка:",
+      "normalizedText": "рыбка",
+      "start": 265.86,
+      "end": 266.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 461,
+      "text": "«Не",
+      "normalizedText": "не",
+      "start": 266.92,
+      "end": 267.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 462,
+      "text": "печалься,",
+      "normalizedText": "печалься",
+      "start": 267.1,
+      "end": 267.79,
+      "speaker": "narrator"
+    },
+    {
+      "index": 463,
+      "text": "ступай",
+      "normalizedText": "ступаи",
+      "start": 268.18,
+      "end": 268.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 464,
+      "text": "себе",
+      "normalizedText": "себе",
+      "start": 268.74,
+      "end": 269,
+      "speaker": "narrator"
+    },
+    {
+      "index": 465,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 269.34,
+      "end": 269.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 466,
+      "text": "богом».",
+      "normalizedText": "богом",
+      "start": 269.48,
+      "end": 269.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 467,
+      "text": "Воротился",
+      "normalizedText": "воротился",
+      "start": 270.48,
+      "end": 271.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 468,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 271.12,
+      "end": 271.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 469,
+      "text": "ко",
+      "normalizedText": "ко",
+      "start": 271.51,
+      "end": 271.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 470,
+      "text": "старухе.",
+      "normalizedText": "старухе",
+      "start": 271.7,
+      "end": 272.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 471,
+      "text": "Что",
+      "normalizedText": "что",
+      "start": 272.9,
+      "end": 273.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 472,
+      "text": "ж",
+      "normalizedText": "ж",
+      "start": 273.16,
+      "end": 273.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 473,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 273.24,
+      "end": 273.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 474,
+      "text": "видит?",
+      "normalizedText": "видит",
+      "start": 273.42,
+      "end": 273.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 475,
+      "text": "Высокий",
+      "normalizedText": "высокии",
+      "start": 274.42,
+      "end": 275.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 476,
+      "text": "терем.",
+      "normalizedText": "терем",
+      "start": 275.06,
+      "end": 275.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 477,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 276.2,
+      "end": 276.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 478,
+      "text": "крыльце",
+      "normalizedText": "крыльце",
+      "start": 276.32,
+      "end": 276.75,
+      "speaker": "narrator"
+    },
+    {
+      "index": 479,
+      "text": "стоит",
+      "normalizedText": "стоит",
+      "start": 276.84,
+      "end": 277.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 480,
+      "text": "его",
+      "normalizedText": "его",
+      "start": 277.32,
+      "end": 277.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 481,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 277.64,
+      "end": 278.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 482,
+      "text": "В",
+      "normalizedText": "в",
+      "start": 278.8,
+      "end": 278.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 483,
+      "text": "дорогой",
+      "normalizedText": "дорогои",
+      "start": 278.9,
+      "end": 279.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 484,
+      "text": "собольей",
+      "normalizedText": "собольеи",
+      "start": 279.44,
+      "end": 279.93,
+      "speaker": "narrator"
+    },
+    {
+      "index": 485,
+      "text": "душегрейке,",
+      "normalizedText": "душегреике",
+      "start": 279.98,
+      "end": 280.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 486,
+      "text": "Парчовая",
+      "normalizedText": "парчовая",
+      "start": 281.46,
+      "end": 282.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 487,
+      "text": "на",
+      "normalizedText": "на",
+      "start": 282.16,
+      "end": 282.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 488,
+      "text": "маковке",
+      "normalizedText": "маковке",
+      "start": 282.34,
+      "end": 282.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 489,
+      "text": "кичка,",
+      "normalizedText": "кичка",
+      "start": 282.93,
+      "end": 283.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 490,
+      "text": "Жемчуги",
+      "normalizedText": "жемчуги",
+      "start": 284.08,
+      "end": 284.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 491,
+      "text": "огрузили",
+      "normalizedText": "огрузили",
+      "start": 284.66,
+      "end": 285.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 492,
+      "text": "шею,",
+      "normalizedText": "шею",
+      "start": 285.38,
+      "end": 285.73,
+      "speaker": "narrator"
+    },
+    {
+      "index": 493,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 286.5,
+      "end": 286.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 494,
+      "text": "руках",
+      "normalizedText": "руках",
+      "start": 286.6,
+      "end": 286.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 495,
+      "text": "золотые",
+      "normalizedText": "золотые",
+      "start": 287.04,
+      "end": 287.51,
+      "speaker": "narrator"
+    },
+    {
+      "index": 496,
+      "text": "перстни,",
+      "normalizedText": "перстни",
+      "start": 287.66,
+      "end": 288.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 497,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 288.74,
+      "end": 288.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 498,
+      "text": "ногах",
+      "normalizedText": "ногах",
+      "start": 288.88,
+      "end": 289.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 499,
+      "text": "красные",
+      "normalizedText": "красные",
+      "start": 289.46,
+      "end": 290,
+      "speaker": "narrator"
+    },
+    {
+      "index": 500,
+      "text": "сапожки.",
+      "normalizedText": "сапожки",
+      "start": 290.04,
+      "end": 291.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 501,
+      "text": "Перед",
+      "normalizedText": "перед",
+      "start": 291.6,
+      "end": 291.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 502,
+      "text": "нею",
+      "normalizedText": "нею",
+      "start": 291.89,
+      "end": 292.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 503,
+      "text": "усердные",
+      "normalizedText": "усердные",
+      "start": 292.4,
+      "end": 293.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 504,
+      "text": "слуги;",
+      "normalizedText": "слуги",
+      "start": 293.1,
+      "end": 293.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 505,
+      "text": "Она",
+      "normalizedText": "она",
+      "start": 294.36,
+      "end": 294.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 506,
+      "text": "бьет",
+      "normalizedText": "бьет",
+      "start": 294.62,
+      "end": 294.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 507,
+      "text": "их,",
+      "normalizedText": "их",
+      "start": 295.04,
+      "end": 295.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 508,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 295.5,
+      "end": 295.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 509,
+      "text": "чупрун",
+      "normalizedText": "чупрун",
+      "start": 295.64,
+      "end": 296.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 510,
+      "text": "таскает.",
+      "normalizedText": "таскает",
+      "start": 296.1,
+      "end": 296.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 511,
+      "text": "Говорит",
+      "normalizedText": "говорит",
+      "start": 297.66,
+      "end": 298.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 512,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 298.1,
+      "end": 298.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 513,
+      "text": "своей",
+      "normalizedText": "своеи",
+      "start": 298.56,
+      "end": 298.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 514,
+      "text": "старухе:",
+      "normalizedText": "старухе",
+      "start": 298.82,
+      "end": 299.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 515,
+      "text": "«Здравствуй,",
+      "normalizedText": "здравствуи",
+      "start": 300.14,
+      "end": 300.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 516,
+      "text": "барыня",
+      "normalizedText": "барыня",
+      "start": 301.18,
+      "end": 301.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 517,
+      "text": "сударыня",
+      "normalizedText": "сударыня",
+      "start": 301.66,
+      "end": 302.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 518,
+      "text": "дворянка!",
+      "normalizedText": "дворянка",
+      "start": 302.22,
+      "end": 302.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 519,
+      "text": "Чай,",
+      "normalizedText": "чаи",
+      "start": 303.66,
+      "end": 303.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 520,
+      "text": "теперь",
+      "normalizedText": "теперь",
+      "start": 304.32,
+      "end": 304.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 521,
+      "text": "твоя",
+      "normalizedText": "твоя",
+      "start": 304.72,
+      "end": 304.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 522,
+      "text": "душенька",
+      "normalizedText": "душенька",
+      "start": 305.02,
+      "end": 305.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 523,
+      "text": "довольна».",
+      "normalizedText": "довольна",
+      "start": 305.62,
+      "end": 306.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 524,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 307.3,
+      "end": 307.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 525,
+      "text": "него",
+      "normalizedText": "него",
+      "start": 307.44,
+      "end": 307.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 526,
+      "text": "прикрикнула",
+      "normalizedText": "прикрикнула",
+      "start": 307.88,
+      "end": 308.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 527,
+      "text": "старуха,",
+      "normalizedText": "старуха",
+      "start": 308.58,
+      "end": 309.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 528,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 309.9,
+      "end": 310,
+      "speaker": "narrator"
+    },
+    {
+      "index": 529,
+      "text": "конюшне",
+      "normalizedText": "конюшне",
+      "start": 310.04,
+      "end": 310.599,
+      "speaker": "narrator"
+    },
+    {
+      "index": 530,
+      "text": "служить",
+      "normalizedText": "служить",
+      "start": 310.66,
+      "end": 311.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 531,
+      "text": "его",
+      "normalizedText": "его",
+      "start": 311.18,
+      "end": 311.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 532,
+      "text": "послала.",
+      "normalizedText": "послала",
+      "start": 311.42,
+      "end": 311.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 533,
+      "text": "Вот",
+      "normalizedText": "вот",
+      "start": 312.94,
+      "end": 313.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 534,
+      "text": "неделя,",
+      "normalizedText": "неделя",
+      "start": 313.22,
+      "end": 313.75,
+      "speaker": "narrator"
+    },
+    {
+      "index": 535,
+      "text": "другая",
+      "normalizedText": "другая",
+      "start": 314,
+      "end": 314.43,
+      "speaker": "narrator"
+    },
+    {
+      "index": 536,
+      "text": "проходит,",
+      "normalizedText": "проходит",
+      "start": 314.54,
+      "end": 315.15,
+      "speaker": "narrator"
+    },
+    {
+      "index": 537,
+      "text": "Еще",
+      "normalizedText": "еще",
+      "start": 315.88,
+      "end": 316.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 538,
+      "text": "пуще",
+      "normalizedText": "пуще",
+      "start": 316.34,
+      "end": 316.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 539,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 316.8,
+      "end": 317.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 540,
+      "text": "вздурилась:",
+      "normalizedText": "вздурилась",
+      "start": 317.32,
+      "end": 318.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 541,
+      "text": "Опять",
+      "normalizedText": "опять",
+      "start": 318.82,
+      "end": 319.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 542,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 319.26,
+      "end": 319.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 543,
+      "text": "рыбке",
+      "normalizedText": "рыбке",
+      "start": 319.34,
+      "end": 319.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 544,
+      "text": "старика",
+      "normalizedText": "старика",
+      "start": 319.68,
+      "end": 320.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 545,
+      "text": "посылает.",
+      "normalizedText": "посылает",
+      "start": 320.2,
+      "end": 320.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 546,
+      "text": "«Воротись,",
+      "normalizedText": "воротись",
+      "start": 321.72,
+      "end": 322.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 547,
+      "text": "поклонися",
+      "normalizedText": "поклонися",
+      "start": 322.84,
+      "end": 323.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 548,
+      "text": "рыбке:",
+      "normalizedText": "рыбке",
+      "start": 323.6,
+      "end": 324.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 549,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 324.68,
+      "end": 324.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 550,
+      "text": "хочу",
+      "normalizedText": "хочу",
+      "start": 324.84,
+      "end": 325.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 551,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 325.3,
+      "end": 325.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 552,
+      "text": "столбовою",
+      "normalizedText": "столбовою",
+      "start": 325.46,
+      "end": 326.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 553,
+      "text": "дворянкой,",
+      "normalizedText": "дворянкои",
+      "start": 326.18,
+      "end": 326.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 554,
+      "text": "А",
+      "normalizedText": "а",
+      "start": 327.38,
+      "end": 327.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 555,
+      "text": "хочу",
+      "normalizedText": "хочу",
+      "start": 327.48,
+      "end": 327.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 556,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 327.84,
+      "end": 328,
+      "speaker": "narrator"
+    },
+    {
+      "index": 557,
+      "text": "вольною",
+      "normalizedText": "вольною",
+      "start": 328.1,
+      "end": 328.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 558,
+      "text": "царицей».",
+      "normalizedText": "царицеи",
+      "start": 328.82,
+      "end": 329.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 559,
+      "text": "Испугался",
+      "normalizedText": "испугался",
+      "start": 330.34,
+      "end": 331.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 560,
+      "text": "старик,",
+      "normalizedText": "старик",
+      "start": 331.1,
+      "end": 331.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 561,
+      "text": "взмолился:",
+      "normalizedText": "взмолился",
+      "start": 331.84,
+      "end": 332.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 562,
+      "text": "«Что",
+      "normalizedText": "что",
+      "start": 333.52,
+      "end": 333.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 563,
+      "text": "ты,",
+      "normalizedText": "ты",
+      "start": 333.98,
+      "end": 334.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 564,
+      "text": "баба,",
+      "normalizedText": "баба",
+      "start": 334.2,
+      "end": 334.53,
+      "speaker": "narrator"
+    },
+    {
+      "index": 565,
+      "text": "белены",
+      "normalizedText": "белены",
+      "start": 334.62,
+      "end": 335.07,
+      "speaker": "narrator"
+    },
+    {
+      "index": 566,
+      "text": "объелась?",
+      "normalizedText": "объелась",
+      "start": 335.12,
+      "end": 335.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 567,
+      "text": "Ни",
+      "normalizedText": "ни",
+      "start": 336.56,
+      "end": 336.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 568,
+      "text": "ступить,",
+      "normalizedText": "ступить",
+      "start": 336.68,
+      "end": 337.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 569,
+      "text": "ни",
+      "normalizedText": "ни",
+      "start": 337.32,
+      "end": 337.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 570,
+      "text": "молвить",
+      "normalizedText": "молвить",
+      "start": 337.52,
+      "end": 337.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 571,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 337.98,
+      "end": 338.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 572,
+      "text": "умеешь,",
+      "normalizedText": "умеешь",
+      "start": 338.12,
+      "end": 338.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 573,
+      "text": "Насмешишь",
+      "normalizedText": "насмешишь",
+      "start": 339.34,
+      "end": 340.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 574,
+      "text": "ты",
+      "normalizedText": "ты",
+      "start": 340.12,
+      "end": 340.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 575,
+      "text": "целое",
+      "normalizedText": "целое",
+      "start": 340.46,
+      "end": 340.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 576,
+      "text": "царство».",
+      "normalizedText": "царство",
+      "start": 341,
+      "end": 341.55,
+      "speaker": "narrator"
+    },
+    {
+      "index": 577,
+      "text": "Осердилася",
+      "normalizedText": "осердилася",
+      "start": 342.64,
+      "end": 343.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 578,
+      "text": "пуще",
+      "normalizedText": "пуще",
+      "start": 343.4,
+      "end": 343.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 579,
+      "text": "старуха,",
+      "normalizedText": "старуха",
+      "start": 343.78,
+      "end": 344.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 580,
+      "text": "По",
+      "normalizedText": "по",
+      "start": 345.06,
+      "end": 345.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 581,
+      "text": "щеке",
+      "normalizedText": "щеке",
+      "start": 345.22,
+      "end": 345.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 582,
+      "text": "ударила",
+      "normalizedText": "ударила",
+      "start": 345.7,
+      "end": 346.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 583,
+      "text": "мужа.",
+      "normalizedText": "мужа",
+      "start": 346.26,
+      "end": 346.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 584,
+      "text": "«Как",
+      "normalizedText": "как",
+      "start": 347.68,
+      "end": 347.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 585,
+      "text": "ты",
+      "normalizedText": "ты",
+      "start": 348,
+      "end": 348.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 586,
+      "text": "смеешь,",
+      "normalizedText": "смеешь",
+      "start": 348.2,
+      "end": 348.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 587,
+      "text": "мужик,",
+      "normalizedText": "мужик",
+      "start": 348.8,
+      "end": 349.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 588,
+      "text": "спорить",
+      "normalizedText": "спорить",
+      "start": 349.28,
+      "end": 349.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 589,
+      "text": "со",
+      "normalizedText": "со",
+      "start": 349.82,
+      "end": 349.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 590,
+      "text": "мною,",
+      "normalizedText": "мною",
+      "start": 349.98,
+      "end": 350.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 591,
+      "text": "Со",
+      "normalizedText": "со",
+      "start": 351.1,
+      "end": 351.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 592,
+      "text": "мною,",
+      "normalizedText": "мною",
+      "start": 351.28,
+      "end": 351.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 593,
+      "text": "дворянкой",
+      "normalizedText": "дворянкои",
+      "start": 351.88,
+      "end": 352.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 594,
+      "text": "столбовою?",
+      "normalizedText": "столбовою",
+      "start": 352.52,
+      "end": 353.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 595,
+      "text": "— Ступай",
+      "normalizedText": "ступаи",
+      "start": 354.18,
+      "end": 354.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 596,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 354.68,
+      "end": 354.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 597,
+      "text": "морю,",
+      "normalizedText": "морю",
+      "start": 354.8,
+      "end": 355.09,
+      "speaker": "narrator"
+    },
+    {
+      "index": 598,
+      "text": "говорят",
+      "normalizedText": "говорят",
+      "start": 355.28,
+      "end": 355.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 599,
+      "text": "тебе",
+      "normalizedText": "тебе",
+      "start": 355.78,
+      "end": 355.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 600,
+      "text": "честью,",
+      "normalizedText": "честью",
+      "start": 356.12,
+      "end": 356.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 601,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 357.28,
+      "end": 357.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 602,
+      "text": "пойдешь,",
+      "normalizedText": "поидешь",
+      "start": 357.44,
+      "end": 357.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 603,
+      "text": "поведут",
+      "normalizedText": "поведут",
+      "start": 358.44,
+      "end": 358.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 604,
+      "text": "поневоле».",
+      "normalizedText": "поневоле",
+      "start": 358.98,
+      "end": 359.53,
+      "speaker": "narrator"
+    },
+    {
+      "index": 605,
+      "text": "Старичок",
+      "normalizedText": "старичок",
+      "start": 360.12,
+      "end": 360.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 606,
+      "text": "отправился",
+      "normalizedText": "отправился",
+      "start": 360.68,
+      "end": 361.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 607,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 361.36,
+      "end": 361.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 608,
+      "text": "морю,",
+      "normalizedText": "морю",
+      "start": 361.48,
+      "end": 362.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 609,
+      "text": "(Почернело",
+      "normalizedText": "почернело",
+      "start": 362.45,
+      "end": 363.515,
+      "speaker": "narrator"
+    },
+    {
+      "index": 610,
+      "text": "синее",
+      "normalizedText": "синее",
+      "start": 363.515,
+      "end": 364.107,
+      "speaker": "narrator"
+    },
+    {
+      "index": 611,
+      "text": "море.)",
+      "normalizedText": "море",
+      "start": 364.107,
+      "end": 364.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 612,
+      "text": "Стал",
+      "normalizedText": "стал",
+      "start": 364.9,
+      "end": 365.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 613,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 365.3,
+      "end": 365.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 614,
+      "text": "кликать",
+      "normalizedText": "кликать",
+      "start": 365.48,
+      "end": 365.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 615,
+      "text": "золотую",
+      "normalizedText": "золотую",
+      "start": 366.02,
+      "end": 366.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 616,
+      "text": "рыбку.",
+      "normalizedText": "рыбку",
+      "start": 366.68,
+      "end": 367.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 617,
+      "text": "Приплыла",
+      "normalizedText": "приплыла",
+      "start": 367.6,
+      "end": 368.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 618,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 368.18,
+      "end": 368.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 619,
+      "text": "нему",
+      "normalizedText": "нему",
+      "start": 368.26,
+      "end": 368.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 620,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 368.54,
+      "end": 368.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 621,
+      "text": "спросила:",
+      "normalizedText": "спросила",
+      "start": 369.24,
+      "end": 369.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 622,
+      "text": "«Чего",
+      "normalizedText": "чего",
+      "start": 370.52,
+      "end": 370.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 623,
+      "text": "тебе",
+      "normalizedText": "тебе",
+      "start": 370.88,
+      "end": 371.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 624,
+      "text": "надобно,",
+      "normalizedText": "надобно",
+      "start": 371.18,
+      "end": 371.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 625,
+      "text": "старче?»",
+      "normalizedText": "старче",
+      "start": 371.7,
+      "end": 372.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 626,
+      "text": "Ей",
+      "normalizedText": "еи",
+      "start": 373.08,
+      "end": 373.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 627,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 373.32,
+      "end": 373.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 628,
+      "text": "поклоном",
+      "normalizedText": "поклоном",
+      "start": 373.4,
+      "end": 373.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 629,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 374.06,
+      "end": 374.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 630,
+      "text": "отвечает:",
+      "normalizedText": "отвечает",
+      "start": 374.42,
+      "end": 375.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 631,
+      "text": "«Смилуйся,",
+      "normalizedText": "смилуися",
+      "start": 375.79,
+      "end": 376.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 632,
+      "text": "государыня",
+      "normalizedText": "государыня",
+      "start": 376.48,
+      "end": 377.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 633,
+      "text": "рыбка!",
+      "normalizedText": "рыбка",
+      "start": 377.24,
+      "end": 377.61,
+      "speaker": "narrator"
+    },
+    {
+      "index": 634,
+      "text": "Опять",
+      "normalizedText": "опять",
+      "start": 378.24,
+      "end": 378.61,
+      "speaker": "narrator"
+    },
+    {
+      "index": 635,
+      "text": "моя",
+      "normalizedText": "моя",
+      "start": 378.68,
+      "end": 378.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 636,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 378.98,
+      "end": 379.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 637,
+      "text": "бунтует:",
+      "normalizedText": "бунтует",
+      "start": 379.5,
+      "end": 380.13,
+      "speaker": "narrator"
+    },
+    {
+      "index": 638,
+      "text": "Уж",
+      "normalizedText": "уж",
+      "start": 380.7,
+      "end": 380.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 639,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 380.9,
+      "end": 380.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 640,
+      "text": "хочет",
+      "normalizedText": "хочет",
+      "start": 381.08,
+      "end": 381.43,
+      "speaker": "narrator"
+    },
+    {
+      "index": 641,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 381.52,
+      "end": 381.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 642,
+      "text": "она",
+      "normalizedText": "она",
+      "start": 381.72,
+      "end": 381.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 643,
+      "text": "дворянкой,",
+      "normalizedText": "дворянкои",
+      "start": 381.98,
+      "end": 382.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 644,
+      "text": "Хочет",
+      "normalizedText": "хочет",
+      "start": 383.1,
+      "end": 383.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 645,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 383.56,
+      "end": 383.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 646,
+      "text": "вольною",
+      "normalizedText": "вольною",
+      "start": 383.8,
+      "end": 384.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 647,
+      "text": "царицей».",
+      "normalizedText": "царицеи",
+      "start": 384.38,
+      "end": 385.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 648,
+      "text": "Отвечает",
+      "normalizedText": "отвечает",
+      "start": 385.92,
+      "end": 386.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 649,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 386.6,
+      "end": 387.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 650,
+      "text": "рыбка:",
+      "normalizedText": "рыбка",
+      "start": 387.2,
+      "end": 387.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 651,
+      "text": "«Не",
+      "normalizedText": "не",
+      "start": 388.15,
+      "end": 388.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 652,
+      "text": "печалься,",
+      "normalizedText": "печалься",
+      "start": 388.36,
+      "end": 389.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 653,
+      "text": "ступай",
+      "normalizedText": "ступаи",
+      "start": 389.44,
+      "end": 389.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 654,
+      "text": "себе",
+      "normalizedText": "себе",
+      "start": 389.98,
+      "end": 390.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 655,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 390.26,
+      "end": 390.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 656,
+      "text": "богом!",
+      "normalizedText": "богом",
+      "start": 390.36,
+      "end": 390.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 657,
+      "text": "Добро!",
+      "normalizedText": "добро",
+      "start": 391.22,
+      "end": 391.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 658,
+      "text": "будет",
+      "normalizedText": "будет",
+      "start": 392.14,
+      "end": 392.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 659,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 392.46,
+      "end": 392.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 660,
+      "text": "царицей!»",
+      "normalizedText": "царицеи",
+      "start": 392.96,
+      "end": 393.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 661,
+      "text": "Старичок",
+      "normalizedText": "старичок",
+      "start": 394.58,
+      "end": 395.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 662,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 395.11,
+      "end": 395.111,
+      "speaker": "narrator"
+    },
+    {
+      "index": 663,
+      "text": "старухе",
+      "normalizedText": "старухе",
+      "start": 395.22,
+      "end": 395.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 664,
+      "text": "воротился.",
+      "normalizedText": "воротился",
+      "start": 395.66,
+      "end": 396.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 665,
+      "text": "Что",
+      "normalizedText": "что",
+      "start": 396.96,
+      "end": 397.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 666,
+      "text": "ж?",
+      "normalizedText": "ж",
+      "start": 397.36,
+      "end": 397.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 667,
+      "text": "пред",
+      "normalizedText": "пред",
+      "start": 398,
+      "end": 398.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 668,
+      "text": "ним",
+      "normalizedText": "ним",
+      "start": 398.28,
+      "end": 398.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 669,
+      "text": "царские",
+      "normalizedText": "царские",
+      "start": 398.6,
+      "end": 399.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 670,
+      "text": "палаты.",
+      "normalizedText": "палаты",
+      "start": 399.16,
+      "end": 400.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 671,
+      "text": "В",
+      "normalizedText": "в",
+      "start": 400.3,
+      "end": 400.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 672,
+      "text": "палатах",
+      "normalizedText": "палатах",
+      "start": 400.42,
+      "end": 400.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 673,
+      "text": "видит",
+      "normalizedText": "видит",
+      "start": 401.04,
+      "end": 401.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 674,
+      "text": "свою",
+      "normalizedText": "свою",
+      "start": 401.36,
+      "end": 401.63,
+      "speaker": "narrator"
+    },
+    {
+      "index": 675,
+      "text": "старуху,",
+      "normalizedText": "старуху",
+      "start": 401.76,
+      "end": 402.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 676,
+      "text": "За",
+      "normalizedText": "за",
+      "start": 402.98,
+      "end": 403.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 677,
+      "text": "столом",
+      "normalizedText": "столом",
+      "start": 403.08,
+      "end": 403.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 678,
+      "text": "сидит",
+      "normalizedText": "сидит",
+      "start": 403.6,
+      "end": 403.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 679,
+      "text": "она",
+      "normalizedText": "она",
+      "start": 403.96,
+      "end": 404.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 680,
+      "text": "царицей,",
+      "normalizedText": "царицеи",
+      "start": 404.26,
+      "end": 404.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 681,
+      "text": "Служат",
+      "normalizedText": "служат",
+      "start": 405.58,
+      "end": 406.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 682,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 406.12,
+      "end": 406.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 683,
+      "text": "бояре",
+      "normalizedText": "бояре",
+      "start": 406.32,
+      "end": 406.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 684,
+      "text": "да",
+      "normalizedText": "да",
+      "start": 406.9,
+      "end": 407.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 685,
+      "text": "дворяне,",
+      "normalizedText": "дворяне",
+      "start": 407.04,
+      "end": 407.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 686,
+      "text": "Наливают",
+      "normalizedText": "наливают",
+      "start": 408.2,
+      "end": 408.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 687,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 408.84,
+      "end": 408.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 688,
+      "text": "заморские",
+      "normalizedText": "заморские",
+      "start": 409.02,
+      "end": 409.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 689,
+      "text": "вины;",
+      "normalizedText": "вины",
+      "start": 409.82,
+      "end": 410.17,
+      "speaker": "narrator"
+    },
+    {
+      "index": 690,
+      "text": "Заедает",
+      "normalizedText": "заедает",
+      "start": 410.84,
+      "end": 411.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 691,
+      "text": "она",
+      "normalizedText": "она",
+      "start": 411.42,
+      "end": 411.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 692,
+      "text": "пряником",
+      "normalizedText": "пряником",
+      "start": 411.7,
+      "end": 412.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 693,
+      "text": "печатным;",
+      "normalizedText": "печатным",
+      "start": 412.34,
+      "end": 413.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 694,
+      "text": "Вкруг",
+      "normalizedText": "вкруг",
+      "start": 413.6,
+      "end": 414.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 695,
+      "text": "ее",
+      "normalizedText": "ее",
+      "start": 414.12,
+      "end": 414.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 696,
+      "text": "стоит",
+      "normalizedText": "стоит",
+      "start": 414.26,
+      "end": 414.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 697,
+      "text": "грозная",
+      "normalizedText": "грозная",
+      "start": 414.68,
+      "end": 415.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 698,
+      "text": "стража,",
+      "normalizedText": "стража",
+      "start": 415.42,
+      "end": 416.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 699,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 416.58,
+      "end": 416.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 700,
+      "text": "плечах",
+      "normalizedText": "плечах",
+      "start": 416.7,
+      "end": 417.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 701,
+      "text": "топорики",
+      "normalizedText": "топорики",
+      "start": 417.2,
+      "end": 417.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 702,
+      "text": "держат.",
+      "normalizedText": "держат",
+      "start": 417.86,
+      "end": 418.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 703,
+      "text": "Как",
+      "normalizedText": "как",
+      "start": 419.24,
+      "end": 419.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 704,
+      "text": "увидел",
+      "normalizedText": "увидел",
+      "start": 419.52,
+      "end": 419.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 705,
+      "text": "старик,",
+      "normalizedText": "старик",
+      "start": 419.98,
+      "end": 420.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 706,
+      "text": "— испугался!",
+      "normalizedText": "испугался",
+      "start": 420.72,
+      "end": 421.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 707,
+      "text": "В",
+      "normalizedText": "в",
+      "start": 422.3,
+      "end": 422.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 708,
+      "text": "ноги",
+      "normalizedText": "ноги",
+      "start": 422.4,
+      "end": 422.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 709,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 422.74,
+      "end": 422.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 710,
+      "text": "старухе",
+      "normalizedText": "старухе",
+      "start": 422.9,
+      "end": 423.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 711,
+      "text": "поклонился,",
+      "normalizedText": "поклонился",
+      "start": 423.4,
+      "end": 424.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 712,
+      "text": "Молвил:",
+      "normalizedText": "молвил",
+      "start": 424.72,
+      "end": 425.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 713,
+      "text": "«Здравствуй,",
+      "normalizedText": "здравствуи",
+      "start": 426.04,
+      "end": 426.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 714,
+      "text": "грозная",
+      "normalizedText": "грозная",
+      "start": 426.74,
+      "end": 427.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 715,
+      "text": "царица!",
+      "normalizedText": "царица",
+      "start": 427.28,
+      "end": 427.81,
+      "speaker": "narrator"
+    },
+    {
+      "index": 716,
+      "text": "Ну,",
+      "normalizedText": "ну",
+      "start": 428.44,
+      "end": 428.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 717,
+      "text": "теперь",
+      "normalizedText": "теперь",
+      "start": 429.1,
+      "end": 429.46,
+      "speaker": "narrator"
+    },
+    {
+      "index": 718,
+      "text": "твоя",
+      "normalizedText": "твоя",
+      "start": 429.5,
+      "end": 429.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 719,
+      "text": "душенька",
+      "normalizedText": "душенька",
+      "start": 429.82,
+      "end": 430.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 720,
+      "text": "довольна».",
+      "normalizedText": "довольна",
+      "start": 430.34,
+      "end": 430.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 721,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 432.12,
+      "end": 432.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 722,
+      "text": "него",
+      "normalizedText": "него",
+      "start": 432.24,
+      "end": 432.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 723,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 432.54,
+      "end": 432.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 724,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 433.02,
+      "end": 433.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 725,
+      "text": "взглянула,",
+      "normalizedText": "взглянула",
+      "start": 433.12,
+      "end": 433.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 726,
+      "text": "Лишь",
+      "normalizedText": "лишь",
+      "start": 434.42,
+      "end": 434.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 727,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 434.66,
+      "end": 434.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 728,
+      "text": "очей",
+      "normalizedText": "очеи",
+      "start": 434.78,
+      "end": 435.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 729,
+      "text": "прогнать",
+      "normalizedText": "прогнать",
+      "start": 435.2,
+      "end": 435.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 730,
+      "text": "его",
+      "normalizedText": "его",
+      "start": 435.72,
+      "end": 435.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 731,
+      "text": "велела.",
+      "normalizedText": "велела",
+      "start": 435.92,
+      "end": 436.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 732,
+      "text": "Подбежали",
+      "normalizedText": "подбежали",
+      "start": 436.96,
+      "end": 437.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 733,
+      "text": "бояре",
+      "normalizedText": "бояре",
+      "start": 437.66,
+      "end": 438.09,
+      "speaker": "narrator"
+    },
+    {
+      "index": 734,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 438.1,
+      "end": 438.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 735,
+      "text": "дворяне,",
+      "normalizedText": "дворяне",
+      "start": 438.24,
+      "end": 438.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 736,
+      "text": "Старика",
+      "normalizedText": "старика",
+      "start": 439.3,
+      "end": 439.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 737,
+      "text": "взашеи",
+      "normalizedText": "взашеи",
+      "start": 439.76,
+      "end": 440.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 738,
+      "text": "затолкали.",
+      "normalizedText": "затолкали",
+      "start": 440.32,
+      "end": 441.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 739,
+      "text": "А",
+      "normalizedText": "а",
+      "start": 441.94,
+      "end": 442,
+      "speaker": "narrator"
+    },
+    {
+      "index": 740,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 442.02,
+      "end": 442.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 741,
+      "text": "дверях-то",
+      "normalizedText": "дверях-то",
+      "start": 442.12,
+      "end": 442.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 742,
+      "text": "стража",
+      "normalizedText": "стража",
+      "start": 442.74,
+      "end": 443.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 743,
+      "text": "подбежала,",
+      "normalizedText": "подбежала",
+      "start": 443.12,
+      "end": 444.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 744,
+      "text": "Топорами",
+      "normalizedText": "топорами",
+      "start": 444.28,
+      "end": 444.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 745,
+      "text": "чуть",
+      "normalizedText": "чуть",
+      "start": 444.96,
+      "end": 445.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 746,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 445.22,
+      "end": 445.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 747,
+      "text": "изрубила.",
+      "normalizedText": "изрубила",
+      "start": 445.32,
+      "end": 445.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 748,
+      "text": "А",
+      "normalizedText": "а",
+      "start": 446.72,
+      "end": 446.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 749,
+      "text": "народ-то",
+      "normalizedText": "народ-то",
+      "start": 446.82,
+      "end": 447.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 750,
+      "text": "над",
+      "normalizedText": "над",
+      "start": 447.32,
+      "end": 447.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 751,
+      "text": "ним",
+      "normalizedText": "ним",
+      "start": 447.54,
+      "end": 447.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 752,
+      "text": "насмеялся:",
+      "normalizedText": "насмеялся",
+      "start": 447.72,
+      "end": 448.49,
+      "speaker": "narrator"
+    },
+    {
+      "index": 753,
+      "text": "«Поделом",
+      "normalizedText": "поделом",
+      "start": 449.05,
+      "end": 449.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 754,
+      "text": "тебе,",
+      "normalizedText": "тебе",
+      "start": 449.74,
+      "end": 449.99,
+      "speaker": "narrator"
+    },
+    {
+      "index": 755,
+      "text": "старый",
+      "normalizedText": "старыи",
+      "start": 450.32,
+      "end": 450.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 756,
+      "text": "невежа!",
+      "normalizedText": "невежа",
+      "start": 450.72,
+      "end": 451.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 757,
+      "text": "Впредь",
+      "normalizedText": "впредь",
+      "start": 452.12,
+      "end": 452.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 758,
+      "text": "тебе,",
+      "normalizedText": "тебе",
+      "start": 452.56,
+      "end": 452.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 759,
+      "text": "невежа,",
+      "normalizedText": "невежа",
+      "start": 452.82,
+      "end": 453.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 760,
+      "text": "наука:",
+      "normalizedText": "наука",
+      "start": 453.52,
+      "end": 454.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 761,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 454.72,
+      "end": 454.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 762,
+      "text": "садися",
+      "normalizedText": "садися",
+      "start": 454.88,
+      "end": 455.48,
+      "speaker": "narrator"
+    },
+    {
+      "index": 763,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 455.5,
+      "end": 455.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 764,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 455.62,
+      "end": 455.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 765,
+      "text": "свои",
+      "normalizedText": "свои",
+      "start": 455.72,
+      "end": 456.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 766,
+      "text": "сани!»",
+      "normalizedText": "сани",
+      "start": 456.08,
+      "end": 456.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 767,
+      "text": "Вот",
+      "normalizedText": "вот",
+      "start": 457.62,
+      "end": 457.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 768,
+      "text": "неделя,",
+      "normalizedText": "неделя",
+      "start": 457.88,
+      "end": 458.27,
+      "speaker": "narrator"
+    },
+    {
+      "index": 769,
+      "text": "другая",
+      "normalizedText": "другая",
+      "start": 458.36,
+      "end": 458.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 770,
+      "text": "проходит,",
+      "normalizedText": "проходит",
+      "start": 458.84,
+      "end": 459.45,
+      "speaker": "narrator"
+    },
+    {
+      "index": 771,
+      "text": "Еще",
+      "normalizedText": "еще",
+      "start": 460.06,
+      "end": 460.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 772,
+      "text": "пуще",
+      "normalizedText": "пуще",
+      "start": 460.42,
+      "end": 460.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 773,
+      "text": "старуха",
+      "normalizedText": "старуха",
+      "start": 460.78,
+      "end": 461.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 774,
+      "text": "вздурилась:",
+      "normalizedText": "вздурилась",
+      "start": 461.28,
+      "end": 461.97,
+      "speaker": "narrator"
+    },
+    {
+      "index": 775,
+      "text": "Царедворцев",
+      "normalizedText": "царедворцев",
+      "start": 462.64,
+      "end": 463.41,
+      "speaker": "narrator"
+    },
+    {
+      "index": 776,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 463.42,
+      "end": 463.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 777,
+      "text": "мужем",
+      "normalizedText": "мужем",
+      "start": 463.58,
+      "end": 463.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 778,
+      "text": "посылает,",
+      "normalizedText": "посылает",
+      "start": 464,
+      "end": 464.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 779,
+      "text": "Отыскали",
+      "normalizedText": "отыскали",
+      "start": 465.36,
+      "end": 465.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 780,
+      "text": "старика,",
+      "normalizedText": "старика",
+      "start": 465.96,
+      "end": 466.47,
+      "speaker": "narrator"
+    },
+    {
+      "index": 781,
+      "text": "привели",
+      "normalizedText": "привели",
+      "start": 466.74,
+      "end": 467.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 782,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 467.28,
+      "end": 467.32,
+      "speaker": "narrator"
+    },
+    {
+      "index": 783,
+      "text": "ней.",
+      "normalizedText": "неи",
+      "start": 467.4,
+      "end": 467.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 784,
+      "text": "Говорит",
+      "normalizedText": "говорит",
+      "start": 468.34,
+      "end": 468.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 785,
+      "text": "старику",
+      "normalizedText": "старику",
+      "start": 468.78,
+      "end": 469.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 786,
+      "text": "старуха:",
+      "normalizedText": "старуха",
+      "start": 469.3,
+      "end": 470.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 787,
+      "text": "«Воротись,",
+      "normalizedText": "воротись",
+      "start": 470.45,
+      "end": 471.03,
+      "speaker": "narrator"
+    },
+    {
+      "index": 788,
+      "text": "поклонися",
+      "normalizedText": "поклонися",
+      "start": 471.54,
+      "end": 472.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 789,
+      "text": "рыбке.",
+      "normalizedText": "рыбке",
+      "start": 472.2,
+      "end": 473.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 790,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 473.34,
+      "end": 473.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 791,
+      "text": "хочу",
+      "normalizedText": "хочу",
+      "start": 473.5,
+      "end": 473.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 792,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 473.84,
+      "end": 474.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 793,
+      "text": "вольною",
+      "normalizedText": "вольною",
+      "start": 474.04,
+      "end": 474.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 794,
+      "text": "царицей,",
+      "normalizedText": "царицеи",
+      "start": 474.58,
+      "end": 475.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 795,
+      "text": "Хочу",
+      "normalizedText": "хочу",
+      "start": 475.8,
+      "end": 476.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 796,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 476.14,
+      "end": 476.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 797,
+      "text": "владычицей",
+      "normalizedText": "владычицеи",
+      "start": 476.32,
+      "end": 477.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 798,
+      "text": "морскою,",
+      "normalizedText": "морскою",
+      "start": 477.18,
+      "end": 477.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 799,
+      "text": "Чтобы",
+      "normalizedText": "чтобы",
+      "start": 478.48,
+      "end": 478.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 800,
+      "text": "жить",
+      "normalizedText": "жить",
+      "start": 478.84,
+      "end": 479.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 801,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 479.1,
+      "end": 479.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 802,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 479.28,
+      "end": 479.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 803,
+      "text": "Окияне-море,",
+      "normalizedText": "окияне-море",
+      "start": 479.36,
+      "end": 480.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 804,
+      "text": "Чтоб",
+      "normalizedText": "чтоб",
+      "start": 480.98,
+      "end": 481.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 805,
+      "text": "служила",
+      "normalizedText": "служила",
+      "start": 481.26,
+      "end": 481.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 806,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 481.82,
+      "end": 482,
+      "speaker": "narrator"
+    },
+    {
+      "index": 807,
+      "text": "рыбка",
+      "normalizedText": "рыбка",
+      "start": 482.06,
+      "end": 482.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 808,
+      "text": "золотая",
+      "normalizedText": "золотая",
+      "start": 482.48,
+      "end": 483.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 809,
+      "text": "И",
+      "normalizedText": "и",
+      "start": 483.6,
+      "end": 483.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 810,
+      "text": "была",
+      "normalizedText": "была",
+      "start": 483.74,
+      "end": 484.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 811,
+      "text": "б",
+      "normalizedText": "б",
+      "start": 484.12,
+      "end": 484.13,
+      "speaker": "narrator"
+    },
+    {
+      "index": 812,
+      "text": "у",
+      "normalizedText": "у",
+      "start": 484.16,
+      "end": 484.22,
+      "speaker": "narrator"
+    },
+    {
+      "index": 813,
+      "text": "меня",
+      "normalizedText": "меня",
+      "start": 484.24,
+      "end": 484.56,
+      "speaker": "narrator"
+    },
+    {
+      "index": 814,
+      "text": "на",
+      "normalizedText": "на",
+      "start": 484.8,
+      "end": 484.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 815,
+      "text": "посылках».",
+      "normalizedText": "посылках",
+      "start": 484.96,
+      "end": 485.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 816,
+      "text": "Старик",
+      "normalizedText": "старик",
+      "start": 486.72,
+      "end": 487.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 817,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 487.16,
+      "end": 487.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 818,
+      "text": "осмелился",
+      "normalizedText": "осмелился",
+      "start": 487.3,
+      "end": 487.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 819,
+      "text": "перечить,",
+      "normalizedText": "перечить",
+      "start": 488.04,
+      "end": 488.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 820,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 489.1,
+      "end": 489.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 821,
+      "text": "дерзнул",
+      "normalizedText": "дерзнул",
+      "start": 489.22,
+      "end": 489.66,
+      "speaker": "narrator"
+    },
+    {
+      "index": 822,
+      "text": "поперек",
+      "normalizedText": "поперек",
+      "start": 489.76,
+      "end": 490.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 823,
+      "text": "слова",
+      "normalizedText": "слова",
+      "start": 490.28,
+      "end": 490.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 824,
+      "text": "молвить.",
+      "normalizedText": "молвить",
+      "start": 490.72,
+      "end": 491.17,
+      "speaker": "narrator"
+    },
+    {
+      "index": 825,
+      "text": "Вот",
+      "normalizedText": "вот",
+      "start": 492.1,
+      "end": 492.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 826,
+      "text": "идет",
+      "normalizedText": "идет",
+      "start": 492.36,
+      "end": 492.62,
+      "speaker": "narrator"
+    },
+    {
+      "index": 827,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 492.64,
+      "end": 492.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 828,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 492.8,
+      "end": 492.82,
+      "speaker": "narrator"
+    },
+    {
+      "index": 829,
+      "text": "синему",
+      "normalizedText": "синему",
+      "start": 492.92,
+      "end": 493.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 830,
+      "text": "морю,",
+      "normalizedText": "морю",
+      "start": 493.42,
+      "end": 493.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 831,
+      "text": "Видит,",
+      "normalizedText": "видит",
+      "start": 494.48,
+      "end": 494.83,
+      "speaker": "narrator"
+    },
+    {
+      "index": 832,
+      "text": "на",
+      "normalizedText": "на",
+      "start": 494.9,
+      "end": 495.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 833,
+      "text": "море",
+      "normalizedText": "море",
+      "start": 495.06,
+      "end": 495.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 834,
+      "text": "черная",
+      "normalizedText": "черная",
+      "start": 495.52,
+      "end": 496.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 835,
+      "text": "буря:",
+      "normalizedText": "буря",
+      "start": 496.18,
+      "end": 496.57,
+      "speaker": "narrator"
+    },
+    {
+      "index": 836,
+      "text": "Так",
+      "normalizedText": "так",
+      "start": 497.34,
+      "end": 497.55,
+      "speaker": "narrator"
+    },
+    {
+      "index": 837,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 497.58,
+      "end": 497.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 838,
+      "text": "вздулись",
+      "normalizedText": "вздулись",
+      "start": 497.66,
+      "end": 498.26,
+      "speaker": "narrator"
+    },
+    {
+      "index": 839,
+      "text": "сердитые",
+      "normalizedText": "сердитые",
+      "start": 498.32,
+      "end": 498.89,
+      "speaker": "narrator"
+    },
+    {
+      "index": 840,
+      "text": "волны,",
+      "normalizedText": "волны",
+      "start": 498.98,
+      "end": 499.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 841,
+      "text": "Так",
+      "normalizedText": "так",
+      "start": 499.94,
+      "end": 500.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 842,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 500.14,
+      "end": 500.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 843,
+      "text": "ходят,",
+      "normalizedText": "ходят",
+      "start": 500.32,
+      "end": 501.16,
+      "speaker": "narrator"
+    },
+    {
+      "index": 844,
+      "text": "так",
+      "normalizedText": "так",
+      "start": 501.22,
+      "end": 501.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 845,
+      "text": "воем",
+      "normalizedText": "воем",
+      "start": 501.5,
+      "end": 501.96,
+      "speaker": "narrator"
+    },
+    {
+      "index": 846,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 502.02,
+      "end": 502.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 847,
+      "text": "воют.",
+      "normalizedText": "воют",
+      "start": 502.2,
+      "end": 502.65,
+      "speaker": "narrator"
+    },
+    {
+      "index": 848,
+      "text": "Стал",
+      "normalizedText": "стал",
+      "start": 503.62,
+      "end": 503.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 849,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 503.94,
+      "end": 504.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 850,
+      "text": "кликать",
+      "normalizedText": "кликать",
+      "start": 504.16,
+      "end": 504.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 851,
+      "text": "золотую",
+      "normalizedText": "золотую",
+      "start": 504.64,
+      "end": 505.2,
+      "speaker": "narrator"
+    },
+    {
+      "index": 852,
+      "text": "рыбку.",
+      "normalizedText": "рыбку",
+      "start": 505.24,
+      "end": 506.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 853,
+      "text": "Приплыла",
+      "normalizedText": "приплыла",
+      "start": 506.5,
+      "end": 507,
+      "speaker": "narrator"
+    },
+    {
+      "index": 854,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 507.06,
+      "end": 507.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 855,
+      "text": "нему",
+      "normalizedText": "нему",
+      "start": 507.16,
+      "end": 507.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 856,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 507.42,
+      "end": 507.79,
+      "speaker": "narrator"
+    },
+    {
+      "index": 857,
+      "text": "спросила:",
+      "normalizedText": "спросила",
+      "start": 508.16,
+      "end": 508.75,
+      "speaker": "narrator"
+    },
+    {
+      "index": 858,
+      "text": "«Чего",
+      "normalizedText": "чего",
+      "start": 509.39,
+      "end": 509.67,
+      "speaker": "narrator"
+    },
+    {
+      "index": 859,
+      "text": "тебе",
+      "normalizedText": "тебе",
+      "start": 509.72,
+      "end": 509.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 860,
+      "text": "надобно,",
+      "normalizedText": "надобно",
+      "start": 509.98,
+      "end": 510.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 861,
+      "text": "старче?»",
+      "normalizedText": "старче",
+      "start": 510.56,
+      "end": 511.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 862,
+      "text": "Ей",
+      "normalizedText": "еи",
+      "start": 512.1,
+      "end": 512.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 863,
+      "text": "старик",
+      "normalizedText": "старик",
+      "start": 512.36,
+      "end": 512.65,
+      "speaker": "narrator"
+    },
+    {
+      "index": 864,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 512.7,
+      "end": 512.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 865,
+      "text": "поклоном",
+      "normalizedText": "поклоном",
+      "start": 512.78,
+      "end": 513.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 866,
+      "text": "отвечает:",
+      "normalizedText": "отвечает",
+      "start": 513.28,
+      "end": 514,
+      "speaker": "narrator"
+    },
+    {
+      "index": 867,
+      "text": "«Смилуйся,",
+      "normalizedText": "смилуися",
+      "start": 514.61,
+      "end": 515.21,
+      "speaker": "narrator"
+    },
+    {
+      "index": 868,
+      "text": "государыня",
+      "normalizedText": "государыня",
+      "start": 515.28,
+      "end": 515.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 869,
+      "text": "рыбка!",
+      "normalizedText": "рыбка",
+      "start": 516.02,
+      "end": 516.409,
+      "speaker": "narrator"
+    },
+    {
+      "index": 870,
+      "text": "Что",
+      "normalizedText": "что",
+      "start": 517.159,
+      "end": 517.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 871,
+      "text": "мне",
+      "normalizedText": "мне",
+      "start": 517.44,
+      "end": 517.6,
+      "speaker": "narrator"
+    },
+    {
+      "index": 872,
+      "text": "делать",
+      "normalizedText": "делать",
+      "start": 517.7,
+      "end": 518.01,
+      "speaker": "narrator"
+    },
+    {
+      "index": 873,
+      "text": "с",
+      "normalizedText": "с",
+      "start": 518.039,
+      "end": 518.1,
+      "speaker": "narrator"
+    },
+    {
+      "index": 874,
+      "text": "проклятою",
+      "normalizedText": "проклятою",
+      "start": 518.12,
+      "end": 518.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 875,
+      "text": "бабой?",
+      "normalizedText": "бабои",
+      "start": 518.799,
+      "end": 519.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 876,
+      "text": "Уж",
+      "normalizedText": "уж",
+      "start": 519.82,
+      "end": 519.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 877,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 520.039,
+      "end": 520.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 878,
+      "text": "хочет",
+      "normalizedText": "хочет",
+      "start": 520.24,
+      "end": 520.659,
+      "speaker": "narrator"
+    },
+    {
+      "index": 879,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 520.7,
+      "end": 520.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 880,
+      "text": "она",
+      "normalizedText": "она",
+      "start": 520.88,
+      "end": 521.09,
+      "speaker": "narrator"
+    },
+    {
+      "index": 881,
+      "text": "царицей,",
+      "normalizedText": "царицеи",
+      "start": 521.2,
+      "end": 522.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 882,
+      "text": "Хочет",
+      "normalizedText": "хочет",
+      "start": 522.419,
+      "end": 522.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 883,
+      "text": "быть",
+      "normalizedText": "быть",
+      "start": 522.82,
+      "end": 522.929,
+      "speaker": "narrator"
+    },
+    {
+      "index": 884,
+      "text": "владычицей",
+      "normalizedText": "владычицеи",
+      "start": 523,
+      "end": 523.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 885,
+      "text": "морскою;",
+      "normalizedText": "морскою",
+      "start": 523.76,
+      "end": 524.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 886,
+      "text": "Чтобы",
+      "normalizedText": "чтобы",
+      "start": 525.1,
+      "end": 525.42,
+      "speaker": "narrator"
+    },
+    {
+      "index": 887,
+      "text": "жить",
+      "normalizedText": "жить",
+      "start": 525.44,
+      "end": 525.7,
+      "speaker": "narrator"
+    },
+    {
+      "index": 888,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 525.76,
+      "end": 525.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 889,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 525.88,
+      "end": 525.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 890,
+      "text": "Окияне-море,",
+      "normalizedText": "окияне-море",
+      "start": 525.94,
+      "end": 527.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 891,
+      "text": "Чтобы",
+      "normalizedText": "чтобы",
+      "start": 527.52,
+      "end": 527.78,
+      "speaker": "narrator"
+    },
+    {
+      "index": 892,
+      "text": "ты",
+      "normalizedText": "ты",
+      "start": 527.9,
+      "end": 528.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 893,
+      "text": "сама",
+      "normalizedText": "сама",
+      "start": 528.1,
+      "end": 528.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 894,
+      "text": "ей",
+      "normalizedText": "еи",
+      "start": 528.58,
+      "end": 528.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 895,
+      "text": "служила",
+      "normalizedText": "служила",
+      "start": 528.8,
+      "end": 529.86,
+      "speaker": "narrator"
+    },
+    {
+      "index": 896,
+      "text": "И",
+      "normalizedText": "и",
+      "start": 529.9,
+      "end": 530,
+      "speaker": "narrator"
+    },
+    {
+      "index": 897,
+      "text": "была",
+      "normalizedText": "была",
+      "start": 530.02,
+      "end": 530.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 898,
+      "text": "бы",
+      "normalizedText": "бы",
+      "start": 530.42,
+      "end": 530.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 899,
+      "text": "у",
+      "normalizedText": "у",
+      "start": 530.54,
+      "end": 530.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 900,
+      "text": "ней",
+      "normalizedText": "неи",
+      "start": 530.68,
+      "end": 531.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 901,
+      "text": "на",
+      "normalizedText": "на",
+      "start": 531.08,
+      "end": 531.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 902,
+      "text": "посылках».",
+      "normalizedText": "посылках",
+      "start": 531.22,
+      "end": 531.93,
+      "speaker": "narrator"
+    },
+    {
+      "index": 903,
+      "text": "Ничего",
+      "normalizedText": "ничего",
+      "start": 532.96,
+      "end": 533.4,
+      "speaker": "narrator"
+    },
+    {
+      "index": 904,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 533.44,
+      "end": 533.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 905,
+      "text": "сказала",
+      "normalizedText": "сказала",
+      "start": 533.56,
+      "end": 534.06,
+      "speaker": "narrator"
+    },
+    {
+      "index": 906,
+      "text": "рыбка,",
+      "normalizedText": "рыбка",
+      "start": 534.1,
+      "end": 534.5,
+      "speaker": "narrator"
+    },
+    {
+      "index": 907,
+      "text": "Лишь",
+      "normalizedText": "лишь",
+      "start": 535.18,
+      "end": 535.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 908,
+      "text": "хвостом",
+      "normalizedText": "хвостом",
+      "start": 535.4,
+      "end": 535.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 909,
+      "text": "по",
+      "normalizedText": "по",
+      "start": 535.94,
+      "end": 536.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 910,
+      "text": "воде",
+      "normalizedText": "воде",
+      "start": 536.06,
+      "end": 536.36,
+      "speaker": "narrator"
+    },
+    {
+      "index": 911,
+      "text": "плеснула",
+      "normalizedText": "плеснула",
+      "start": 536.4,
+      "end": 537.14,
+      "speaker": "narrator"
+    },
+    {
+      "index": 912,
+      "text": "И",
+      "normalizedText": "и",
+      "start": 537.46,
+      "end": 537.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 913,
+      "text": "ушла",
+      "normalizedText": "ушла",
+      "start": 537.6,
+      "end": 538.28,
+      "speaker": "narrator"
+    },
+    {
+      "index": 914,
+      "text": "в",
+      "normalizedText": "в",
+      "start": 538.32,
+      "end": 538.38,
+      "speaker": "narrator"
+    },
+    {
+      "index": 915,
+      "text": "глубокое",
+      "normalizedText": "глубокое",
+      "start": 538.42,
+      "end": 539.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 916,
+      "text": "море.",
+      "normalizedText": "море",
+      "start": 539.14,
+      "end": 539.52,
+      "speaker": "narrator"
+    },
+    {
+      "index": 917,
+      "text": "Долго",
+      "normalizedText": "долго",
+      "start": 540.54,
+      "end": 540.9,
+      "speaker": "narrator"
+    },
+    {
+      "index": 918,
+      "text": "у",
+      "normalizedText": "у",
+      "start": 540.94,
+      "end": 540.98,
+      "speaker": "narrator"
+    },
+    {
+      "index": 919,
+      "text": "моря",
+      "normalizedText": "моря",
+      "start": 541.06,
+      "end": 541.319,
+      "speaker": "narrator"
+    },
+    {
+      "index": 920,
+      "text": "ждал",
+      "normalizedText": "ждал",
+      "start": 541.38,
+      "end": 541.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 921,
+      "text": "он",
+      "normalizedText": "он",
+      "start": 541.68,
+      "end": 541.76,
+      "speaker": "narrator"
+    },
+    {
+      "index": 922,
+      "text": "ответа,",
+      "normalizedText": "ответа",
+      "start": 541.84,
+      "end": 542.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 923,
+      "text": "Не",
+      "normalizedText": "не",
+      "start": 542.8,
+      "end": 542.88,
+      "speaker": "narrator"
+    },
+    {
+      "index": 924,
+      "text": "дождался,",
+      "normalizedText": "дождался",
+      "start": 542.96,
+      "end": 543.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 925,
+      "text": "к",
+      "normalizedText": "к",
+      "start": 544.16,
+      "end": 544.24,
+      "speaker": "narrator"
+    },
+    {
+      "index": 926,
+      "text": "старухе",
+      "normalizedText": "старухе",
+      "start": 544.26,
+      "end": 544.74,
+      "speaker": "narrator"
+    },
+    {
+      "index": 927,
+      "text": "воротился",
+      "normalizedText": "воротился",
+      "start": 544.76,
+      "end": 545.43,
+      "speaker": "narrator"
+    },
+    {
+      "index": 928,
+      "text": "— Глядь:",
+      "normalizedText": "глядь",
+      "start": 546.26,
+      "end": 546.63,
+      "speaker": "narrator"
+    },
+    {
+      "index": 929,
+      "text": "опять",
+      "normalizedText": "опять",
+      "start": 547.26,
+      "end": 547.64,
+      "speaker": "narrator"
+    },
+    {
+      "index": 930,
+      "text": "перед",
+      "normalizedText": "перед",
+      "start": 547.68,
+      "end": 547.92,
+      "speaker": "narrator"
+    },
+    {
+      "index": 931,
+      "text": "ним",
+      "normalizedText": "ним",
+      "start": 547.96,
+      "end": 548.12,
+      "speaker": "narrator"
+    },
+    {
+      "index": 932,
+      "text": "землянка;",
+      "normalizedText": "землянка",
+      "start": 548.18,
+      "end": 548.8,
+      "speaker": "narrator"
+    },
+    {
+      "index": 933,
+      "text": "На",
+      "normalizedText": "на",
+      "start": 549.5,
+      "end": 549.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 934,
+      "text": "пороге",
+      "normalizedText": "пороге",
+      "start": 549.64,
+      "end": 550.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 935,
+      "text": "сидит",
+      "normalizedText": "сидит",
+      "start": 550.1,
+      "end": 550.44,
+      "speaker": "narrator"
+    },
+    {
+      "index": 936,
+      "text": "его",
+      "normalizedText": "его",
+      "start": 550.5,
+      "end": 550.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 937,
+      "text": "старуха,",
+      "normalizedText": "старуха",
+      "start": 550.8,
+      "end": 551.94,
+      "speaker": "narrator"
+    },
+    {
+      "index": 938,
+      "text": "А",
+      "normalizedText": "а",
+      "start": 551.98,
+      "end": 552.08,
+      "speaker": "narrator"
+    },
+    {
+      "index": 939,
+      "text": "пред",
+      "normalizedText": "пред",
+      "start": 552.1,
+      "end": 552.3,
+      "speaker": "narrator"
+    },
+    {
+      "index": 940,
+      "text": "нею",
+      "normalizedText": "нею",
+      "start": 552.38,
+      "end": 552.72,
+      "speaker": "narrator"
+    },
+    {
+      "index": 941,
+      "text": "разбитое",
+      "normalizedText": "разбитое",
+      "start": 552.96,
+      "end": 553.58,
+      "speaker": "narrator"
+    },
+    {
+      "index": 942,
+      "text": "корыто.",
+      "normalizedText": "корыто",
+      "start": 553.62,
+      "end": 553.97,
+      "speaker": "narrator"
+    }
+  ]
+}

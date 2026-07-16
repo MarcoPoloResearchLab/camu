@@ -1,0 +1,190 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "coyote-tales",
+  "storyPath": "american/002-coyote-tales.md",
+  "language": "en",
+  "source": {
+    "kind": "clean-catalog",
+    "path": "source-library/clean/american/002-coyote-tales.md",
+    "sha256": "d6e41a2521b7e5d90dd15b8c210aa61e6f69aa34fb77b8c1929fecda895e59c4"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "THE COYOTE AND THE BLACKBIRDS"
+      ],
+      "text": "THE COYOTE AND THE BLACKBIRDS"
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "ONCE upon a time a Coyote lived near an open wood. As he went to walk one day near the edge of the wood, he heard the Blackbirds (the Indian name means “seeds of the prairie”) calling excitedly:"
+      ],
+      "text": "ONCE upon a time a Coyote lived near an open wood. As he went to walk one day near the edge of the wood, he heard the Blackbirds (the Indian name means “seeds of the prairie”) calling excitedly:"
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "“Bring my bag! Bring my bag! It is going to hail!”"
+      ],
+      "text": "“Bring my bag! Bring my bag! It is going to hail!”"
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "The Coyote, being very curious, came near and saw that they all had buckskin bags to which they were tying lassos, the other ends of which were thrown over the boughs of the trees. Very much surprised, the Coyote came to them and asked:"
+      ],
+      "text": "The Coyote, being very curious, came near and saw that they all had buckskin bags to which they were tying lassos, the other ends of which were thrown over the boughs of the trees. Very much surprised, the Coyote came to them and asked:"
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "lines": [
+        "“Blackbird-friends, what are you doing?”"
+      ],
+      "text": "“Blackbird-friends, what are you doing?”"
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "lines": [
+        "“Oh, friend Coyote,” they replied, “we are making ourselves ready, for soon there will be a very hard hail-storm, and we do not wish to be pelted to death. We are going to get into these bags and pull ourselves up under the branches, where the hail cannot strike us.”"
+      ],
+      "text": "“Oh, friend Coyote,” they replied, “we are making ourselves ready, for soon there will be a very hard hail-storm, and we do not wish to be pelted to death. We are going to get into these bags and pull ourselves up under the branches, where the hail cannot strike us.”"
+    },
+    {
+      "index": 6,
+      "type": "paragraph",
+      "lines": [
+        "“That is very good,” said the Coyote, “and I would like to do so, too, if you will let me join you.”"
+      ],
+      "text": "“That is very good,” said the Coyote, “and I would like to do so, too, if you will let me join you.”"
+    },
+    {
+      "index": 7,
+      "type": "paragraph",
+      "lines": [
+        "“Oh, yes! Just run home and get a bag and a lasso, and come back here and we will help you,” said the Pah-tahn, never smiling."
+      ],
+      "text": "“Oh, yes! Just run home and get a bag and a lasso, and come back here and we will help you,” said the Pah-tahn, never smiling."
+    },
+    {
+      "index": 8,
+      "type": "paragraph",
+      "lines": [
+        "So the Coyote started running for home, and got a large bag and a lasso, and came back to the Blackbirds, who were waiting. They fixed the rope and bag for him, putting the noose around the neck of the bag so that it would be closed tight when the rope was pulled. Then they threw the end of the lasso over a strong branch and said:"
+      ],
+      "text": "So the Coyote started running for home, and got a large bag and a lasso, and came back to the Blackbirds, who were waiting. They fixed the rope and bag for him, putting the noose around the neck of the bag so that it would be closed tight when the rope was pulled. Then they threw the end of the lasso over a strong branch and said:"
+    },
+    {
+      "index": 9,
+      "type": "paragraph",
+      "lines": [
+        "“Now, friend Coyote, you get into your bag first, for you are so big and heavy that you cannot pull yourself up, and we will have to help you.”"
+      ],
+      "text": "“Now, friend Coyote, you get into your bag first, for you are so big and heavy that you cannot pull yourself up, and we will have to help you.”"
+    },
+    {
+      "index": 10,
+      "type": "paragraph",
+      "lines": [
+        "The Coyote crawled into the bag, and all the Blackbirds taking hold of the rope, pulled with all their might till the bag was swung clear up under the branch. Then they tied the end of the lasso around the tree so the bag could not come down, and ran around picking up all the pebbles they could find."
+      ],
+      "text": "The Coyote crawled into the bag, and all the Blackbirds taking hold of the rope, pulled with all their might till the bag was swung clear up under the branch. Then they tied the end of the lasso around the tree so the bag could not come down, and ran around picking up all the pebbles they could find."
+    },
+    {
+      "index": 11,
+      "type": "paragraph",
+      "lines": [
+        "“Mercy! How the hail comes!” they cried excitedly, and began to throw stones at the swinging bag as hard as ever they could."
+      ],
+      "text": "“Mercy! How the hail comes!” they cried excitedly, and began to throw stones at the swinging bag as hard as ever they could."
+    },
+    {
+      "index": 12,
+      "type": "paragraph",
+      "lines": [
+        "“Mercy!” howled the Coyote, as the pebbles pattered against him. “But this is a terrible storm, Blackbird-friends! It pelts me dreadfully! And how are you getting along?”"
+      ],
+      "text": "“Mercy!” howled the Coyote, as the pebbles pattered against him. “But this is a terrible storm, Blackbird-friends! It pelts me dreadfully! And how are you getting along?”"
+    },
+    {
+      "index": 13,
+      "type": "paragraph",
+      "lines": [
+        "“It is truly very bad, friend Coyote,” they answered, “but you are bigger and stronger than we, and ought to endure it.” And they kept pelting him, all the time crying and chattering as if they, too, were suffering greatly from the hail."
+      ],
+      "text": "“It is truly very bad, friend Coyote,” they answered, “but you are bigger and stronger than we, and ought to endure it.” And they kept pelting him, all the time crying and chattering as if they, too, were suffering greatly from the hail."
+    },
+    {
+      "index": 14,
+      "type": "paragraph",
+      "lines": [
+        "“Ouch!” yelled the Coyote. “That one hit me very near the eye, friends! I fear this evil storm will kill us all!”"
+      ],
+      "text": "“Ouch!” yelled the Coyote. “That one hit me very near the eye, friends! I fear this evil storm will kill us all!”"
+    },
+    {
+      "index": 15,
+      "type": "paragraph",
+      "lines": [
+        "“But be brave, friend,” called back the Blackbirds. “We keep our hearts, and so should you, for you are much stronger than we.” And they pelted him all the harder."
+      ],
+      "text": "“But be brave, friend,” called back the Blackbirds. “We keep our hearts, and so should you, for you are much stronger than we.” And they pelted him all the harder."
+    },
+    {
+      "index": 16,
+      "type": "paragraph",
+      "lines": [
+        "So they kept it up until they were too tired to throw any more; and as for the Coyote, he was so bruised and sore that he could hardly move. Then they untied the rope and let the bag slowly to the ground, and loosened the noose at the neck and flew up into the trees with sober faces."
+      ],
+      "text": "So they kept it up until they were too tired to throw any more; and as for the Coyote, he was so bruised and sore that he could hardly move. Then they untied the rope and let the bag slowly to the ground, and loosened the noose at the neck and flew up into the trees with sober faces."
+    },
+    {
+      "index": 17,
+      "type": "paragraph",
+      "lines": [
+        "“Ow!” groaned the Coyote, “I am nearly dead!” And he crawled weeping and groaning from the bag, and began to lick his bruises. But when he looked around and saw the sun shining and the ground dry, and not a hailstone anywhere, he knew that the Blackbirds had given him a trick, and he limped home in a terrible rage, vowing that as soon as ever he got well he would follow and eat the Blackbirds as long as he lived. And ever since, even to this day, he has been following them to eat them, and that is why the Coyote and the Blackbirds are always at war."
+      ],
+      "text": "“Ow!” groaned the Coyote, “I am nearly dead!” And he crawled weeping and groaning from the bag, and began to lick his bruises. But when he looked around and saw the sun shining and the ground dry, and not a hailstone anywhere, he knew that the Blackbirds had given him a trick, and he limped home in a terrible rage, vowing that as soon as ever he got well he would follow and eat the Blackbirds as long as he lived. And ever since, even to this day, he has been following them to eat them, and that is why the Coyote and the Blackbirds are always at war."
+    },
+    {
+      "index": 18,
+      "type": "paragraph",
+      "lines": [
+        "“Is that so?” cried all the boys in chorus, their eyes shining like coals."
+      ],
+      "text": "“Is that so?” cried all the boys in chorus, their eyes shining like coals."
+    },
+    {
+      "index": 19,
+      "type": "paragraph",
+      "lines": [
+        "“Oh, yes, that is the cause of the war,” said old Antonio, gravely."
+      ],
+      "text": "“Oh, yes, that is the cause of the war,” said old Antonio, gravely."
+    },
+    {
+      "index": 20,
+      "type": "paragraph",
+      "lines": [
+        "“And now, brother, there is a tail to you,” turning to the tall, gray-haired Felipe[16]; and clearing his throat, Felipe begins about"
+      ],
+      "text": "“And now, brother, there is a tail to you,” turning to the tall, gray-haired Felipe[16]; and clearing his throat, Felipe begins about"
+    }
+  ],
+  "plainText": "THE COYOTE AND THE BLACKBIRDS\n\nONCE upon a time a Coyote lived near an open wood. As he went to walk one day near the edge of the wood, he heard the Blackbirds (the Indian name means “seeds of the prairie”) calling excitedly:\n\n“Bring my bag! Bring my bag! It is going to hail!”\n\nThe Coyote, being very curious, came near and saw that they all had buckskin bags to which they were tying lassos, the other ends of which were thrown over the boughs of the trees. Very much surprised, the Coyote came to them and asked:\n\n“Blackbird-friends, what are you doing?”\n\n“Oh, friend Coyote,” they replied, “we are making ourselves ready, for soon there will be a very hard hail-storm, and we do not wish to be pelted to death. We are going to get into these bags and pull ourselves up under the branches, where the hail cannot strike us.”\n\n“That is very good,” said the Coyote, “and I would like to do so, too, if you will let me join you.”\n\n“Oh, yes! Just run home and get a bag and a lasso, and come back here and we will help you,” said the Pah-tahn, never smiling.\n\nSo the Coyote started running for home, and got a large bag and a lasso, and came back to the Blackbirds, who were waiting. They fixed the rope and bag for him, putting the noose around the neck of the bag so that it would be closed tight when the rope was pulled. Then they threw the end of the lasso over a strong branch and said:\n\n“Now, friend Coyote, you get into your bag first, for you are so big and heavy that you cannot pull yourself up, and we will have to help you.”\n\nThe Coyote crawled into the bag, and all the Blackbirds taking hold of the rope, pulled with all their might till the bag was swung clear up under the branch. Then they tied the end of the lasso around the tree so the bag could not come down, and ran around picking up all the pebbles they could find.\n\n“Mercy! How the hail comes!” they cried excitedly, and began to throw stones at the swinging bag as hard as ever they could.\n\n“Mercy!” howled the Coyote, as the pebbles pattered against him. “But this is a terrible storm, Blackbird-friends! It pelts me dreadfully! And how are you getting along?”\n\n“It is truly very bad, friend Coyote,” they answered, “but you are bigger and stronger than we, and ought to endure it.” And they kept pelting him, all the time crying and chattering as if they, too, were suffering greatly from the hail.\n\n“Ouch!” yelled the Coyote. “That one hit me very near the eye, friends! I fear this evil storm will kill us all!”\n\n“But be brave, friend,” called back the Blackbirds. “We keep our hearts, and so should you, for you are much stronger than we.” And they pelted him all the harder.\n\nSo they kept it up until they were too tired to throw any more; and as for the Coyote, he was so bruised and sore that he could hardly move. Then they untied the rope and let the bag slowly to the ground, and loosened the noose at the neck and flew up into the trees with sober faces.\n\n“Ow!” groaned the Coyote, “I am nearly dead!” And he crawled weeping and groaning from the bag, and began to lick his bruises. But when he looked around and saw the sun shining and the ground dry, and not a hailstone anywhere, he knew that the Blackbirds had given him a trick, and he limped home in a terrible rage, vowing that as soon as ever he got well he would follow and eat the Blackbirds as long as he lived. And ever since, even to this day, he has been following them to eat them, and that is why the Coyote and the Blackbirds are always at war.\n\n“Is that so?” cried all the boys in chorus, their eyes shining like coals.\n\n“Oh, yes, that is the cause of the war,” said old Antonio, gravely.\n\n“And now, brother, there is a tail to you,” turning to the tall, gray-haired Felipe[16]; and clearing his throat, Felipe begins about",
+  "plainTextSha256": "b11407a3fbc7805ffe8189e0c02b9e89084e1695497fceb4e8cf267a057ab3bb",
+  "spokenRelation": {
+    "sha256": "74657540af7e644cc522116218856d58803fb9a3380fa5bc016d723151416a28",
+    "tokenCount": 724
+  },
+  "wordCount": 724,
+  "characterCount": 3778,
+  "sha256": "edb8a44dd1e2de5e1e2a90c94dfcc8f5c3bbc485a91b44edb03bd2c092aae864"
+}
