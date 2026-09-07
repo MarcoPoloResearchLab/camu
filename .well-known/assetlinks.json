@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mprlab.kamu",
+      "sha256_cert_fingerprints": [
+        "B8:92:C3:6A:A9:7F:1E:A6:05:75:8D:A1:B4:15:2E:D3:C7:A7:F0:E9:C5:75:FF:08:2C:B7:13:65:A5:F7:89:09"
+      ]
+    }
+  }
+]

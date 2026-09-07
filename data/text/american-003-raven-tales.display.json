@@ -1,0 +1,526 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "raven-tales",
+  "storyPath": "american/003-raven-tales.md",
+  "language": "en",
+  "source": {
+    "kind": "story-root-canonical",
+    "path": "source/canonical.txt",
+    "sha256": "8cc9875098e7815647bffc0fedbdfea05ada9d0ee0c1b35aa93ddf258444b9ab"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "THE BRINGING OF THE LIGHT BY RAVEN"
+      ],
+      "text": "THE BRINGING OF THE LIGHT BY RAVEN"
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "_Eskimo_ (_Lower Yukon_)"
+      ],
+      "text": "_Eskimo_ (_Lower Yukon_)"
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "In the first days, the sun and moon were in the sky. Then the sun and moon were taken away and people had only the light of the stars. Even the magic of the shamans failed to bring back the light."
+      ],
+      "text": "In the first days, the sun and moon were in the sky. Then the sun and moon were taken away and people had only the light of the stars. Even the magic of the shamans failed to bring back the light."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "Now there was an orphan boy in the village who sat with the humble people over the entrance way of the kashim. He was despised by every one. When the magic of the shamans failed to bring back the sun and moon into the sky the boy mocked them. He said, \"What fine shamans you must be. You cannot bring back the light, but I can.\" Then the shamans were angry and beat that boy and drove him out of the kashim. Now this boy was like any other boy until he put on a raven coat he had. Then he became Raven."
+      ],
+      "text": "Now there was an orphan boy in the village who sat with the humble people over the entrance way of the kashim. He was despised by every one. When the magic of the shamans failed to bring back the sun and moon into the sky the boy mocked them. He said, \"What fine shamans you must be. You cannot bring back the light, but I can.\" Then the shamans were angry and beat that boy and drove him out of the kashim. Now this boy was like any other boy until he put on a raven coat he had. Then he became Raven."
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "lines": [
+        "Now the boy went to his aunt's house. He told her the shamans had failed to bring back the light, and they had beaten him when he mocked them. The boy said, \"Where are the sun and moon?\""
+      ],
+      "text": "Now the boy went to his aunt's house. He told her the shamans had failed to bring back the light, and they had beaten him when he mocked them. The boy said, \"Where are the sun and moon?\""
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "lines": [
+        "The aunt said, \"I do not know.\""
+      ],
+      "text": "The aunt said, \"I do not know.\""
+    },
+    {
+      "index": 6,
+      "type": "paragraph",
+      "lines": [
+        "The boy said, \"I am sure you know. Look what a finely sewed coat you wear. You could not sew it that way if you did not know where the light is.\""
+      ],
+      "text": "The boy said, \"I am sure you know. Look what a finely sewed coat you wear. You could not sew it that way if you did not know where the light is.\""
+    },
+    {
+      "index": 7,
+      "type": "paragraph",
+      "lines": [
+        "Thus they argued."
+      ],
+      "text": "Thus they argued."
+    },
+    {
+      "index": 8,
+      "type": "paragraph",
+      "lines": [
+        "Then the aunt said, \"If you wish to find the light, go far to the south. Go on snowshoes. You will know the place when you get there.\""
+      ],
+      "text": "Then the aunt said, \"If you wish to find the light, go far to the south. Go on snowshoes. You will know the place when you get there.\""
+    },
+    {
+      "index": 9,
+      "type": "paragraph",
+      "lines": [
+        "The boy put on his snowshoes and set off toward the south. Many days he travelled and the darkness was always the same. When he had gone a very long way he saw far in front of him a ray of light. Then the boy hurried on. As he went farther the light showed again, plainer than before. Then it vanished for a time. Thus it kept appearing and vanishing."
+      ],
+      "text": "The boy put on his snowshoes and set off toward the south. Many days he travelled and the darkness was always the same. When he had gone a very long way he saw far in front of him a ray of light. Then the boy hurried on. As he went farther the light showed again, plainer than before. Then it vanished for a time. Thus it kept appearing and vanishing."
+    },
+    {
+      "index": 10,
+      "type": "paragraph",
+      "lines": [
+        "At last the boy came to a large hill. One side was brightly lighted; the other side was black as night. Close to the hill was a hut. A man was shovelling snow from in front of it. The man tossed the snow high in the air; then the light could not be seen until the snow fell. Then the man tossed the snow again. So the light kept appearing and disappearing. Close to the house was a large ball of fire."
+      ],
+      "text": "At last the boy came to a large hill. One side was brightly lighted; the other side was black as night. Close to the hill was a hut. A man was shovelling snow from in front of it. The man tossed the snow high in the air; then the light could not be seen until the snow fell. Then the man tossed the snow again. So the light kept appearing and disappearing. Close to the house was a large ball of fire."
+    },
+    {
+      "index": 11,
+      "type": "paragraph",
+      "lines": [
+        "The boy stopped and began to plan how to steal the ball of light."
+      ],
+      "text": "The boy stopped and began to plan how to steal the ball of light."
+    },
+    {
+      "index": 12,
+      "type": "paragraph",
+      "lines": [
+        "Then the boy walked up to the man. He said, \"Why do you throw up the snow? It hides the light from our village.\""
+      ],
+      "text": "Then the boy walked up to the man. He said, \"Why do you throw up the snow? It hides the light from our village.\""
+    },
+    {
+      "index": 13,
+      "type": "paragraph",
+      "lines": [
+        "The man said, \"I am not hiding the light. I am cleaning away the snow. Who are you? Where did you come from?\""
+      ],
+      "text": "The man said, \"I am not hiding the light. I am cleaning away the snow. Who are you? Where did you come from?\""
+    },
+    {
+      "index": 14,
+      "type": "paragraph",
+      "lines": [
+        "The boy said, \"It is so dark at our village I do not want to stay there. I came here to live with you.\""
+      ],
+      "text": "The boy said, \"It is so dark at our village I do not want to stay there. I came here to live with you.\""
+    },
+    {
+      "index": 15,
+      "type": "paragraph",
+      "lines": [
+        "\"All the time?\" asked the man."
+      ],
+      "text": "\"All the time?\" asked the man."
+    },
+    {
+      "index": 16,
+      "type": "paragraph",
+      "lines": [
+        "\"Yes,\" said the boy."
+      ],
+      "text": "\"Yes,\" said the boy."
+    },
+    {
+      "index": 17,
+      "type": "paragraph",
+      "lines": [
+        "The man said, \"All right. Come into the house with me.\" Then he dropped his shovel on the ground. He stooped down to lead the way through the underground passage into the house. He let the curtain fall in front of the door as he passed, because he thought the boy was close beside him."
+      ],
+      "text": "The man said, \"All right. Come into the house with me.\" Then he dropped his shovel on the ground. He stooped down to lead the way through the underground passage into the house. He let the curtain fall in front of the door as he passed, because he thought the boy was close beside him."
+    },
+    {
+      "index": 18,
+      "type": "paragraph",
+      "lines": [
+        "Then the boy caught up the ball of light. He put it in the turned-up flap of his fur coat. Then he picked up the shovel and ran away toward the north. He ran until his feet were tired. Then he put on his raven coat and flew away. He flew rapidly to the north. Raven could hear the man shriek behind him. The man was pursuing him. But Raven flew faster. Then the man cried, \"Keep the light; but give me my shovel.\""
+      ],
+      "text": "Then the boy caught up the ball of light. He put it in the turned-up flap of his fur coat. Then he picked up the shovel and ran away toward the north. He ran until his feet were tired. Then he put on his raven coat and flew away. He flew rapidly to the north. Raven could hear the man shriek behind him. The man was pursuing him. But Raven flew faster. Then the man cried, \"Keep the light; but give me my shovel.\""
+    },
+    {
+      "index": 19,
+      "type": "paragraph",
+      "lines": [
+        "Raven said, \"No, you cannot have your shovel. You made our village dark.\" So Raven flew faster."
+      ],
+      "text": "Raven said, \"No, you cannot have your shovel. You made our village dark.\" So Raven flew faster."
+    },
+    {
+      "index": 20,
+      "type": "paragraph",
+      "lines": [
+        "Now as Raven flew, he broke off a little piece of the light. This made day. Then he went on a long time in darkness, until he broke off another piece of light. Thus it was day again. So as Raven flew to the village he broke off the pieces of light. When Raven reached the kashim of his own village he threw away the last piece. He went into the kashim and said to the shamans, \"I have brought back the light. It will be light and then dark, so as to make day and night.\""
+      ],
+      "text": "Now as Raven flew, he broke off a little piece of the light. This made day. Then he went on a long time in darkness, until he broke off another piece of light. Thus it was day again. So as Raven flew to the village he broke off the pieces of light. When Raven reached the kashim of his own village he threw away the last piece. He went into the kashim and said to the shamans, \"I have brought back the light. It will be light and then dark, so as to make day and night.\""
+    },
+    {
+      "index": 21,
+      "type": "paragraph",
+      "lines": [
+        "After this Raven went out upon the ice because his home was on the seacoast. Then a great wind arose, and the ice drifted with him across the sea to the land on the other side."
+      ],
+      "text": "After this Raven went out upon the ice because his home was on the seacoast. Then a great wind arose, and the ice drifted with him across the sea to the land on the other side."
+    },
+    {
+      "index": 22,
+      "type": "paragraph",
+      "lines": [
+        "Thus Raven brought back the light. It is night and day, as he said it would be. But sometimes the nights are very long because Raven travelled a long way without throwing away a piece of the light."
+      ],
+      "text": "Thus Raven brought back the light. It is night and day, as he said it would be. But sometimes the nights are very long because Raven travelled a long way without throwing away a piece of the light."
+    },
+    {
+      "index": 23,
+      "type": "paragraph",
+      "lines": [
+        "DAYLIGHT ON THE NASS RIVER"
+      ],
+      "text": "DAYLIGHT ON THE NASS RIVER"
+    },
+    {
+      "index": 24,
+      "type": "paragraph",
+      "lines": [
+        "_Tlingit_ (_Wrangell_)"
+      ],
+      "text": "_Tlingit_ (_Wrangell_)"
+    },
+    {
+      "index": 25,
+      "type": "paragraph",
+      "lines": [
+        "When Raven had grown quite large he walked down the bank of the Nass River one day, until he heard the noise people were making in the darkness as they fished for olachen. Now all the people in the world lived at one place on the Nass River. They had heard that Raven-at-the-head-of-Nass had something called \"daylight.\" They were afraid of it and talked about it a great deal."
+      ],
+      "text": "When Raven had grown quite large he walked down the bank of the Nass River one day, until he heard the noise people were making in the darkness as they fished for olachen. Now all the people in the world lived at one place on the Nass River. They had heard that Raven-at-the-head-of-Nass had something called \"daylight.\" They were afraid of it and talked about it a great deal."
+    },
+    {
+      "index": 26,
+      "type": "paragraph",
+      "lines": [
+        "Raven shouted to the fishermen, \"Why do you make so much noise? If you make so much noise I will bring the daylight here.\""
+      ],
+      "text": "Raven shouted to the fishermen, \"Why do you make so much noise? If you make so much noise I will bring the daylight here.\""
+    },
+    {
+      "index": 27,
+      "type": "paragraph",
+      "lines": [
+        "Eight canoe-loads of people were fishing there. They said, \"You are not Nas-ca-ki-yel. You are not Raven-at-the-head-of-Nass. How can you have the daylight?\" They kept on making much noise."
+      ],
+      "text": "Eight canoe-loads of people were fishing there. They said, \"You are not Nas-ca-ki-yel. You are not Raven-at-the-head-of-Nass. How can you have the daylight?\" They kept on making much noise."
+    },
+    {
+      "index": 28,
+      "type": "paragraph",
+      "lines": [
+        "Then Raven opened the box and daylight shot over the world like lightning. They made still more noise. So Raven opened the box wide and there was daylight everywhere."
+      ],
+      "text": "Then Raven opened the box and daylight shot over the world like lightning. They made still more noise. So Raven opened the box wide and there was daylight everywhere."
+    },
+    {
+      "index": 29,
+      "type": "paragraph",
+      "lines": [
+        "Then the people were frightened. Some ran into the woods and some jumped into the water. Those that had clothes of fur seal skins jumped into the water; they became seals. Those which had clothing of bear skins, marten skins, and wolf skins, ran into the woods and turned into grizzly bears, martens, and wolves."
+      ],
+      "text": "Then the people were frightened. Some ran into the woods and some jumped into the water. Those that had clothes of fur seal skins jumped into the water; they became seals. Those which had clothing of bear skins, marten skins, and wolf skins, ran into the woods and turned into grizzly bears, martens, and wolves."
+    },
+    {
+      "index": 30,
+      "type": "paragraph",
+      "lines": [
+        "THE NAMING OF THE BIRDS"
+      ],
+      "text": "THE NAMING OF THE BIRDS"
+    },
+    {
+      "index": 31,
+      "type": "paragraph",
+      "lines": [
+        "_Tlingit_ (_Wrangell_)"
+      ],
+      "text": "_Tlingit_ (_Wrangell_)"
+    },
+    {
+      "index": 32,
+      "type": "paragraph",
+      "lines": [
+        "Now Raven went around among the birds, teaching them. He said to Grouse, \"You are to live in a place where it is wintry. You will always live in a place high up so you will have plenty of breezes.\" Then Raven gave Grouse four white pebbles. He said, \"You will never starve so long as you have these four pebbles.\""
+      ],
+      "text": "Now Raven went around among the birds, teaching them. He said to Grouse, \"You are to live in a place where it is wintry. You will always live in a place high up so you will have plenty of breezes.\" Then Raven gave Grouse four white pebbles. He said, \"You will never starve so long as you have these four pebbles.\""
+    },
+    {
+      "index": 33,
+      "type": "paragraph",
+      "lines": [
+        "Raven also said to Grouse, \"You know that Sea-lion is your grandchild. You must get four more pebbles and give them to him.\" That is why the sea-lion has four large pebbles. It throws these at hunters. If one strikes a person, it kills him. From this story it is known that Grouse and Sea-lion understand each other."
+      ],
+      "text": "Raven also said to Grouse, \"You know that Sea-lion is your grandchild. You must get four more pebbles and give them to him.\" That is why the sea-lion has four large pebbles. It throws these at hunters. If one strikes a person, it kills him. From this story it is known that Grouse and Sea-lion understand each other."
+    },
+    {
+      "index": 34,
+      "type": "paragraph",
+      "lines": [
+        "Raven said to Ptarmigan, \"You will be the maker of snowshoes. You will know how to travel in snow.\" It was from these birds that the Athapascans learned how to make snowshoes, and how to put the lacings on."
+      ],
+      "text": "Raven said to Ptarmigan, \"You will be the maker of snowshoes. You will know how to travel in snow.\" It was from these birds that the Athapascans learned how to make snowshoes, and how to put the lacings on."
+    },
+    {
+      "index": 35,
+      "type": "paragraph",
+      "lines": [
+        "Raven came next to Wild Canary, that lives all the year around in the Tlingit country. He said, \"You will be head among the very small birds. You are not to live on the same food as human beings. Keep away from them.\""
+      ],
+      "text": "Raven came next to Wild Canary, that lives all the year around in the Tlingit country. He said, \"You will be head among the very small birds. You are not to live on the same food as human beings. Keep away from them.\""
+    },
+    {
+      "index": 36,
+      "type": "paragraph",
+      "lines": [
+        "Then Raven said to Robin, \"You will make people happy by your whistle. You will be a good whistler.\""
+      ],
+      "text": "Then Raven said to Robin, \"You will make people happy by your whistle. You will be a good whistler.\""
+    },
+    {
+      "index": 37,
+      "type": "paragraph",
+      "lines": [
+        "Then Raven said to Kun, the Flicker, \"You will be chief among the birds of your size. You will not be found in all places. You will seldom be seen.\""
+      ],
+      "text": "Then Raven said to Kun, the Flicker, \"You will be chief among the birds of your size. You will not be found in all places. You will seldom be seen.\""
+    },
+    {
+      "index": 38,
+      "type": "paragraph",
+      "lines": [
+        "Raven said to Lugan, a bird that lives far out on the ocean, \"You will seldom be seen near shore. You will live on lonely rocks, far out on the ocean.\""
+      ],
+      "text": "Raven said to Lugan, a bird that lives far out on the ocean, \"You will seldom be seen near shore. You will live on lonely rocks, far out on the ocean.\""
+    },
+    {
+      "index": 39,
+      "type": "paragraph",
+      "lines": [
+        "When Raven came to Snipes, he said, \"You will always go in flocks. You will never go out alone.\" Therefore we always see snipes in flocks."
+      ],
+      "text": "When Raven came to Snipes, he said, \"You will always go in flocks. You will never go out alone.\" Therefore we always see snipes in flocks."
+    },
+    {
+      "index": 40,
+      "type": "paragraph",
+      "lines": [
+        "Raven said to Asq-aca-tci, a small bird with yellow-green plumage,"
+      ],
+      "text": "Raven said to Asq-aca-tci, a small bird with yellow-green plumage,"
+    },
+    {
+      "index": 41,
+      "type": "paragraph",
+      "lines": [
+        "\"You will always go in flocks. You will always be on the tree tops. That is where your food is.\""
+      ],
+      "text": "\"You will always go in flocks. You will always be on the tree tops. That is where your food is.\""
+    },
+    {
+      "index": 42,
+      "type": "paragraph",
+      "lines": [
+        "Raven said to a very small bird, Kotlai, the size of a butterfly, \"You will be liked. You will be seen only to give good luck. People will hear your voice, but seldom see you.\""
+      ],
+      "text": "Raven said to a very small bird, Kotlai, the size of a butterfly, \"You will be liked. You will be seen only to give good luck. People will hear your voice, but seldom see you.\""
+    },
+    {
+      "index": 43,
+      "type": "paragraph",
+      "lines": [
+        "Then to Blue-jay Raven said, \"You will have very fine clothes. You will be a good talker. People will take colors from your clothes.\""
+      ],
+      "text": "Then to Blue-jay Raven said, \"You will have very fine clothes. You will be a good talker. People will take colors from your clothes.\""
+    },
+    {
+      "index": 44,
+      "type": "paragraph",
+      "lines": [
+        "Then Raven said to Xunkaha, \"You will never be seen unless the north wind is going to blow.\" That is what the name Xunkaha means."
+      ],
+      "text": "Then Raven said to Xunkaha, \"You will never be seen unless the north wind is going to blow.\" That is what the name Xunkaha means."
+    },
+    {
+      "index": 45,
+      "type": "paragraph",
+      "lines": [
+        "To Crow, Raven said, \"You will make lots of noise. You will be great talkers.\" That is why, when you hear one crow, you hear a lot of others right afterward."
+      ],
+      "text": "To Crow, Raven said, \"You will make lots of noise. You will be great talkers.\" That is why, when you hear one crow, you hear a lot of others right afterward."
+    },
+    {
+      "index": 46,
+      "type": "paragraph",
+      "lines": [
+        "Raven said to Gusyiadul, \"You will be seen only when warm weather is coming. Never come near except when warm weather is coming.\""
+      ],
+      "text": "Raven said to Gusyiadul, \"You will be seen only when warm weather is coming. Never come near except when warm weather is coming.\""
+    },
+    {
+      "index": 47,
+      "type": "paragraph",
+      "lines": [
+        "To Humming-bird Raven said, \"People will enjoy seeing you. If a person sees you once, he will want to see you again.\""
+      ],
+      "text": "To Humming-bird Raven said, \"People will enjoy seeing you. If a person sees you once, he will want to see you again.\""
+    },
+    {
+      "index": 48,
+      "type": "paragraph",
+      "lines": [
+        "Raven said to Eagle, \"You will be very powerful and above all birds. Your eyesight will be very good. It will be easy for you to get what you want.\" Then Raven put talons on the eagle and said they would be useful to him."
+      ],
+      "text": "Raven said to Eagle, \"You will be very powerful and above all birds. Your eyesight will be very good. It will be easy for you to get what you want.\" Then Raven put talons on the eagle and said they would be useful to him."
+    },
+    {
+      "index": 49,
+      "type": "paragraph",
+      "lines": [
+        "Thus Raven taught all the birds."
+      ],
+      "text": "Thus Raven taught all the birds."
+    },
+    {
+      "index": 50,
+      "type": "paragraph",
+      "lines": [
+        "THE ORIGIN OF THE WINDS"
+      ],
+      "text": "THE ORIGIN OF THE WINDS"
+    },
+    {
+      "index": 51,
+      "type": "paragraph",
+      "lines": [
+        "_Tlingit_"
+      ],
+      "text": "_Tlingit_"
+    },
+    {
+      "index": 52,
+      "type": "paragraph",
+      "lines": [
+        "Now Raven went off to a certain place and created West Wind. Raven said to it, \"You shall be my son's daughter. No matter how hard you blow, you shall hurt nobody.\""
+      ],
+      "text": "Now Raven went off to a certain place and created West Wind. Raven said to it, \"You shall be my son's daughter. No matter how hard you blow, you shall hurt nobody.\""
+    },
+    {
+      "index": 53,
+      "type": "paragraph",
+      "lines": [
+        "Raven also made South Wind. When South Wind climbs on top of a rock it never ceases to blow."
+      ],
+      "text": "Raven also made South Wind. When South Wind climbs on top of a rock it never ceases to blow."
+    },
+    {
+      "index": 54,
+      "type": "paragraph",
+      "lines": [
+        "Raven made North Wind and on top of a mountain he made a house for it with ice hanging down the sides. Then he went in and said to North Wind, \"Your back is white.\" That is why mountains are white with snow."
+      ],
+      "text": "Raven made North Wind and on top of a mountain he made a house for it with ice hanging down the sides. Then he went in and said to North Wind, \"Your back is white.\" That is why mountains are white with snow."
+    },
+    {
+      "index": 55,
+      "type": "paragraph",
+      "lines": [
+        "DURATION OF LIFE"
+      ],
+      "text": "DURATION OF LIFE"
+    },
+    {
+      "index": 56,
+      "type": "paragraph",
+      "lines": [
+        "_Tlingit_ (_Wrangell_)"
+      ],
+      "text": "_Tlingit_ (_Wrangell_)"
+    },
+    {
+      "index": 57,
+      "type": "paragraph",
+      "lines": [
+        "Raven-at-the-head-of-Nass tried to make human beings, at the same time, out of a rock and out of a leaf. But he created human beings out of the leaf first. Then Raven showed a leaf to people. He said, \"You see this leaf. You are to be like it. When it falls off the branch and rots there is nothing left of it.\""
+      ],
+      "text": "Raven-at-the-head-of-Nass tried to make human beings, at the same time, out of a rock and out of a leaf. But he created human beings out of the leaf first. Then Raven showed a leaf to people. He said, \"You see this leaf. You are to be like it. When it falls off the branch and rots there is nothing left of it.\""
+    },
+    {
+      "index": 58,
+      "type": "paragraph",
+      "lines": [
+        "That is why there is death in the world. If men had come from the hard rocks there would be no death. Years ago, when people were getting old, they would say, \"It is unlucky that we did not come from the rock. We are made from leaves; therefore we must die.\""
+      ],
+      "text": "That is why there is death in the world. If men had come from the hard rocks there would be no death. Years ago, when people were getting old, they would say, \"It is unlucky that we did not come from the rock. We are made from leaves; therefore we must die.\""
+    },
+    {
+      "index": 59,
+      "type": "paragraph",
+      "lines": [
+        "GHOST TOWN"
+      ],
+      "text": "GHOST TOWN"
+    },
+    {
+      "index": 60,
+      "type": "paragraph",
+      "lines": [
+        "_Tlingit_ (_Wrangell_)"
+      ],
+      "text": "_Tlingit_ (_Wrangell_)"
+    },
+    {
+      "index": 61,
+      "type": "paragraph",
+      "lines": [
+        "Once Raven came to a large town which was deserted. Every one seemed to have died. Raven entered the largest house, but he felt some one continually pushing him away. Yet he saw no one there. It was a ghost house. The place was called Ghost Town."
+      ],
+      "text": "Once Raven came to a large town which was deserted. Every one seemed to have died. Raven entered the largest house, but he felt some one continually pushing him away. Yet he saw no one there. It was a ghost house. The place was called Ghost Town."
+    },
+    {
+      "index": 62,
+      "type": "paragraph",
+      "lines": [
+        "Raven then loaded a canoe with provisions from the empty houses and started to paddle away. He did not notice that a long rope was fastened to the stern of the canoe and to a tree on the shore. When Raven had paddled the length of the rope, the canoe was pulled right back to the beach. All the provisions were carried back to the houses. Yet Raven could see no one. Then a ghost dropped a large stone on Raven's foot. This made him very lame."
+      ],
+      "text": "Raven then loaded a canoe with provisions from the empty houses and started to paddle away. He did not notice that a long rope was fastened to the stern of the canoe and to a tree on the shore. When Raven had paddled the length of the rope, the canoe was pulled right back to the beach. All the provisions were carried back to the houses. Yet Raven could see no one. Then a ghost dropped a large stone on Raven's foot. This made him very lame."
+    }
+  ],
+  "plainText": "THE BRINGING OF THE LIGHT BY RAVEN\n\n_Eskimo_ (_Lower Yukon_)\n\nIn the first days, the sun and moon were in the sky. Then the sun and moon were taken away and people had only the light of the stars. Even the magic of the shamans failed to bring back the light.\n\nNow there was an orphan boy in the village who sat with the humble people over the entrance way of the kashim. He was despised by every one. When the magic of the shamans failed to bring back the sun and moon into the sky the boy mocked them. He said, \"What fine shamans you must be. You cannot bring back the light, but I can.\" Then the shamans were angry and beat that boy and drove him out of the kashim. Now this boy was like any other boy until he put on a raven coat he had. Then he became Raven.\n\nNow the boy went to his aunt's house. He told her the shamans had failed to bring back the light, and they had beaten him when he mocked them. The boy said, \"Where are the sun and moon?\"\n\nThe aunt said, \"I do not know.\"\n\nThe boy said, \"I am sure you know. Look what a finely sewed coat you wear. You could not sew it that way if you did not know where the light is.\"\n\nThus they argued.\n\nThen the aunt said, \"If you wish to find the light, go far to the south. Go on snowshoes. You will know the place when you get there.\"\n\nThe boy put on his snowshoes and set off toward the south. Many days he travelled and the darkness was always the same. When he had gone a very long way he saw far in front of him a ray of light. Then the boy hurried on. As he went farther the light showed again, plainer than before. Then it vanished for a time. Thus it kept appearing and vanishing.\n\nAt last the boy came to a large hill. One side was brightly lighted; the other side was black as night. Close to the hill was a hut. A man was shovelling snow from in front of it. The man tossed the snow high in the air; then the light could not be seen until the snow fell. Then the man tossed the snow again. So the light kept appearing and disappearing. Close to the house was a large ball of fire.\n\nThe boy stopped and began to plan how to steal the ball of light.\n\nThen the boy walked up to the man. He said, \"Why do you throw up the snow? It hides the light from our village.\"\n\nThe man said, \"I am not hiding the light. I am cleaning away the snow. Who are you? Where did you come from?\"\n\nThe boy said, \"It is so dark at our village I do not want to stay there. I came here to live with you.\"\n\n\"All the time?\" asked the man.\n\n\"Yes,\" said the boy.\n\nThe man said, \"All right. Come into the house with me.\" Then he dropped his shovel on the ground. He stooped down to lead the way through the underground passage into the house. He let the curtain fall in front of the door as he passed, because he thought the boy was close beside him.\n\nThen the boy caught up the ball of light. He put it in the turned-up flap of his fur coat. Then he picked up the shovel and ran away toward the north. He ran until his feet were tired. Then he put on his raven coat and flew away. He flew rapidly to the north. Raven could hear the man shriek behind him. The man was pursuing him. But Raven flew faster. Then the man cried, \"Keep the light; but give me my shovel.\"\n\nRaven said, \"No, you cannot have your shovel. You made our village dark.\" So Raven flew faster.\n\nNow as Raven flew, he broke off a little piece of the light. This made day. Then he went on a long time in darkness, until he broke off another piece of light. Thus it was day again. So as Raven flew to the village he broke off the pieces of light. When Raven reached the kashim of his own village he threw away the last piece. He went into the kashim and said to the shamans, \"I have brought back the light. It will be light and then dark, so as to make day and night.\"\n\nAfter this Raven went out upon the ice because his home was on the seacoast. Then a great wind arose, and the ice drifted with him across the sea to the land on the other side.\n\nThus Raven brought back the light. It is night and day, as he said it would be. But sometimes the nights are very long because Raven travelled a long way without throwing away a piece of the light.\n\nDAYLIGHT ON THE NASS RIVER\n\n_Tlingit_ (_Wrangell_)\n\nWhen Raven had grown quite large he walked down the bank of the Nass River one day, until he heard the noise people were making in the darkness as they fished for olachen. Now all the people in the world lived at one place on the Nass River. They had heard that Raven-at-the-head-of-Nass had something called \"daylight.\" They were afraid of it and talked about it a great deal.\n\nRaven shouted to the fishermen, \"Why do you make so much noise? If you make so much noise I will bring the daylight here.\"\n\nEight canoe-loads of people were fishing there. They said, \"You are not Nas-ca-ki-yel. You are not Raven-at-the-head-of-Nass. How can you have the daylight?\" They kept on making much noise.\n\nThen Raven opened the box and daylight shot over the world like lightning. They made still more noise. So Raven opened the box wide and there was daylight everywhere.\n\nThen the people were frightened. Some ran into the woods and some jumped into the water. Those that had clothes of fur seal skins jumped into the water; they became seals. Those which had clothing of bear skins, marten skins, and wolf skins, ran into the woods and turned into grizzly bears, martens, and wolves.\n\nTHE NAMING OF THE BIRDS\n\n_Tlingit_ (_Wrangell_)\n\nNow Raven went around among the birds, teaching them. He said to Grouse, \"You are to live in a place where it is wintry. You will always live in a place high up so you will have plenty of breezes.\" Then Raven gave Grouse four white pebbles. He said, \"You will never starve so long as you have these four pebbles.\"\n\nRaven also said to Grouse, \"You know that Sea-lion is your grandchild. You must get four more pebbles and give them to him.\" That is why the sea-lion has four large pebbles. It throws these at hunters. If one strikes a person, it kills him. From this story it is known that Grouse and Sea-lion understand each other.\n\nRaven said to Ptarmigan, \"You will be the maker of snowshoes. You will know how to travel in snow.\" It was from these birds that the Athapascans learned how to make snowshoes, and how to put the lacings on.\n\nRaven came next to Wild Canary, that lives all the year around in the Tlingit country. He said, \"You will be head among the very small birds. You are not to live on the same food as human beings. Keep away from them.\"\n\nThen Raven said to Robin, \"You will make people happy by your whistle. You will be a good whistler.\"\n\nThen Raven said to Kun, the Flicker, \"You will be chief among the birds of your size. You will not be found in all places. You will seldom be seen.\"\n\nRaven said to Lugan, a bird that lives far out on the ocean, \"You will seldom be seen near shore. You will live on lonely rocks, far out on the ocean.\"\n\nWhen Raven came to Snipes, he said, \"You will always go in flocks. You will never go out alone.\" Therefore we always see snipes in flocks.\n\nRaven said to Asq-aca-tci, a small bird with yellow-green plumage,\n\n\"You will always go in flocks. You will always be on the tree tops. That is where your food is.\"\n\nRaven said to a very small bird, Kotlai, the size of a butterfly, \"You will be liked. You will be seen only to give good luck. People will hear your voice, but seldom see you.\"\n\nThen to Blue-jay Raven said, \"You will have very fine clothes. You will be a good talker. People will take colors from your clothes.\"\n\nThen Raven said to Xunkaha, \"You will never be seen unless the north wind is going to blow.\" That is what the name Xunkaha means.\n\nTo Crow, Raven said, \"You will make lots of noise. You will be great talkers.\" That is why, when you hear one crow, you hear a lot of others right afterward.\n\nRaven said to Gusyiadul, \"You will be seen only when warm weather is coming. Never come near except when warm weather is coming.\"\n\nTo Humming-bird Raven said, \"People will enjoy seeing you. If a person sees you once, he will want to see you again.\"\n\nRaven said to Eagle, \"You will be very powerful and above all birds. Your eyesight will be very good. It will be easy for you to get what you want.\" Then Raven put talons on the eagle and said they would be useful to him.\n\nThus Raven taught all the birds.\n\nTHE ORIGIN OF THE WINDS\n\n_Tlingit_\n\nNow Raven went off to a certain place and created West Wind. Raven said to it, \"You shall be my son's daughter. No matter how hard you blow, you shall hurt nobody.\"\n\nRaven also made South Wind. When South Wind climbs on top of a rock it never ceases to blow.\n\nRaven made North Wind and on top of a mountain he made a house for it with ice hanging down the sides. Then he went in and said to North Wind, \"Your back is white.\" That is why mountains are white with snow.\n\nDURATION OF LIFE\n\n_Tlingit_ (_Wrangell_)\n\nRaven-at-the-head-of-Nass tried to make human beings, at the same time, out of a rock and out of a leaf. But he created human beings out of the leaf first. Then Raven showed a leaf to people. He said, \"You see this leaf. You are to be like it. When it falls off the branch and rots there is nothing left of it.\"\n\nThat is why there is death in the world. If men had come from the hard rocks there would be no death. Years ago, when people were getting old, they would say, \"It is unlucky that we did not come from the rock. We are made from leaves; therefore we must die.\"\n\nGHOST TOWN\n\n_Tlingit_ (_Wrangell_)\n\nOnce Raven came to a large town which was deserted. Every one seemed to have died. Raven entered the largest house, but he felt some one continually pushing him away. Yet he saw no one there. It was a ghost house. The place was called Ghost Town.\n\nRaven then loaded a canoe with provisions from the empty houses and started to paddle away. He did not notice that a long rope was fastened to the stern of the canoe and to a tree on the shore. When Raven had paddled the length of the rope, the canoe was pulled right back to the beach. All the provisions were carried back to the houses. Yet Raven could see no one. Then a ghost dropped a large stone on Raven's foot. This made him very lame.",
+  "plainTextSha256": "b85c3a78706ac98000537b8dca2d40e3bc77e2cb1cef5904d1d9e9620e6cb17b",
+  "spokenRelation": {
+    "sha256": "8290d3b09bff87da80f6f822eb12dcd62a115c3c753f86f4744778c4590a4bcd",
+    "tokenCount": 1992
+  },
+  "wordCount": 1992,
+  "characterCount": 10147,
+  "sha256": "b42bd57a6e0cb07b92cf53afcbb71745b8cef5f158f496d560e21e1a98b0290c"
+}

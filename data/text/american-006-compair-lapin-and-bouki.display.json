@@ -1,0 +1,214 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "compair-lapin-and-bouki",
+  "storyPath": "american/006-compair-lapin-and-bouki.md",
+  "language": "en",
+  "source": {
+    "kind": "story-root-canonical",
+    "path": "source/canonical.txt",
+    "sha256": "5272790aa51cc5e2a02e344a8b85a114b1b62f860dfdfaeb43bd539060ea7392"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "One day, quite early, Compair Lapin arose, and he felt hunger gaining upon him. He looked everywhere in the cabin; he found nothing to eat. He ran towards Compair Bouki. When he arrived, he saw Compair Bouki, who was gnawing a bone."
+      ],
+      "text": "One day, quite early, Compair Lapin arose, and he felt hunger gaining upon him. He looked everywhere in the cabin; he found nothing to eat. He ran towards Compair Bouki. When he arrived, he saw Compair Bouki, who was gnawing a bone."
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "— Eh! Compair Bouki, I had come to take breakfast with you; but I see that you don’t have anything famous to give me."
+      ],
+      "text": "— Eh! Compair Bouki, I had come to take breakfast with you; but I see that you don’t have anything famous to give me."
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "— Times are hard, Compair Lapin; there are no more rations in the cabin; only this bone left. Compair Lapin reflected a little."
+      ],
+      "text": "— Times are hard, Compair Lapin; there are no more rations in the cabin; only this bone left. Compair Lapin reflected a little."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "— Well! Compair Bouki, if you wish, we shall go hunting for the eggs of the tortoise."
+      ],
+      "text": "— Well! Compair Bouki, if you wish, we shall go hunting for the eggs of the tortoise."
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "lines": [
+        "— Agreed upon! let us go right off. Compair Bouki took his basket and the hoe, and they started towards the bayou in the woods."
+      ],
+      "text": "— Agreed upon! let us go right off. Compair Bouki took his basket and the hoe, and they started towards the bayou in the woods."
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Lapin, I don’t often go hunting for tortoise eggs; I don’t know well how to find them."
+      ],
+      "text": "— Compair Lapin, I don’t often go hunting for tortoise eggs; I don’t know well how to find them."
+    },
+    {
+      "index": 6,
+      "type": "paragraph",
+      "lines": [
+        "— Don’t trouble yourself, Compair Bouki, I find all the time a place where tortoises lay their eggs. You, you will dig them up. When they arrived at the bayou, Compair Lapin walked slowly, looking well on this side and on that side. Soon he came to a dead stop."
+      ],
+      "text": "— Don’t trouble yourself, Compair Bouki, I find all the time a place where tortoises lay their eggs. You, you will dig them up. When they arrived at the bayou, Compair Lapin walked slowly, looking well on this side and on that side. Soon he came to a dead stop."
+    },
+    {
+      "index": 7,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Bouki, the tortoise thinks she is cunning. She scratches the ground with her big paw, and she lays her eggs in a hole; then she puts a little sand on them, and then she scatters leaves on her nest. You see this hillock I take off the leaves, and scratch with your hoe; sure you will find eggs. Compair Bouki did what Compair Lapin told him, and they saw a pile of eggs shining in that hole."
+      ],
+      "text": "— Compair Bouki, the tortoise thinks she is cunning. She scratches the ground with her big paw, and she lays her eggs in a hole; then she puts a little sand on them, and then she scatters leaves on her nest. You see this hillock I take off the leaves, and scratch with your hoe; sure you will find eggs. Compair Bouki did what Compair Lapin told him, and they saw a pile of eggs shining in that hole."
+    },
+    {
+      "index": 8,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Lapin, you are more cunning than I; I am very glad to have you for my friend. Compair Lapin shared the eggs; he gave half to Compair Bouki."
+      ],
+      "text": "— Compair Lapin, you are more cunning than I; I am very glad to have you for my friend. Compair Lapin shared the eggs; he gave half to Compair Bouki."
+    },
+    {
+      "index": 9,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Bouki, I am very hungry; I am going to eat my eggs immediately."
+      ],
+      "text": "— Compair Bouki, I am very hungry; I am going to eat my eggs immediately."
+    },
+    {
+      "index": 10,
+      "type": "paragraph",
+      "lines": [
+        "— Do as you want, Compair Lapin; I shall take mine to my wife to have them cooked. They went on a long time still, and they found many eggs. Compair Lapin always ate his; Compair Bouki did not like raw eggs; he put them all in his basket."
+      ],
+      "text": "— Do as you want, Compair Lapin; I shall take mine to my wife to have them cooked. They went on a long time still, and they found many eggs. Compair Lapin always ate his; Compair Bouki did not like raw eggs; he put them all in his basket."
+    },
+    {
+      "index": 11,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Bouki, I am beginning to be tired; I believe it is time for us to return home."
+      ],
+      "text": "— Compair Bouki, I am beginning to be tired; I believe it is time for us to return home."
+    },
+    {
+      "index": 12,
+      "type": "paragraph",
+      "lines": [
+        "— I have enough eggs for to-day, Compair Lapin; let us go back."
+      ],
+      "text": "— I have enough eggs for to-day, Compair Lapin; let us go back."
+    },
+    {
+      "index": 13,
+      "type": "paragraph",
+      "lines": [
+        "— As they were going, towards the river, Compair Lapin said to himself: Compair Bouki does not know how to find tortoise eggs; it is I who found them; they ought all to belong to me. I must make some trick to gain them."
+      ],
+      "text": "— As they were going, towards the river, Compair Lapin said to himself: Compair Bouki does not know how to find tortoise eggs; it is I who found them; they ought all to belong to me. I must make some trick to gain them."
+    },
+    {
+      "index": 14,
+      "type": "paragraph",
+      "lines": [
+        "— As they were nearly arrived at the river, Compair Lapin said: Compair Bouki, I forgot to take some eggs for my old mother. You would be very kind to lend me a dozen. I shall return them to you another time."
+      ],
+      "text": "— As they were nearly arrived at the river, Compair Lapin said: Compair Bouki, I forgot to take some eggs for my old mother. You would be very kind to lend me a dozen. I shall return them to you another time."
+    },
+    {
+      "index": 15,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Bouki gave a dozen, and they went each on his way. Compair Lapin went to put his dozen of eggs in his cabin, then he went to Compair Bouki’s. When he came near the cabin of Compair Bouki he began to complain, and to hold his belly with both hands. Compair Bouki came out — What is the matter with you, Compair Lapin? You don’t look very well."
+      ],
+      "text": "— Compair Bouki gave a dozen, and they went each on his way. Compair Lapin went to put his dozen of eggs in his cabin, then he went to Compair Bouki’s. When he came near the cabin of Compair Bouki he began to complain, and to hold his belly with both hands. Compair Bouki came out — What is the matter with you, Compair Lapin? You don’t look very well."
+    },
+    {
+      "index": 16,
+      "type": "paragraph",
+      "lines": [
+        "— Oh! no, Compair Bouki, those eggs have poisoned me. I beg of you; quick, run to get the doctor."
+      ],
+      "text": "— Oh! no, Compair Bouki, those eggs have poisoned me. I beg of you; quick, run to get the doctor."
+    },
+    {
+      "index": 17,
+      "type": "paragraph",
+      "lines": [
+        "— I shall run as fast as I can, daddy. As soon as Compair Bouki started, Compair Lapin went to the kitchen and fell to eating tortoise eggs."
+      ],
+      "text": "— I shall run as fast as I can, daddy. As soon as Compair Bouki started, Compair Lapin went to the kitchen and fell to eating tortoise eggs."
+    },
+    {
+      "index": 18,
+      "type": "paragraph",
+      "lines": [
+        "— Thank you, great Lord, I shall eat my belly full to-day. The physician lives far, I have the time to eat all before they come. When Compair Lapin had nearly finished eating the eggs, he heard Compair Bouki speaking outside."
+      ],
+      "text": "— Thank you, great Lord, I shall eat my belly full to-day. The physician lives far, I have the time to eat all before they come. When Compair Lapin had nearly finished eating the eggs, he heard Compair Bouki speaking outside."
+    },
+    {
+      "index": 19,
+      "type": "paragraph",
+      "lines": [
+        "— Doctor Monkey, I am very glad that I met you on the road; my friend is very sick."
+      ],
+      "text": "— Doctor Monkey, I am very glad that I met you on the road; my friend is very sick."
+    },
+    {
+      "index": 20,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Lapin did not lose any time; he opened the window and jumped out. Compair Bouki came into the cabin; he did not see Compair Lapin. He ran into the kitchen; the shells of the eggs were scattered all about. Compair Lapin was already in the fields. Compair Bouki tore his hair, he was so angry. He started to run after Compair Lapin. Compair Lapin had eaten so many eggs, that he was not able to run fast. When he saw Compair Bouki was pressing him too close, he hid in a hole in a tree. Compair Bouki called Compair Torti, who was passing on the road."
+      ],
+      "text": "— Compair Lapin did not lose any time; he opened the window and jumped out. Compair Bouki came into the cabin; he did not see Compair Lapin. He ran into the kitchen; the shells of the eggs were scattered all about. Compair Lapin was already in the fields. Compair Bouki tore his hair, he was so angry. He started to run after Compair Lapin. Compair Lapin had eaten so many eggs, that he was not able to run fast. When he saw Compair Bouki was pressing him too close, he hid in a hole in a tree. Compair Bouki called Compair Torti, who was passing on the road."
+    },
+    {
+      "index": 21,
+      "type": "paragraph",
+      "lines": [
+        "— Compair Torti, pray come to watch Compair Lapin, who stole all your eggs. I am going to get my axe to cut down this tree."
+      ],
+      "text": "— Compair Torti, pray come to watch Compair Lapin, who stole all your eggs. I am going to get my axe to cut down this tree."
+    },
+    {
+      "index": 22,
+      "type": "paragraph",
+      "lines": [
+        "— Go quickly, Compair Bouki; I shall watch the rascal well. When Compair Bouki started, Compair Lapin said: Compair Torti, look in this hole; you will see if I have your eggs. Compair Torti lifted his head; Compair Lapin sent some decayed wood in his eyes. Compair Torti went to wash his eyes in the bayou; Compair Lapin ran off immediately. Compair Bouki came to cut the tree; he saw that Compair Lapin had already run away. He was so angry he went to Compair Torti, on the bank of the bayou, and he cut off his tail with his axe."
+      ],
+      "text": "— Go quickly, Compair Bouki; I shall watch the rascal well. When Compair Bouki started, Compair Lapin said: Compair Torti, look in this hole; you will see if I have your eggs. Compair Torti lifted his head; Compair Lapin sent some decayed wood in his eyes. Compair Torti went to wash his eyes in the bayou; Compair Lapin ran off immediately. Compair Bouki came to cut the tree; he saw that Compair Lapin had already run away. He was so angry he went to Compair Torti, on the bank of the bayou, and he cut off his tail with his axe."
+    },
+    {
+      "index": 23,
+      "type": "paragraph",
+      "lines": [
+        "— It is for this reason that the tail of the tortoise is so short to this very day."
+      ],
+      "text": "— It is for this reason that the tail of the tortoise is so short to this very day."
+    }
+  ],
+  "plainText": "One day, quite early, Compair Lapin arose, and he felt hunger gaining upon him. He looked everywhere in the cabin; he found nothing to eat. He ran towards Compair Bouki. When he arrived, he saw Compair Bouki, who was gnawing a bone.\n\n— Eh! Compair Bouki, I had come to take breakfast with you; but I see that you don’t have anything famous to give me.\n\n— Times are hard, Compair Lapin; there are no more rations in the cabin; only this bone left. Compair Lapin reflected a little.\n\n— Well! Compair Bouki, if you wish, we shall go hunting for the eggs of the tortoise.\n\n— Agreed upon! let us go right off. Compair Bouki took his basket and the hoe, and they started towards the bayou in the woods.\n\n— Compair Lapin, I don’t often go hunting for tortoise eggs; I don’t know well how to find them.\n\n— Don’t trouble yourself, Compair Bouki, I find all the time a place where tortoises lay their eggs. You, you will dig them up. When they arrived at the bayou, Compair Lapin walked slowly, looking well on this side and on that side. Soon he came to a dead stop.\n\n— Compair Bouki, the tortoise thinks she is cunning. She scratches the ground with her big paw, and she lays her eggs in a hole; then she puts a little sand on them, and then she scatters leaves on her nest. You see this hillock I take off the leaves, and scratch with your hoe; sure you will find eggs. Compair Bouki did what Compair Lapin told him, and they saw a pile of eggs shining in that hole.\n\n— Compair Lapin, you are more cunning than I; I am very glad to have you for my friend. Compair Lapin shared the eggs; he gave half to Compair Bouki.\n\n— Compair Bouki, I am very hungry; I am going to eat my eggs immediately.\n\n— Do as you want, Compair Lapin; I shall take mine to my wife to have them cooked. They went on a long time still, and they found many eggs. Compair Lapin always ate his; Compair Bouki did not like raw eggs; he put them all in his basket.\n\n— Compair Bouki, I am beginning to be tired; I believe it is time for us to return home.\n\n— I have enough eggs for to-day, Compair Lapin; let us go back.\n\n— As they were going, towards the river, Compair Lapin said to himself: Compair Bouki does not know how to find tortoise eggs; it is I who found them; they ought all to belong to me. I must make some trick to gain them.\n\n— As they were nearly arrived at the river, Compair Lapin said: Compair Bouki, I forgot to take some eggs for my old mother. You would be very kind to lend me a dozen. I shall return them to you another time.\n\n— Compair Bouki gave a dozen, and they went each on his way. Compair Lapin went to put his dozen of eggs in his cabin, then he went to Compair Bouki’s. When he came near the cabin of Compair Bouki he began to complain, and to hold his belly with both hands. Compair Bouki came out — What is the matter with you, Compair Lapin? You don’t look very well.\n\n— Oh! no, Compair Bouki, those eggs have poisoned me. I beg of you; quick, run to get the doctor.\n\n— I shall run as fast as I can, daddy. As soon as Compair Bouki started, Compair Lapin went to the kitchen and fell to eating tortoise eggs.\n\n— Thank you, great Lord, I shall eat my belly full to-day. The physician lives far, I have the time to eat all before they come. When Compair Lapin had nearly finished eating the eggs, he heard Compair Bouki speaking outside.\n\n— Doctor Monkey, I am very glad that I met you on the road; my friend is very sick.\n\n— Compair Lapin did not lose any time; he opened the window and jumped out. Compair Bouki came into the cabin; he did not see Compair Lapin. He ran into the kitchen; the shells of the eggs were scattered all about. Compair Lapin was already in the fields. Compair Bouki tore his hair, he was so angry. He started to run after Compair Lapin. Compair Lapin had eaten so many eggs, that he was not able to run fast. When he saw Compair Bouki was pressing him too close, he hid in a hole in a tree. Compair Bouki called Compair Torti, who was passing on the road.\n\n— Compair Torti, pray come to watch Compair Lapin, who stole all your eggs. I am going to get my axe to cut down this tree.\n\n— Go quickly, Compair Bouki; I shall watch the rascal well. When Compair Bouki started, Compair Lapin said: Compair Torti, look in this hole; you will see if I have your eggs. Compair Torti lifted his head; Compair Lapin sent some decayed wood in his eyes. Compair Torti went to wash his eyes in the bayou; Compair Lapin ran off immediately. Compair Bouki came to cut the tree; he saw that Compair Lapin had already run away. He was so angry he went to Compair Torti, on the bank of the bayou, and he cut off his tail with his axe.\n\n— It is for this reason that the tail of the tortoise is so short to this very day.",
+  "plainTextSha256": "6c1dfcfabd21e30f2d294d38fee96eedb7e7277cd30089cd64e67a22deb86f49",
+  "spokenRelation": {
+    "sha256": "c9459598f96be0e4a311a16bfced511a4d3b241ba6a90c4a991258e400b9875c",
+    "tokenCount": 907
+  },
+  "wordCount": 907,
+  "characterCount": 4722,
+  "sha256": "df06d8f603473c353afed3691db4eab8d0b2d2509a863901c3f97a0db86cfdb5"
+}

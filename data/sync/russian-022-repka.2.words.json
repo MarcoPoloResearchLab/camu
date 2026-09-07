@@ -1,0 +1,1036 @@
+{
+  "schema": "kamu.story-sync.v1",
+  "generatedAt": "2026-06-24T16:29:21.646Z",
+  "storyId": "repka",
+  "storyPath": "russian/022-repka.md",
+  "source": "alignment/alignment.json",
+  "displayText": {
+    "path": "data/text/russian-022-repka.display.json",
+    "sha256": "d5496d41dc374b3612da8f7a00ff9bf4e2804cb488fc8d0ec7046dea9f184364",
+    "sourceSha256": "3edd79d303360f58806acbdc886d9b10593fb5eac2839a7448d3a69f3d1c66d1"
+  },
+  "reader": {
+    "readerId": "2",
+    "role": "female",
+    "label": "TatanaLuke",
+    "voiceId": "ymDCYd8puC7gYjxIamPt",
+    "voiceName": "TatanaLuke"
+  },
+  "transcript": "Посадил дед репку и говорит: — Расти репка сладкая-сладкая! Расти большая-пребольшая! Выросла репка сладкая и большая-пребольшая. Пошел дед репку рвать: тянет-потянет, вытянуть не может. Позвал дед бабку. Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут. Позвала бабка внучку. Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут. Позвала внучка Жучку. Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут. Позвала Жучка кошку. Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут. Позвала кошка мышку. Мышка за кошку, Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут — и вытянули репку. Вот и сказке конец, а кто слушал — молодец!",
+  "speakers": {
+    "narrator": {
+      "label": "TatanaLuke",
+      "readerId": "2"
+    }
+  },
+  "tokens": [
+    {
+      "index": 0,
+      "text": "Посадил",
+      "normalizedText": "посадил",
+      "start": 0.099,
+      "end": 0.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 1,
+      "text": "дед",
+      "normalizedText": "дед",
+      "start": 0.74,
+      "end": 0.979,
+      "speaker": "narrator"
+    },
+    {
+      "index": 2,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 1.019,
+      "end": 1.399,
+      "speaker": "narrator"
+    },
+    {
+      "index": 3,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 1.719,
+      "end": 1.779,
+      "speaker": "narrator"
+    },
+    {
+      "index": 4,
+      "text": "говорит:",
+      "normalizedText": "говорит",
+      "start": 1.86,
+      "end": 2.379,
+      "speaker": "narrator"
+    },
+    {
+      "index": 5,
+      "text": "— Расти",
+      "normalizedText": "расти",
+      "start": 3.279,
+      "end": 3.759,
+      "speaker": "narrator"
+    },
+    {
+      "index": 6,
+      "text": "репка",
+      "normalizedText": "репка",
+      "start": 3.839,
+      "end": 4.219,
+      "speaker": "narrator"
+    },
+    {
+      "index": 7,
+      "text": "сладкая-сладкая!",
+      "normalizedText": "сладкая-сладкая",
+      "start": 4.36,
+      "end": 5.839,
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "Расти",
+      "normalizedText": "расти",
+      "start": 6.539,
+      "end": 6.899,
+      "speaker": "narrator"
+    },
+    {
+      "index": 9,
+      "text": "большая-пребольшая!",
+      "normalizedText": "большая-пребольшая",
+      "start": 6.96,
+      "end": 8.619,
+      "speaker": "narrator"
+    },
+    {
+      "index": 10,
+      "text": "Выросла",
+      "normalizedText": "выросла",
+      "start": 9.599,
+      "end": 10.019,
+      "speaker": "narrator"
+    },
+    {
+      "index": 11,
+      "text": "репка",
+      "normalizedText": "репка",
+      "start": 10.099,
+      "end": 10.439,
+      "speaker": "narrator"
+    },
+    {
+      "index": 12,
+      "text": "сладкая",
+      "normalizedText": "сладкая",
+      "start": 10.519,
+      "end": 11.119,
+      "speaker": "narrator"
+    },
+    {
+      "index": 13,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 11.619,
+      "end": 11.679,
+      "speaker": "narrator"
+    },
+    {
+      "index": 14,
+      "text": "большая-пребольшая.",
+      "normalizedText": "большая-пребольшая",
+      "start": 11.779,
+      "end": 13.399,
+      "speaker": "narrator"
+    },
+    {
+      "index": 15,
+      "text": "Пошел",
+      "normalizedText": "пошел",
+      "start": 14.359,
+      "end": 14.779,
+      "speaker": "narrator"
+    },
+    {
+      "index": 16,
+      "text": "дед",
+      "normalizedText": "дед",
+      "start": 14.859,
+      "end": 15.079,
+      "speaker": "narrator"
+    },
+    {
+      "index": 17,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 15.119,
+      "end": 15.439,
+      "speaker": "narrator"
+    },
+    {
+      "index": 18,
+      "text": "рвать:",
+      "normalizedText": "рвать",
+      "start": 15.479,
+      "end": 15.859,
+      "speaker": "narrator"
+    },
+    {
+      "index": 19,
+      "text": "тянет-потянет,",
+      "normalizedText": "тянет-потянет",
+      "start": 16.739,
+      "end": 18.159,
+      "speaker": "narrator"
+    },
+    {
+      "index": 20,
+      "text": "вытянуть",
+      "normalizedText": "вытянуть",
+      "start": 18.68,
+      "end": 19.159,
+      "speaker": "narrator"
+    },
+    {
+      "index": 21,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 19.239,
+      "end": 19.339,
+      "speaker": "narrator"
+    },
+    {
+      "index": 22,
+      "text": "может.",
+      "normalizedText": "может",
+      "start": 19.42,
+      "end": 19.84,
+      "speaker": "narrator"
+    },
+    {
+      "index": 23,
+      "text": "Позвал",
+      "normalizedText": "позвал",
+      "start": 20.579,
+      "end": 20.959,
+      "speaker": "narrator"
+    },
+    {
+      "index": 24,
+      "text": "дед",
+      "normalizedText": "дед",
+      "start": 21.039,
+      "end": 21.199,
+      "speaker": "narrator"
+    },
+    {
+      "index": 25,
+      "text": "бабку.",
+      "normalizedText": "бабку",
+      "start": 21.299,
+      "end": 21.799,
+      "speaker": "narrator"
+    },
+    {
+      "index": 26,
+      "text": "Бабка",
+      "normalizedText": "бабка",
+      "start": 22.439,
+      "end": 22.739,
+      "speaker": "narrator"
+    },
+    {
+      "index": 27,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 22.84,
+      "end": 22.939,
+      "speaker": "narrator"
+    },
+    {
+      "index": 28,
+      "text": "дедку,",
+      "normalizedText": "дедку",
+      "start": 23.019,
+      "end": 23.439,
+      "speaker": "narrator"
+    },
+    {
+      "index": 29,
+      "text": "Дедка",
+      "normalizedText": "дедка",
+      "start": 23.76,
+      "end": 24.079,
+      "speaker": "narrator"
+    },
+    {
+      "index": 30,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 24.18,
+      "end": 24.239,
+      "speaker": "narrator"
+    },
+    {
+      "index": 31,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 24.319,
+      "end": 25.379,
+      "speaker": "narrator"
+    },
+    {
+      "index": 32,
+      "text": "— Тянут-потянут,",
+      "normalizedText": "тянут-потянут",
+      "start": 25.5,
+      "end": 27.019,
+      "speaker": "narrator"
+    },
+    {
+      "index": 33,
+      "text": "вытянуть",
+      "normalizedText": "вытянуть",
+      "start": 27.579,
+      "end": 28.079,
+      "speaker": "narrator"
+    },
+    {
+      "index": 34,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 28.139,
+      "end": 28.239,
+      "speaker": "narrator"
+    },
+    {
+      "index": 35,
+      "text": "могут.",
+      "normalizedText": "могут",
+      "start": 28.299,
+      "end": 28.699,
+      "speaker": "narrator"
+    },
+    {
+      "index": 36,
+      "text": "Позвала",
+      "normalizedText": "позвала",
+      "start": 29.079,
+      "end": 29.579,
+      "speaker": "narrator"
+    },
+    {
+      "index": 37,
+      "text": "бабка",
+      "normalizedText": "бабка",
+      "start": 29.659,
+      "end": 29.979,
+      "speaker": "narrator"
+    },
+    {
+      "index": 38,
+      "text": "внучку.",
+      "normalizedText": "внучку",
+      "start": 30.059,
+      "end": 30.559,
+      "speaker": "narrator"
+    },
+    {
+      "index": 39,
+      "text": "Внучка",
+      "normalizedText": "внучка",
+      "start": 30.959,
+      "end": 31.479,
+      "speaker": "narrator"
+    },
+    {
+      "index": 40,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 31.559,
+      "end": 31.699,
+      "speaker": "narrator"
+    },
+    {
+      "index": 41,
+      "text": "бабку,",
+      "normalizedText": "бабку",
+      "start": 31.799,
+      "end": 32.359,
+      "speaker": "narrator"
+    },
+    {
+      "index": 42,
+      "text": "Бабка",
+      "normalizedText": "бабка",
+      "start": 32.919,
+      "end": 33.279,
+      "speaker": "narrator"
+    },
+    {
+      "index": 43,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 33.36,
+      "end": 33.459,
+      "speaker": "narrator"
+    },
+    {
+      "index": 44,
+      "text": "дедку,",
+      "normalizedText": "дедку",
+      "start": 33.579,
+      "end": 34.079,
+      "speaker": "narrator"
+    },
+    {
+      "index": 45,
+      "text": "Дедка",
+      "normalizedText": "дедка",
+      "start": 34.719,
+      "end": 35.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 46,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 35.139,
+      "end": 35.239,
+      "speaker": "narrator"
+    },
+    {
+      "index": 47,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 35.319,
+      "end": 36.279,
+      "speaker": "narrator"
+    },
+    {
+      "index": 48,
+      "text": "— Тянут-потянут,",
+      "normalizedText": "тянут-потянут",
+      "start": 36.36,
+      "end": 37.459,
+      "speaker": "narrator"
+    },
+    {
+      "index": 49,
+      "text": "вытянуть",
+      "normalizedText": "вытянуть",
+      "start": 37.86,
+      "end": 38.599,
+      "speaker": "narrator"
+    },
+    {
+      "index": 50,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 38.759,
+      "end": 38.899,
+      "speaker": "narrator"
+    },
+    {
+      "index": 51,
+      "text": "могут.",
+      "normalizedText": "могут",
+      "start": 38.979,
+      "end": 39.399,
+      "speaker": "narrator"
+    },
+    {
+      "index": 52,
+      "text": "Позвала",
+      "normalizedText": "позвала",
+      "start": 39.759,
+      "end": 40.259,
+      "speaker": "narrator"
+    },
+    {
+      "index": 53,
+      "text": "внучка",
+      "normalizedText": "внучка",
+      "start": 40.34,
+      "end": 41.02,
+      "speaker": "narrator"
+    },
+    {
+      "index": 54,
+      "text": "Жучку.",
+      "normalizedText": "жучку",
+      "start": 41.139,
+      "end": 41.619,
+      "speaker": "narrator"
+    },
+    {
+      "index": 55,
+      "text": "Жучка",
+      "normalizedText": "жучка",
+      "start": 42,
+      "end": 42.459,
+      "speaker": "narrator"
+    },
+    {
+      "index": 56,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 42.84,
+      "end": 42.919,
+      "speaker": "narrator"
+    },
+    {
+      "index": 57,
+      "text": "внучку,",
+      "normalizedText": "внучку",
+      "start": 43,
+      "end": 43.599,
+      "speaker": "narrator"
+    },
+    {
+      "index": 58,
+      "text": "Внучка",
+      "normalizedText": "внучка",
+      "start": 44.119,
+      "end": 44.599,
+      "speaker": "narrator"
+    },
+    {
+      "index": 59,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 44.68,
+      "end": 44.759,
+      "speaker": "narrator"
+    },
+    {
+      "index": 60,
+      "text": "бабку,",
+      "normalizedText": "бабку",
+      "start": 44.879,
+      "end": 45.34,
+      "speaker": "narrator"
+    },
+    {
+      "index": 61,
+      "text": "Бабка",
+      "normalizedText": "бабка",
+      "start": 45.919,
+      "end": 46.259,
+      "speaker": "narrator"
+    },
+    {
+      "index": 62,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 46.36,
+      "end": 46.459,
+      "speaker": "narrator"
+    },
+    {
+      "index": 63,
+      "text": "дедку,",
+      "normalizedText": "дедку",
+      "start": 46.579,
+      "end": 47.139,
+      "speaker": "narrator"
+    },
+    {
+      "index": 64,
+      "text": "Дедка",
+      "normalizedText": "дедка",
+      "start": 47.659,
+      "end": 48.039,
+      "speaker": "narrator"
+    },
+    {
+      "index": 65,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 48.099,
+      "end": 48.18,
+      "speaker": "narrator"
+    },
+    {
+      "index": 66,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 48.279,
+      "end": 49.219,
+      "speaker": "narrator"
+    },
+    {
+      "index": 67,
+      "text": "— Тянут-потянут,",
+      "normalizedText": "тянут-потянут",
+      "start": 49.319,
+      "end": 51.139,
+      "speaker": "narrator"
+    },
+    {
+      "index": 68,
+      "text": "вытянуть",
+      "normalizedText": "вытянуть",
+      "start": 51.18,
+      "end": 52.099,
+      "speaker": "narrator"
+    },
+    {
+      "index": 69,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 52.259,
+      "end": 52.399,
+      "speaker": "narrator"
+    },
+    {
+      "index": 70,
+      "text": "могут.",
+      "normalizedText": "могут",
+      "start": 52.459,
+      "end": 52.919,
+      "speaker": "narrator"
+    },
+    {
+      "index": 71,
+      "text": "Позвала",
+      "normalizedText": "позвала",
+      "start": 53.299,
+      "end": 53.799,
+      "speaker": "narrator"
+    },
+    {
+      "index": 72,
+      "text": "Жучка",
+      "normalizedText": "жучка",
+      "start": 53.899,
+      "end": 54.299,
+      "speaker": "narrator"
+    },
+    {
+      "index": 73,
+      "text": "кошку.",
+      "normalizedText": "кошку",
+      "start": 54.479,
+      "end": 54.939,
+      "speaker": "narrator"
+    },
+    {
+      "index": 74,
+      "text": "Кошка",
+      "normalizedText": "кошка",
+      "start": 55.34,
+      "end": 55.68,
+      "speaker": "narrator"
+    },
+    {
+      "index": 75,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 55.819,
+      "end": 55.919,
+      "speaker": "narrator"
+    },
+    {
+      "index": 76,
+      "text": "Жучку,",
+      "normalizedText": "жучку",
+      "start": 56.059,
+      "end": 56.619,
+      "speaker": "narrator"
+    },
+    {
+      "index": 77,
+      "text": "Жучка",
+      "normalizedText": "жучка",
+      "start": 57.299,
+      "end": 57.699,
+      "speaker": "narrator"
+    },
+    {
+      "index": 78,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 57.799,
+      "end": 57.879,
+      "speaker": "narrator"
+    },
+    {
+      "index": 79,
+      "text": "внучку,",
+      "normalizedText": "внучку",
+      "start": 57.979,
+      "end": 58.699,
+      "speaker": "narrator"
+    },
+    {
+      "index": 80,
+      "text": "Внучка",
+      "normalizedText": "внучка",
+      "start": 59.079,
+      "end": 59.599,
+      "speaker": "narrator"
+    },
+    {
+      "index": 81,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 59.68,
+      "end": 59.799,
+      "speaker": "narrator"
+    },
+    {
+      "index": 82,
+      "text": "бабку,",
+      "normalizedText": "бабку",
+      "start": 59.879,
+      "end": 60.459,
+      "speaker": "narrator"
+    },
+    {
+      "index": 83,
+      "text": "Бабка",
+      "normalizedText": "бабка",
+      "start": 61.02,
+      "end": 61.399,
+      "speaker": "narrator"
+    },
+    {
+      "index": 84,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 61.479,
+      "end": 61.559,
+      "speaker": "narrator"
+    },
+    {
+      "index": 85,
+      "text": "дедку,",
+      "normalizedText": "дедку",
+      "start": 61.68,
+      "end": 62.179,
+      "speaker": "narrator"
+    },
+    {
+      "index": 86,
+      "text": "Дедка",
+      "normalizedText": "дедка",
+      "start": 62.719,
+      "end": 63.059,
+      "speaker": "narrator"
+    },
+    {
+      "index": 87,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 63.139,
+      "end": 63.219,
+      "speaker": "narrator"
+    },
+    {
+      "index": 88,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 63.319,
+      "end": 64.299,
+      "speaker": "narrator"
+    },
+    {
+      "index": 89,
+      "text": "— Тянут-потянут,",
+      "normalizedText": "тянут-потянут",
+      "start": 64.4,
+      "end": 66.139,
+      "speaker": "narrator"
+    },
+    {
+      "index": 90,
+      "text": "вытянуть",
+      "normalizedText": "вытянуть",
+      "start": 66.18,
+      "end": 67.199,
+      "speaker": "narrator"
+    },
+    {
+      "index": 91,
+      "text": "не",
+      "normalizedText": "не",
+      "start": 67.22,
+      "end": 67.259,
+      "speaker": "narrator"
+    },
+    {
+      "index": 92,
+      "text": "могут.",
+      "normalizedText": "могут",
+      "start": 67.279,
+      "end": 68.699,
+      "speaker": "narrator"
+    },
+    {
+      "index": 93,
+      "text": "Позвала",
+      "normalizedText": "позвала",
+      "start": 68.799,
+      "end": 69.319,
+      "speaker": "narrator"
+    },
+    {
+      "index": 94,
+      "text": "кошка",
+      "normalizedText": "кошка",
+      "start": 69.419,
+      "end": 69.779,
+      "speaker": "narrator"
+    },
+    {
+      "index": 95,
+      "text": "мышку.",
+      "normalizedText": "мышку",
+      "start": 69.919,
+      "end": 70.479,
+      "speaker": "narrator"
+    },
+    {
+      "index": 96,
+      "text": "Мышка",
+      "normalizedText": "мышка",
+      "start": 71.159,
+      "end": 71.479,
+      "speaker": "narrator"
+    },
+    {
+      "index": 97,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 71.559,
+      "end": 71.699,
+      "speaker": "narrator"
+    },
+    {
+      "index": 98,
+      "text": "кошку,",
+      "normalizedText": "кошку",
+      "start": 71.779,
+      "end": 72.339,
+      "speaker": "narrator"
+    },
+    {
+      "index": 99,
+      "text": "Кошка",
+      "normalizedText": "кошка",
+      "start": 72.939,
+      "end": 73.299,
+      "speaker": "narrator"
+    },
+    {
+      "index": 100,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 73.4,
+      "end": 73.479,
+      "speaker": "narrator"
+    },
+    {
+      "index": 101,
+      "text": "Жучку,",
+      "normalizedText": "жучку",
+      "start": 73.58,
+      "end": 74.059,
+      "speaker": "narrator"
+    },
+    {
+      "index": 102,
+      "text": "Жучка",
+      "normalizedText": "жучка",
+      "start": 74.659,
+      "end": 74.839,
+      "speaker": "narrator"
+    },
+    {
+      "index": 103,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 74.9,
+      "end": 74.979,
+      "speaker": "narrator"
+    },
+    {
+      "index": 104,
+      "text": "внучку,",
+      "normalizedText": "внучку",
+      "start": 75.059,
+      "end": 76.299,
+      "speaker": "narrator"
+    },
+    {
+      "index": 105,
+      "text": "Внучка",
+      "normalizedText": "внучка",
+      "start": 76.339,
+      "end": 76.659,
+      "speaker": "narrator"
+    },
+    {
+      "index": 106,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 76.759,
+      "end": 76.879,
+      "speaker": "narrator"
+    },
+    {
+      "index": 107,
+      "text": "бабку,",
+      "normalizedText": "бабку",
+      "start": 76.959,
+      "end": 77.899,
+      "speaker": "narrator"
+    },
+    {
+      "index": 108,
+      "text": "Бабка",
+      "normalizedText": "бабка",
+      "start": 77.939,
+      "end": 78.379,
+      "speaker": "narrator"
+    },
+    {
+      "index": 109,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 78.4,
+      "end": 78.859,
+      "speaker": "narrator"
+    },
+    {
+      "index": 110,
+      "text": "дедку,",
+      "normalizedText": "дедку",
+      "start": 78.879,
+      "end": 79.659,
+      "speaker": "narrator"
+    },
+    {
+      "index": 111,
+      "text": "Дедка",
+      "normalizedText": "дедка",
+      "start": 79.699,
+      "end": 80.119,
+      "speaker": "narrator"
+    },
+    {
+      "index": 112,
+      "text": "за",
+      "normalizedText": "за",
+      "start": 80.139,
+      "end": 80.279,
+      "speaker": "narrator"
+    },
+    {
+      "index": 113,
+      "text": "репку",
+      "normalizedText": "репку",
+      "start": 80.299,
+      "end": 81.239,
+      "speaker": "narrator"
+    },
+    {
+      "index": 114,
+      "text": "— Тянут-потянут",
+      "normalizedText": "тянут-потянут",
+      "start": 81.419,
+      "end": 82.579,
+      "speaker": "narrator"
+    },
+    {
+      "index": 115,
+      "text": "— и",
+      "normalizedText": "и",
+      "start": 82.659,
+      "end": 82.719,
+      "speaker": "narrator"
+    },
+    {
+      "index": 116,
+      "text": "вытянули",
+      "normalizedText": "вытянули",
+      "start": 82.879,
+      "end": 83.379,
+      "speaker": "narrator"
+    },
+    {
+      "index": 117,
+      "text": "репку.",
+      "normalizedText": "репку",
+      "start": 83.479,
+      "end": 83.919,
+      "speaker": "narrator"
+    },
+    {
+      "index": 118,
+      "text": "Вот",
+      "normalizedText": "вот",
+      "start": 84.759,
+      "end": 84.919,
+      "speaker": "narrator"
+    },
+    {
+      "index": 119,
+      "text": "и",
+      "normalizedText": "и",
+      "start": 84.959,
+      "end": 85,
+      "speaker": "narrator"
+    },
+    {
+      "index": 120,
+      "text": "сказке",
+      "normalizedText": "сказке",
+      "start": 85.119,
+      "end": 85.54,
+      "speaker": "narrator"
+    },
+    {
+      "index": 121,
+      "text": "конец,",
+      "normalizedText": "конец",
+      "start": 85.599,
+      "end": 86.04,
+      "speaker": "narrator"
+    },
+    {
+      "index": 122,
+      "text": "а",
+      "normalizedText": "а",
+      "start": 86.419,
+      "end": 86.439,
+      "speaker": "narrator"
+    },
+    {
+      "index": 123,
+      "text": "кто",
+      "normalizedText": "кто",
+      "start": 86.559,
+      "end": 86.659,
+      "speaker": "narrator"
+    },
+    {
+      "index": 124,
+      "text": "слушал",
+      "normalizedText": "слушал",
+      "start": 86.779,
+      "end": 87.219,
+      "speaker": "narrator"
+    },
+    {
+      "index": 125,
+      "text": "— молодец!",
+      "normalizedText": "молодец",
+      "start": 87.72,
+      "end": 88.339,
+      "speaker": "narrator"
+    }
+  ]
+}

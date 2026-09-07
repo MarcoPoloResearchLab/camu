@@ -1,0 +1,318 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "the-tiger-and-the-brahmin",
+  "storyPath": "indian/014-the-tiger-and-the-brahmin.md",
+  "language": "en",
+  "source": {
+    "kind": "story-root-canonical",
+    "path": "source/canonical.txt",
+    "sha256": "c6f99a457714b455e92e33a104f9145d9de734ecd161be57d0351ce187e1406f"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "THE TIGER, THE BRAHMAN, AND THE JACKAL"
+      ],
+      "text": "THE TIGER, THE BRAHMAN, AND THE JACKAL"
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "Once upon a time, a tiger was caught in a trap. He tried in vain to get out through the bars, and rolled and bit with rage and grief when he failed."
+      ],
+      "text": "Once upon a time, a tiger was caught in a trap. He tried in vain to get out through the bars, and rolled and bit with rage and grief when he failed."
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "By chance a poor Brahman came by. “Let me out of this cage, oh pious one!” cried the tiger."
+      ],
+      "text": "By chance a poor Brahman came by. “Let me out of this cage, oh pious one!” cried the tiger."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "“Nay, my friend,” replied the Brahman mildly, “you would probably eat me if I did.”"
+      ],
+      "text": "“Nay, my friend,” replied the Brahman mildly, “you would probably eat me if I did.”"
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "lines": [
+        "“Not at all!” swore the tiger with many oaths; “on the contrary, I should be for ever grateful, and serve you as a slave!”"
+      ],
+      "text": "“Not at all!” swore the tiger with many oaths; “on the contrary, I should be for ever grateful, and serve you as a slave!”"
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "lines": [
+        "Now when the tiger sobbed and sighed and wept and swore, the pious Brahman’s heart softened, and at last he consented to open the door of the cage. Out popped the tiger, and, seizing the poor man, cried, “What a fool you are! What is to prevent my eating you now, for after being cooped up so long I am just terribly hungry!”"
+      ],
+      "text": "Now when the tiger sobbed and sighed and wept and swore, the pious Brahman’s heart softened, and at last he consented to open the door of the cage. Out popped the tiger, and, seizing the poor man, cried, “What a fool you are! What is to prevent my eating you now, for after being cooped up so long I am just terribly hungry!”"
+    },
+    {
+      "index": 6,
+      "type": "paragraph",
+      "lines": [
+        "In vain the Brahman pleaded for his life; the most he could gain was a promise to abide by the decision of the first three things he chose to question as to the justice of the tiger’s action."
+      ],
+      "text": "In vain the Brahman pleaded for his life; the most he could gain was a promise to abide by the decision of the first three things he chose to question as to the justice of the tiger’s action."
+    },
+    {
+      "index": 7,
+      "type": "paragraph",
+      "lines": [
+        "So the Brahman first asked a _pipal_ tree what it thought of the matter, but the _pipal_ tree replied coldly, “What have you to complain about? Don’t I give shade and shelter to every one who passes by, and don’t they in return tear down my branches to feed their cattle? Don’t whimper–be a man!”"
+      ],
+      "text": "So the Brahman first asked a _pipal_ tree what it thought of the matter, but the _pipal_ tree replied coldly, “What have you to complain about? Don’t I give shade and shelter to every one who passes by, and don’t they in return tear down my branches to feed their cattle? Don’t whimper–be a man!”"
+    },
+    {
+      "index": 8,
+      "type": "paragraph",
+      "lines": [
+        "Then the Brahman, sad at heart, went further afield till he saw a buffalo turning a well-wheel; but he fared no better from it, for it answered, “You are a fool to expect gratitude! Look at me! Whilst I gave milk they fed me on cotton-seed and oil-cake, but now I am dry they yoke me here, and give me refuse as fodder!”"
+      ],
+      "text": "Then the Brahman, sad at heart, went further afield till he saw a buffalo turning a well-wheel; but he fared no better from it, for it answered, “You are a fool to expect gratitude! Look at me! Whilst I gave milk they fed me on cotton-seed and oil-cake, but now I am dry they yoke me here, and give me refuse as fodder!”"
+    },
+    {
+      "index": 9,
+      "type": "paragraph",
+      "lines": [
+        "The Brahman, still more sad, asked the road to give him its opinion."
+      ],
+      "text": "The Brahman, still more sad, asked the road to give him its opinion."
+    },
+    {
+      "index": 10,
+      "type": "paragraph",
+      "lines": [
+        "“My dear sir,” said the road, “how foolish you are to expect anything else! Here am I, useful to everybody, yet all, rich and poor, great and small, trample on me as they go past, giving me nothing but the ashes of their pipes and the husks of their grain!”"
+      ],
+      "text": "“My dear sir,” said the road, “how foolish you are to expect anything else! Here am I, useful to everybody, yet all, rich and poor, great and small, trample on me as they go past, giving me nothing but the ashes of their pipes and the husks of their grain!”"
+    },
+    {
+      "index": 11,
+      "type": "paragraph",
+      "lines": [
+        "On this the Brahman turned back sorrowfully, and on the way he met a jackal, who called out, “Why, what’s the matter, Mr. Brahman? You look as miserable as a fish out of water!”"
+      ],
+      "text": "On this the Brahman turned back sorrowfully, and on the way he met a jackal, who called out, “Why, what’s the matter, Mr. Brahman? You look as miserable as a fish out of water!”"
+    },
+    {
+      "index": 12,
+      "type": "paragraph",
+      "lines": [
+        "The Brahman told him all that had occurred. “How very confusing!” said the jackal, when the recital was ended; “would you mind telling me over again, for everything has got so mixed up?”"
+      ],
+      "text": "The Brahman told him all that had occurred. “How very confusing!” said the jackal, when the recital was ended; “would you mind telling me over again, for everything has got so mixed up?”"
+    },
+    {
+      "index": 13,
+      "type": "paragraph",
+      "lines": [
+        "The Brahman told it all over again, but the jackal shook his head in a distracted sort of way, and still could not understand."
+      ],
+      "text": "The Brahman told it all over again, but the jackal shook his head in a distracted sort of way, and still could not understand."
+    },
+    {
+      "index": 14,
+      "type": "paragraph",
+      "lines": [
+        "”It’s very odd,” said he, sadly, “but it all seems to go in at one ear and out at the other! I will go to the place where it all happened, and then perhaps I shall be able to give a judgment.”"
+      ],
+      "text": "”It’s very odd,” said he, sadly, “but it all seems to go in at one ear and out at the other! I will go to the place where it all happened, and then perhaps I shall be able to give a judgment.”"
+    },
+    {
+      "index": 15,
+      "type": "paragraph",
+      "lines": [
+        "So they returned to the cage, by which the tiger was waiting for the Brahman, and sharpening his teeth and claws."
+      ],
+      "text": "So they returned to the cage, by which the tiger was waiting for the Brahman, and sharpening his teeth and claws."
+    },
+    {
+      "index": 16,
+      "type": "paragraph",
+      "lines": [
+        "“You’ve been away a long time!” growled the savage beast, “but now let us begin our dinner.”"
+      ],
+      "text": "“You’ve been away a long time!” growled the savage beast, “but now let us begin our dinner.”"
+    },
+    {
+      "index": 17,
+      "type": "paragraph",
+      "lines": [
+        "“Our dinner!” thought the wretched Brahman, as his knees knocked together with fright; “what a remarkably delicate way of putting it!”"
+      ],
+      "text": "“Our dinner!” thought the wretched Brahman, as his knees knocked together with fright; “what a remarkably delicate way of putting it!”"
+    },
+    {
+      "index": 18,
+      "type": "paragraph",
+      "lines": [
+        "“Give me five minutes, my lord!” he pleaded, “in order that I may explain matters to the jackal here, who is somewhat slow in his wits.”"
+      ],
+      "text": "“Give me five minutes, my lord!” he pleaded, “in order that I may explain matters to the jackal here, who is somewhat slow in his wits.”"
+    },
+    {
+      "index": 19,
+      "type": "paragraph",
+      "lines": [
+        "The tiger consented, and the Brahman began the whole story over again, not missing a single detail, and spinning as long a yarn as possible."
+      ],
+      "text": "The tiger consented, and the Brahman began the whole story over again, not missing a single detail, and spinning as long a yarn as possible."
+    },
+    {
+      "index": 20,
+      "type": "paragraph",
+      "lines": [
+        "“Oh, my poor brain! oh, my poor brain!” cried the jackal, wringing its paws. “Let me see! how did it all begin? You were in the cage, and the tiger came walking by—”"
+      ],
+      "text": "“Oh, my poor brain! oh, my poor brain!” cried the jackal, wringing its paws. “Let me see! how did it all begin? You were in the cage, and the tiger came walking by—”"
+    },
+    {
+      "index": 21,
+      "type": "paragraph",
+      "lines": [
+        "“Pooh!” interrupted the tiger, “what a fool you are! I was in the cage.”"
+      ],
+      "text": "“Pooh!” interrupted the tiger, “what a fool you are! I was in the cage.”"
+    },
+    {
+      "index": 22,
+      "type": "paragraph",
+      "lines": [
+        "“Of course!” cried the jackal, pretending to tremble with fright; “yes! I was in the cage—no I wasn’t—dear! dear! where are my wits? Let me see—the tiger was in the Brahman, and the cage came walking by—no, that’s not it, either! Well, don’t mind me, but begin your dinner, for I shall never understand!”"
+      ],
+      "text": "“Of course!” cried the jackal, pretending to tremble with fright; “yes! I was in the cage—no I wasn’t—dear! dear! where are my wits? Let me see—the tiger was in the Brahman, and the cage came walking by—no, that’s not it, either! Well, don’t mind me, but begin your dinner, for I shall never understand!”"
+    },
+    {
+      "index": 23,
+      "type": "paragraph",
+      "lines": [
+        "“Yes, you shall!” returned the tiger, in a rage at the jackal’s stupidity; “I’ll make you understand! Look here—I am the tiger—”"
+      ],
+      "text": "“Yes, you shall!” returned the tiger, in a rage at the jackal’s stupidity; “I’ll make you understand! Look here—I am the tiger—”"
+    },
+    {
+      "index": 24,
+      "type": "paragraph",
+      "lines": [
+        "“Yes, my lord!”"
+      ],
+      "text": "“Yes, my lord!”"
+    },
+    {
+      "index": 25,
+      "type": "paragraph",
+      "lines": [
+        "“And that is the Brahman—”"
+      ],
+      "text": "“And that is the Brahman—”"
+    },
+    {
+      "index": 26,
+      "type": "paragraph",
+      "lines": [
+        "“Yes, my lord!”"
+      ],
+      "text": "“Yes, my lord!”"
+    },
+    {
+      "index": 27,
+      "type": "paragraph",
+      "lines": [
+        "“And that is the cage—”"
+      ],
+      "text": "“And that is the cage—”"
+    },
+    {
+      "index": 28,
+      "type": "paragraph",
+      "lines": [
+        "“Yes, my lord!”"
+      ],
+      "text": "“Yes, my lord!”"
+    },
+    {
+      "index": 29,
+      "type": "paragraph",
+      "lines": [
+        "“And I was in the cage—do you understand?”"
+      ],
+      "text": "“And I was in the cage—do you understand?”"
+    },
+    {
+      "index": 30,
+      "type": "paragraph",
+      "lines": [
+        "“Yes—no— Please, my lord—”"
+      ],
+      "text": "“Yes—no— Please, my lord—”"
+    },
+    {
+      "index": 31,
+      "type": "paragraph",
+      "lines": [
+        "“Well?” cried the tiger impatiently."
+      ],
+      "text": "“Well?” cried the tiger impatiently."
+    },
+    {
+      "index": 32,
+      "type": "paragraph",
+      "lines": [
+        "“Please, my lord!—how did you get in?”"
+      ],
+      "text": "“Please, my lord!—how did you get in?”"
+    },
+    {
+      "index": 33,
+      "type": "paragraph",
+      "lines": [
+        "“How!—why in the usual way, of course!”"
+      ],
+      "text": "“How!—why in the usual way, of course!”"
+    },
+    {
+      "index": 34,
+      "type": "paragraph",
+      "lines": [
+        "“Oh, dear me!—my head is beginning to whirl again! Please don’t be angry, my lord, but what is the usual way?”"
+      ],
+      "text": "“Oh, dear me!—my head is beginning to whirl again! Please don’t be angry, my lord, but what is the usual way?”"
+    },
+    {
+      "index": 35,
+      "type": "paragraph",
+      "lines": [
+        "At this the tiger lost patience, and, jumping into the cage, cried, “This way! Now do you understand how it was?”"
+      ],
+      "text": "At this the tiger lost patience, and, jumping into the cage, cried, “This way! Now do you understand how it was?”"
+    },
+    {
+      "index": 36,
+      "type": "paragraph",
+      "lines": [
+        "“Perfectly!” grinned the jackal, as he dexterously shut the door, “and if you will permit me to say so, I think matters will remain as they were!”"
+      ],
+      "text": "“Perfectly!” grinned the jackal, as he dexterously shut the door, “and if you will permit me to say so, I think matters will remain as they were!”"
+    }
+  ],
+  "plainText": "THE TIGER, THE BRAHMAN, AND THE JACKAL\n\nOnce upon a time, a tiger was caught in a trap. He tried in vain to get out through the bars, and rolled and bit with rage and grief when he failed.\n\nBy chance a poor Brahman came by. “Let me out of this cage, oh pious one!” cried the tiger.\n\n“Nay, my friend,” replied the Brahman mildly, “you would probably eat me if I did.”\n\n“Not at all!” swore the tiger with many oaths; “on the contrary, I should be for ever grateful, and serve you as a slave!”\n\nNow when the tiger sobbed and sighed and wept and swore, the pious Brahman’s heart softened, and at last he consented to open the door of the cage. Out popped the tiger, and, seizing the poor man, cried, “What a fool you are! What is to prevent my eating you now, for after being cooped up so long I am just terribly hungry!”\n\nIn vain the Brahman pleaded for his life; the most he could gain was a promise to abide by the decision of the first three things he chose to question as to the justice of the tiger’s action.\n\nSo the Brahman first asked a _pipal_ tree what it thought of the matter, but the _pipal_ tree replied coldly, “What have you to complain about? Don’t I give shade and shelter to every one who passes by, and don’t they in return tear down my branches to feed their cattle? Don’t whimper–be a man!”\n\nThen the Brahman, sad at heart, went further afield till he saw a buffalo turning a well-wheel; but he fared no better from it, for it answered, “You are a fool to expect gratitude! Look at me! Whilst I gave milk they fed me on cotton-seed and oil-cake, but now I am dry they yoke me here, and give me refuse as fodder!”\n\nThe Brahman, still more sad, asked the road to give him its opinion.\n\n“My dear sir,” said the road, “how foolish you are to expect anything else! Here am I, useful to everybody, yet all, rich and poor, great and small, trample on me as they go past, giving me nothing but the ashes of their pipes and the husks of their grain!”\n\nOn this the Brahman turned back sorrowfully, and on the way he met a jackal, who called out, “Why, what’s the matter, Mr. Brahman? You look as miserable as a fish out of water!”\n\nThe Brahman told him all that had occurred. “How very confusing!” said the jackal, when the recital was ended; “would you mind telling me over again, for everything has got so mixed up?”\n\nThe Brahman told it all over again, but the jackal shook his head in a distracted sort of way, and still could not understand.\n\n”It’s very odd,” said he, sadly, “but it all seems to go in at one ear and out at the other! I will go to the place where it all happened, and then perhaps I shall be able to give a judgment.”\n\nSo they returned to the cage, by which the tiger was waiting for the Brahman, and sharpening his teeth and claws.\n\n“You’ve been away a long time!” growled the savage beast, “but now let us begin our dinner.”\n\n“Our dinner!” thought the wretched Brahman, as his knees knocked together with fright; “what a remarkably delicate way of putting it!”\n\n“Give me five minutes, my lord!” he pleaded, “in order that I may explain matters to the jackal here, who is somewhat slow in his wits.”\n\nThe tiger consented, and the Brahman began the whole story over again, not missing a single detail, and spinning as long a yarn as possible.\n\n“Oh, my poor brain! oh, my poor brain!” cried the jackal, wringing its paws. “Let me see! how did it all begin? You were in the cage, and the tiger came walking by—”\n\n“Pooh!” interrupted the tiger, “what a fool you are! I was in the cage.”\n\n“Of course!” cried the jackal, pretending to tremble with fright; “yes! I was in the cage—no I wasn’t—dear! dear! where are my wits? Let me see—the tiger was in the Brahman, and the cage came walking by—no, that’s not it, either! Well, don’t mind me, but begin your dinner, for I shall never understand!”\n\n“Yes, you shall!” returned the tiger, in a rage at the jackal’s stupidity; “I’ll make you understand! Look here—I am the tiger—”\n\n“Yes, my lord!”\n\n“And that is the Brahman—”\n\n“Yes, my lord!”\n\n“And that is the cage—”\n\n“Yes, my lord!”\n\n“And I was in the cage—do you understand?”\n\n“Yes—no— Please, my lord—”\n\n“Well?” cried the tiger impatiently.\n\n“Please, my lord!—how did you get in?”\n\n“How!—why in the usual way, of course!”\n\n“Oh, dear me!—my head is beginning to whirl again! Please don’t be angry, my lord, but what is the usual way?”\n\nAt this the tiger lost patience, and, jumping into the cage, cried, “This way! Now do you understand how it was?”\n\n“Perfectly!” grinned the jackal, as he dexterously shut the door, “and if you will permit me to say so, I think matters will remain as they were!”",
+  "plainTextSha256": "82c222dfdfc41b405495ec70f5019a926c346ea3c595ad4a52ddc0e6453511b7",
+  "spokenRelation": {
+    "sha256": "2b1b748a554cfe27c9e635c3c5e2ef19a20dea12deb7a4e64bd1070757b7abee",
+    "tokenCount": 892
+  },
+  "wordCount": 892,
+  "characterCount": 4620,
+  "sha256": "3937be6fc4b9df5ee72bc3d6537ff514e906307e1521204d4fc8ebfaf2c14d4e"
+}

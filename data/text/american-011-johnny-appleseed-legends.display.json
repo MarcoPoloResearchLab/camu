@@ -1,0 +1,54 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "johnny-appleseed-legends",
+  "storyPath": "american/011-johnny-appleseed-legends.md",
+  "language": "en",
+  "source": {
+    "kind": "story-root-canonical",
+    "path": "source/canonical.txt",
+    "sha256": "25c579e8f52873b52ef646621a82743a64ea191db97f07eafe7c6b571b226757"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "Another picturesque figure of our early times was one who never meant and never imagined harm to any living creature, man or beast, but gave his simple, humble life to doing good, with no thought of his own advantage. Perhaps as the world grows more truly civilized the name of Johnny Apple-seed will be honored above that of some heroes of the Ohio country. Like so many of our distinguished men, he was not born in our state, but he came here in his young manhood from his birthplace in Massachusetts, and began at once to plant the apple seeds which gave him his nickname."
+      ],
+      "text": "Another picturesque figure of our early times was one who never meant and never imagined harm to any living creature, man or beast, but gave his simple, humble life to doing good, with no thought of his own advantage. Perhaps as the world grows more truly civilized the name of Johnny Apple-seed will be honored above that of some heroes of the Ohio country. Like so many of our distinguished men, he was not born in our state, but he came here in his young manhood from his birthplace in Massachusetts, and began at once to plant the apple seeds which gave him his nickname."
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "Few knew that his real name was John Chapman, but it did not matter; and Johnny Appleseed became his right name if men are rightly named from their works. Wherever he went he carried a store of apple seeds with him, and when he came to a good clear spot on the bank of a stream, he planted his seeds, fenced the place in, and left them to sprout and grow into trees for the orchards of the neighborhood. He soon had hundreds of these little nurseries throughout Ohio, which he returned year after year to watch and tend, and which no one molested. When the trees were large enough he sold them to the farmers for a trifle, an old coat or an old shirt, and when he needed nothing he gave them for nothing. He went barefoot in the warm weather, and in winter he wore cast-off shoes; when he could get none and the ways were very rough he protected his feet with rude sandals of his own making. His hats were of his own making too, and were usually of pasteboard with a broad brim in front to shield his eyes from the sun; but otherwise he dressed in the second-hand clothing of others, for he thought it wrong to spend upon the vanities of dress. He dwelt close to the heart of nature, whose dumb children he would not wound or kill, even poisonous snakes or noxious insects. The Indians knew him and loved him for the goodness of his life, and they honored him for the courage with which he bore the pain he never would inflict. He could drive pins into his flesh without wincing; if he got"
+      ],
+      "text": "Few knew that his real name was John Chapman, but it did not matter; and Johnny Appleseed became his right name if men are rightly named from their works. Wherever he went he carried a store of apple seeds with him, and when he came to a good clear spot on the bank of a stream, he planted his seeds, fenced the place in, and left them to sprout and grow into trees for the orchards of the neighborhood. He soon had hundreds of these little nurseries throughout Ohio, which he returned year after year to watch and tend, and which no one molested. When the trees were large enough he sold them to the farmers for a trifle, an old coat or an old shirt, and when he needed nothing he gave them for nothing. He went barefoot in the warm weather, and in winter he wore cast-off shoes; when he could get none and the ways were very rough he protected his feet with rude sandals of his own making. His hats were of his own making too, and were usually of pasteboard with a broad brim in front to shield his eyes from the sun; but otherwise he dressed in the second-hand clothing of others, for he thought it wrong to spend upon the vanities of dress. He dwelt close to the heart of nature, whose dumb children he would not wound or kill, even poisonous snakes or noxious insects. The Indians knew him and loved him for the goodness of his life, and they honored him for the courage with which he bore the pain he never would inflict. He could drive pins into his flesh without wincing; if he got"
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "hurt he burned the place, and then treated it as a burn; he bore himself in all things, to their thinking, far above other white men."
+      ],
+      "text": "hurt he burned the place, and then treated it as a burn; he bore himself in all things, to their thinking, far above other white men."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "It was believed that he had come into the backwoods to forget a disappointment in love, but there is no proof that he had ever suffered this. What is certain is that he was a man of beautiful qualities of heart and mind, who could at times be divinely eloquent about the work he had chosen to do in this world. He was a believer in the philosophy of Emanuel Swedenborg; he carried books of that doctrine in his bosom, and constantly read them, or shared them with those who cared to know it, even to tearing a volume in two. If his belief was true and we are in this world surrounded by spirits, evil or good, which our evil or good behavior invites to be of our company, then this harmless, loving, uncouth, half-crazy man walked daily with the angels of God."
+      ],
+      "text": "It was believed that he had come into the backwoods to forget a disappointment in love, but there is no proof that he had ever suffered this. What is certain is that he was a man of beautiful qualities of heart and mind, who could at times be divinely eloquent about the work he had chosen to do in this world. He was a believer in the philosophy of Emanuel Swedenborg; he carried books of that doctrine in his bosom, and constantly read them, or shared them with those who cared to know it, even to tearing a volume in two. If his belief was true and we are in this world surrounded by spirits, evil or good, which our evil or good behavior invites to be of our company, then this harmless, loving, uncouth, half-crazy man walked daily with the angels of God."
+    }
+  ],
+  "plainText": "Another picturesque figure of our early times was one who never meant and never imagined harm to any living creature, man or beast, but gave his simple, humble life to doing good, with no thought of his own advantage. Perhaps as the world grows more truly civilized the name of Johnny Apple-seed will be honored above that of some heroes of the Ohio country. Like so many of our distinguished men, he was not born in our state, but he came here in his young manhood from his birthplace in Massachusetts, and began at once to plant the apple seeds which gave him his nickname.\n\nFew knew that his real name was John Chapman, but it did not matter; and Johnny Appleseed became his right name if men are rightly named from their works. Wherever he went he carried a store of apple seeds with him, and when he came to a good clear spot on the bank of a stream, he planted his seeds, fenced the place in, and left them to sprout and grow into trees for the orchards of the neighborhood. He soon had hundreds of these little nurseries throughout Ohio, which he returned year after year to watch and tend, and which no one molested. When the trees were large enough he sold them to the farmers for a trifle, an old coat or an old shirt, and when he needed nothing he gave them for nothing. He went barefoot in the warm weather, and in winter he wore cast-off shoes; when he could get none and the ways were very rough he protected his feet with rude sandals of his own making. His hats were of his own making too, and were usually of pasteboard with a broad brim in front to shield his eyes from the sun; but otherwise he dressed in the second-hand clothing of others, for he thought it wrong to spend upon the vanities of dress. He dwelt close to the heart of nature, whose dumb children he would not wound or kill, even poisonous snakes or noxious insects. The Indians knew him and loved him for the goodness of his life, and they honored him for the courage with which he bore the pain he never would inflict. He could drive pins into his flesh without wincing; if he got\n\nhurt he burned the place, and then treated it as a burn; he bore himself in all things, to their thinking, far above other white men.\n\nIt was believed that he had come into the backwoods to forget a disappointment in love, but there is no proof that he had ever suffered this. What is certain is that he was a man of beautiful qualities of heart and mind, who could at times be divinely eloquent about the work he had chosen to do in this world. He was a believer in the philosophy of Emanuel Swedenborg; he carried books of that doctrine in his bosom, and constantly read them, or shared them with those who cared to know it, even to tearing a volume in two. If his belief was true and we are in this world surrounded by spirits, evil or good, which our evil or good behavior invites to be of our company, then this harmless, loving, uncouth, half-crazy man walked daily with the angels of God.",
+  "plainTextSha256": "7bcc0c937fcd6cfbe6f788688ddaa2335c300bcdcec298abcaf2d4b235470a16",
+  "spokenRelation": {
+    "sha256": "8fa9bf2f4020243b9eedf2265adf71624348502191beff4e3076c6655070a407",
+    "tokenCount": 564
+  },
+  "wordCount": 564,
+  "characterCount": 2963,
+  "sha256": "a9b2c6822f2fe828b29bb8748c902a64d74c89f5f1b96125daa78838d56ab66e"
+}
