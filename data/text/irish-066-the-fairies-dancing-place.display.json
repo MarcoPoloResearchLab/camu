@@ -1,0 +1,70 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "the-fairies-dancing-place",
+  "storyPath": "irish/066-the-fairies-dancing-place.md",
+  "language": "en",
+  "source": {
+    "kind": "story-root-canonical",
+    "path": "source/canonical.txt",
+    "sha256": "a2495647a7c84af5fe66a02b47155ef9426e69704e92164e7062e695fa63ead0"
+  },
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "lines": [
+        "Lanty M'Clusky had married a wife, and, of course, it was necessary to have a house in which to keep her. Now, Lanty had taken a bit of a farm, about six acres; but as there was no house on it, he resolved to build one; and that it might be as comfortable as possible, he selected for the site of it one of those beautiful green circles that are supposed to be the play-ground of the fairies. Lanty was warned against this; but as he was a headstrong man, and not much given to fear, he said he would not change such a pleasant situation for his house to oblige all the fairies in Europe. He accordingly proceeded with the building, which he finished off very neatly; and, as it is usual on these occasions to give one's neighbours and friends a house-warming, so, in compliance with this good and pleasant old custom, Lanty having brought home the wife in the course of the day, got a fiddler and a lot of whisky, and gave those who had come to see him a dance in the evening. This was all very well, and the fun and hilarity were proceeding briskly, when a noise was heard after night had set in, like a crushing and straining of ribs and rafters on the top of the house. The folks assembled all listened, and, without doubt, there was nothing heard but crushing, and heaving, and pushing, and groaning, and panting, as if a thousand little men were engaged in pulling down the roof."
+      ],
+      "text": "Lanty M'Clusky had married a wife, and, of course, it was necessary to have a house in which to keep her. Now, Lanty had taken a bit of a farm, about six acres; but as there was no house on it, he resolved to build one; and that it might be as comfortable as possible, he selected for the site of it one of those beautiful green circles that are supposed to be the play-ground of the fairies. Lanty was warned against this; but as he was a headstrong man, and not much given to fear, he said he would not change such a pleasant situation for his house to oblige all the fairies in Europe. He accordingly proceeded with the building, which he finished off very neatly; and, as it is usual on these occasions to give one's neighbours and friends a house-warming, so, in compliance with this good and pleasant old custom, Lanty having brought home the wife in the course of the day, got a fiddler and a lot of whisky, and gave those who had come to see him a dance in the evening. This was all very well, and the fun and hilarity were proceeding briskly, when a noise was heard after night had set in, like a crushing and straining of ribs and rafters on the top of the house. The folks assembled all listened, and, without doubt, there was nothing heard but crushing, and heaving, and pushing, and groaning, and panting, as if a thousand little men were engaged in pulling down the roof."
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "lines": [
+        "'Come,' said a voice which spoke in a tone of command, 'work hard: you know we must have Lanty's house down before midnight.'"
+      ],
+      "text": "'Come,' said a voice which spoke in a tone of command, 'work hard: you know we must have Lanty's house down before midnight.'"
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "lines": [
+        "This was an unwelcome piece of intelligence to Lanty, who, finding that his enemies were such as he could not cope with, walked out, and addressed them as follows:"
+      ],
+      "text": "This was an unwelcome piece of intelligence to Lanty, who, finding that his enemies were such as he could not cope with, walked out, and addressed them as follows:"
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "lines": [
+        "'Gintlemen, I humbly ax yer pardon for buildin' on any place belongin' to you; but if you'll have the civilitude to let me alone this night, I'll begin to pull down and remove the house to-morrow morning.'"
+      ],
+      "text": "'Gintlemen, I humbly ax yer pardon for buildin' on any place belongin' to you; but if you'll have the civilitude to let me alone this night, I'll begin to pull down and remove the house to-morrow morning.'"
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "lines": [
+        "This was followed by a noise like the clapping of a thousand tiny little hands, and a shout of 'Bravo, Lanty! build half-way between the two White-thorns above the boreen'; and after another hearty little shout of exultation, there was a brisk rushing noise, and they were heard no more."
+      ],
+      "text": "This was followed by a noise like the clapping of a thousand tiny little hands, and a shout of 'Bravo, Lanty! build half-way between the two White-thorns above the boreen'; and after another hearty little shout of exultation, there was a brisk rushing noise, and they were heard no more."
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "lines": [
+        "The story, however, does not end here; for Lanty, when digging the foundation of his new house, found the full of a metal vessel of gold: so that in leaving to the fairies their play-ground, he became a richer man than ever he otherwise would have been, had he never come in contact with them at all."
+      ],
+      "text": "The story, however, does not end here; for Lanty, when digging the foundation of his new house, found the full of a metal vessel of gold: so that in leaving to the fairies their play-ground, he became a richer man than ever he otherwise would have been, had he never come in contact with them at all."
+    }
+  ],
+  "plainText": "Lanty M'Clusky had married a wife, and, of course, it was necessary to have a house in which to keep her. Now, Lanty had taken a bit of a farm, about six acres; but as there was no house on it, he resolved to build one; and that it might be as comfortable as possible, he selected for the site of it one of those beautiful green circles that are supposed to be the play-ground of the fairies. Lanty was warned against this; but as he was a headstrong man, and not much given to fear, he said he would not change such a pleasant situation for his house to oblige all the fairies in Europe. He accordingly proceeded with the building, which he finished off very neatly; and, as it is usual on these occasions to give one's neighbours and friends a house-warming, so, in compliance with this good and pleasant old custom, Lanty having brought home the wife in the course of the day, got a fiddler and a lot of whisky, and gave those who had come to see him a dance in the evening. This was all very well, and the fun and hilarity were proceeding briskly, when a noise was heard after night had set in, like a crushing and straining of ribs and rafters on the top of the house. The folks assembled all listened, and, without doubt, there was nothing heard but crushing, and heaving, and pushing, and groaning, and panting, as if a thousand little men were engaged in pulling down the roof.\n\n'Come,' said a voice which spoke in a tone of command, 'work hard: you know we must have Lanty's house down before midnight.'\n\nThis was an unwelcome piece of intelligence to Lanty, who, finding that his enemies were such as he could not cope with, walked out, and addressed them as follows:\n\n'Gintlemen, I humbly ax yer pardon for buildin' on any place belongin' to you; but if you'll have the civilitude to let me alone this night, I'll begin to pull down and remove the house to-morrow morning.'\n\nThis was followed by a noise like the clapping of a thousand tiny little hands, and a shout of 'Bravo, Lanty! build half-way between the two White-thorns above the boreen'; and after another hearty little shout of exultation, there was a brisk rushing noise, and they were heard no more.\n\nThe story, however, does not end here; for Lanty, when digging the foundation of his new house, found the full of a metal vessel of gold: so that in leaving to the fairies their play-ground, he became a richer man than ever he otherwise would have been, had he never come in contact with them at all.",
+  "plainTextSha256": "e54ce034492acc3a95f614c2e25003a51ec2596868e635558c4809475cf8ae23",
+  "spokenRelation": {
+    "sha256": "85be7741cf869b01d62120f52a568f37b627a69e0586afd435a04966799f2737",
+    "tokenCount": 468
+  },
+  "wordCount": 468,
+  "characterCount": 2475,
+  "sha256": "231a092e4a63b6b4dcd6406fb20049332bcf15b3ce691c4a3a4d484dedfbb8e9"
+}
