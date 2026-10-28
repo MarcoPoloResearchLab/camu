@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer">
+<script>
+(() => {
+  let active = true;
+  let mounted = null;
+  let incoming = null;
+  function capture() {
+    if (!active) return;
+    incoming = { fragment: window.location.hash, query: window.location.search };
+    window.history.replaceState(null, '', window.location.pathname);
+    if (mounted) { mounted.receive(incoming); incoming = null; }
+  }
+  capture();
+  window.addEventListener('hashchange', capture);
+  window.addEventListener('pagehide', () => {
+    active = false;
+    incoming = null;
+    mounted = null;
+    window.removeEventListener('hashchange', capture);
+  }, { once: true });
+  window.addEventListener('pageshow', (event) => { if (event.persisted) window.location.reload(); });
+  import('/account-challenge.js').then(({ mountAccountChallenge }) => {
+    if (!active) return;
+    const current = incoming;
+    incoming = null;
+    mounted = mountAccountChallenge({ ...current, purpose: "verifyEmail", baseUrl: "https://kamu-api.kamutales.com", tenantId: "kamu" });
+  }).catch(() => {
+    if (!active) return;
+    document.querySelector('[data-challenge-status]').textContent = "Не удалось выполнить запрос. Проверьте данные и попробуйте снова.";
+    document.querySelector('[data-challenge-status]').dataset.state = 'error';
+  });
+})();
+</script>
+<title>Подтвердить электронную почту · Kamu</title><link rel="stylesheet" href="/styles.css"></head>
+<body><main class="shell" style="max-width:34rem;padding:2rem 1rem">
+<h1 data-challenge-title>Подтвердить электронную почту</h1>
+<select data-challenge-locale aria-label="Язык"><option value="en">English</option><option value="ru" selected>Русский</option><option value="bg">Български</option></select>
+<form data-challenge-form>
+
+<button type="submit" data-challenge-confirm disabled>Подтвердить</button>
+<button type="button" data-challenge-cancel>Отмена</button>
+</form>
+<p role="status" aria-live="polite" data-challenge-status></p>
+<a href="/" data-challenge-return>Вернуться к сказкам</a>
+</main></body></html>
