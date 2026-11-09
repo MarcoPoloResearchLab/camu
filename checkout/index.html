@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,follow">
+  <meta name="description" content="Sign in as a parent to purchase Kamu Tales Pro through Paddle.">
+  <title>Subscribe to Kamu Tales Pro</title>
+  <link rel="canonical" href="https://kamutales.com/checkout/">
+
+  <meta property="og:site_name" content="Fairy Tales by Kamu">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Subscribe to Kamu Tales Pro">
+  <meta property="og:description" content="Sign in as a parent to purchase Kamu Tales Pro through Paddle.">
+  <meta property="og:url" content="https://kamutales.com/checkout/">
+  <meta property="og:locale" content="en_US">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Subscribe to Kamu Tales Pro">
+  <meta name="twitter:description" content="Sign in as a parent to purchase Kamu Tales Pro through Paddle.">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <meta name="referrer" content="no-referrer">
+  <script type="module" src="/parent-controls.js"></script>
+  <script type="module" src="/parent-account-data-browser.js"></script>
+  <link rel="stylesheet" href="../styles.css">
+  
+  <script data-parent-identity type="application/json">{"stylesheet":"https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.css","scripts":["https://accounts.google.com/gsi/client","https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js","https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui-config.js"]}</script>
+  <script id="mpr-ui-bundle" type="application/json" data-mpr-ui-bundle-src="https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.js"></script>
+</head>
+<body class="legal-page checkout-page">
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="legal-hero"><nav class="shell legal-nav" aria-label="Checkout navigation"><a href="/en/">Stories</a></nav></header>
+<main id="main-content" class="shell legal-content" data-checkout-root data-kamu-api-origin="https://kamu-api.kamutales.com" data-checkout-origin="https://kamutales.com" data-tauth-tenant="kamu">
+  <h1>Subscribe to Kamu Tales Pro</h1>
+  <p>Open the parent controls and sign in to purchase a subscription. Paddle processes your payment.</p>
+  <div class="subscription-parent-controls">
+        <button type="button" class="parent-open" data-parent-open>For parents</button>
+        <div data-parent-area hidden inert>
+        <button type="button" class="parent-close" data-parent-close>Back to stories</button>
+        <p>Includes your current profile and subscription status. Provider-held records require a separate request.</p>
+        <button type="button" class="parent-open" data-parent-account-data data-kamu-api-origin="https://kamu-api.kamutales.com" data-tauth-tenant="kamu" hidden disabled>Download account information</button>
+        <p role="status" data-parent-account-data-status></p>
+        <p>RevenueCat customer and billing records. Other provider records, logs, and backups require a separate request.</p>
+        <button type="button" class="parent-open" data-parent-billing-data data-kamu-api-origin="https://kamu-api.kamutales.com" data-tauth-tenant="kamu" hidden disabled>Download billing records</button>
+        <p role="status" data-parent-billing-data-status></p>
+        <div data-parent-credentials data-tauth-url="https://kamu-api.kamutales.com" data-tauth-tenant="kamu"></div>
+        <div class="subscription-auth-controls" data-auth-controls>
+        <mpr-login-button class="subscription-login-button" data-config-url="../config-ui.yaml" data-kamu-api-origin="https://kamu-api.kamutales.com" data-subscription-login-label="Sign in" button-size="medium" button-theme="outline" button-shape="pill" aria-label="Sign in for full catalog access">Sign in</mpr-login-button>
+        <div class="settings-menu-cluster" data-settings-menu-cluster>
+          
+          <mpr-user class="subscription-user-menu settings-user-menu" display-mode="avatar" data-config-url="../config-ui.yaml" logout-url="#signed-out" logout-label="Sign out" menu-items="[]"></mpr-user>
+          
+        </div>
+      </div><section aria-label="Subscription checkout">
+      <button type="button" class="parent-open" data-checkout-start disabled>Open checkout</button>
+      <button type="button" class="parent-open" data-checkout-confirm hidden>Verify payment</button>
+      <p role="status" aria-live="polite" data-checkout-status data-state="signed-out">Sign in to continue.</p>
+      <a href="/account/" data-checkout-return hidden>Return to your account</a>
+    </section></div></div>
+</main>
+<script>
+(() => {
+  const selector = 'mpr-login-button[data-subscription-login-label]';
+
+  function applyLabels() {
+    for (const button of document.querySelectorAll(selector)) {
+      const label = button.getAttribute('data-subscription-login-label');
+      if (label) button.setAttribute('button-text', label);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', applyLabels);
+  document.addEventListener('mpr-ui:config:applied', applyLabels);
+  document.addEventListener('mpr-ui:orchestration:ready', applyLabels);
+  applyLabels();
+})();
+</script>
+<script type="module" src="/checkout.js"></script>
+</body>
+</html>

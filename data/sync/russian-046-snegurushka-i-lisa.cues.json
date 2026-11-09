@@ -1,0 +1,2382 @@
+{
+  "schema": "kamu.reader-synchronization.v1",
+  "readerAuthority": {
+    "story_id": "snegurushka-i-lisa",
+    "package_id": "reader-preservation-f421d3514bb479143943952d1bfcd348",
+    "version_id": "reader-version-3969babab5ba25a3455bf64825c7db7e",
+    "language": "ru",
+    "text_id": "display-text-3c711e9dcb5a21bf8d8250645368c752"
+  },
+  "displayText": {
+    "path": "data/text/russian-046-snegurushka-i-lisa.display.json",
+    "sha256": "7ab2bee8fc1be94c27c5dff400b44c8b9b235f6b0e57621871a7b88d1e83c3be",
+    "sourceSha256": "62908dd0c3b79892f96027767357c4daaf2eeabd7f29b0f3f209f2951be003a4"
+  },
+  "durationSeconds": 192.481,
+  "synchronization_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-sync",
+  "text_id": "display-text-3c711e9dcb5a21bf8d8250645368c752",
+  "audio_id": "accepted-audio-23151063214ddb51816483901ed9eb3d",
+  "time_unit": "seconds",
+  "cues": [
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-1",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-1"
+      ],
+      "start": 0.22,
+      "end": 0.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-2",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-3"
+      ],
+      "start": 0.58,
+      "end": 1.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-3",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-5"
+      ],
+      "start": 1.06,
+      "end": 1.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-4",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-7"
+      ],
+      "start": 1.2,
+      "end": 1.86
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-5",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-10"
+      ],
+      "start": 2.48,
+      "end": 2.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-6",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-12"
+      ],
+      "start": 2.64,
+      "end": 2.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-7",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-14"
+      ],
+      "start": 2.98,
+      "end": 3.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-8",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-16"
+      ],
+      "start": 3.1,
+      "end": 3.32
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-9",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-18"
+      ],
+      "start": 3.36,
+      "end": 3.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-10",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-20"
+      ],
+      "start": 4.14,
+      "end": 4.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-11",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-23"
+      ],
+      "start": 6.2,
+      "end": 6.72
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-12",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-25"
+      ],
+      "start": 6.78,
+      "end": 7.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-13",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-27"
+      ],
+      "start": 7.32,
+      "end": 7.78
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-14",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-29"
+      ],
+      "start": 7.8,
+      "end": 7.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-15",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-31"
+      ],
+      "start": 7.88,
+      "end": 8.1
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-16",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-33"
+      ],
+      "start": 8.16,
+      "end": 8.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-17",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-35"
+      ],
+      "start": 8.32,
+      "end": 9.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-18",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-37"
+      ],
+      "start": 9.24,
+      "end": 9.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-19",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-39"
+      ],
+      "start": 9.34,
+      "end": 9.66
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-20",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-41"
+      ],
+      "start": 9.72,
+      "end": 10.03
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-21",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-43"
+      ],
+      "start": 10.08,
+      "end": 10.26
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-22",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-45"
+      ],
+      "start": 10.3,
+      "end": 10.36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-23",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-47"
+      ],
+      "start": 10.38,
+      "end": 10.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-24",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-50"
+      ],
+      "start": 11.78,
+      "end": 12.15
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-25",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-52"
+      ],
+      "start": 12.22,
+      "end": 12.6
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-26",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-54"
+      ],
+      "start": 12.64,
+      "end": 12.76
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-27",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-56"
+      ],
+      "start": 12.8,
+      "end": 13.36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-28",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-61"
+      ],
+      "start": 14.16,
+      "end": 14.49
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-29",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-63"
+      ],
+      "start": 14.58,
+      "end": 15.03
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-30",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-66"
+      ],
+      "start": 15.38,
+      "end": 15.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-31",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-68"
+      ],
+      "start": 16.02,
+      "end": 16.45
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-32",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-71"
+      ],
+      "start": 17.12,
+      "end": 17.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-33",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-73"
+      ],
+      "start": 17.26,
+      "end": 17.77
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-34",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-75"
+      ],
+      "start": 17.82,
+      "end": 17.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-35",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-77"
+      ],
+      "start": 18,
+      "end": 18.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-36",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-80"
+      ],
+      "start": 19.66,
+      "end": 19.74
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-37",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-82"
+      ],
+      "start": 19.8,
+      "end": 20.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-38",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-84"
+      ],
+      "start": 20.48,
+      "end": 21.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-39",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-87"
+      ],
+      "start": 21.54,
+      "end": 22.08
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-40",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-89"
+      ],
+      "start": 22.1,
+      "end": 22.28
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-41",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-91"
+      ],
+      "start": 22.32,
+      "end": 23.02
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-42",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-94"
+      ],
+      "start": 23.42,
+      "end": 23.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-43",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-96"
+      ],
+      "start": 23.56,
+      "end": 24.26
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-44",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-98"
+      ],
+      "start": 24.32,
+      "end": 24.6
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-45",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-101"
+      ],
+      "start": 24.78,
+      "end": 25.22
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-46",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-103"
+      ],
+      "start": 25.36,
+      "end": 25.79
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-47",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-105"
+      ],
+      "start": 25.9,
+      "end": 26
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-48",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-107"
+      ],
+      "start": 26.06,
+      "end": 26.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-49",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-110"
+      ],
+      "start": 26.82,
+      "end": 27.32
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-50",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-112"
+      ],
+      "start": 27.48,
+      "end": 27.95
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-51",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-115"
+      ],
+      "start": 28.68,
+      "end": 28.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-52",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-117"
+      ],
+      "start": 28.86,
+      "end": 29.28
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-53",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-119"
+      ],
+      "start": 29.32,
+      "end": 29.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-54",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-122"
+      ],
+      "start": 30.22,
+      "end": 30.36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-55",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-124"
+      ],
+      "start": 30.38,
+      "end": 30.9
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-56",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-126"
+      ],
+      "start": 30.96,
+      "end": 31.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-57",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-129"
+      ],
+      "start": 31.86,
+      "end": 31.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-58",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-131"
+      ],
+      "start": 31.92,
+      "end": 32.449
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-59",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-133"
+      ],
+      "start": 32.54,
+      "end": 33.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-60",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-136"
+      ],
+      "start": 34.96,
+      "end": 35.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-61",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-138"
+      ],
+      "start": 35.24,
+      "end": 36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-62",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-140"
+      ],
+      "start": 36.04,
+      "end": 36.08
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-63",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-142"
+      ],
+      "start": 36.16,
+      "end": 36.76
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-64",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-145"
+      ],
+      "start": 37.66,
+      "end": 38.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-65",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-147"
+      ],
+      "start": 38.24,
+      "end": 38.68
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-66",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-149"
+      ],
+      "start": 38.78,
+      "end": 39
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-67",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-152"
+      ],
+      "start": 39.44,
+      "end": 39.5
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-68",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-154"
+      ],
+      "start": 39.58,
+      "end": 39.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-69",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-156"
+      ],
+      "start": 39.84,
+      "end": 39.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-70",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-158"
+      ],
+      "start": 40,
+      "end": 40.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-71",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-161"
+      ],
+      "start": 41.5,
+      "end": 41.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-72",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-163"
+      ],
+      "start": 41.98,
+      "end": 42.52
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-73",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-166"
+      ],
+      "start": 43.26,
+      "end": 43.7
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-74",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-168"
+      ],
+      "start": 43.72,
+      "end": 44.44
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-75",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-170"
+      ],
+      "start": 44.6,
+      "end": 44.64
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-76",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-172"
+      ],
+      "start": 44.72,
+      "end": 45.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-77",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-174"
+      ],
+      "start": 45.08,
+      "end": 45.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-78",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-177"
+      ],
+      "start": 46.62,
+      "end": 47.1
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-79",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-179"
+      ],
+      "start": 47.18,
+      "end": 47.9
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-80",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-181"
+      ],
+      "start": 47.96,
+      "end": 48.4
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-81",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-184"
+      ],
+      "start": 49.32,
+      "end": 49.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-82",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-186"
+      ],
+      "start": 50.1,
+      "end": 50.17
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-83",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-188"
+      ],
+      "start": 50.171,
+      "end": 50.28
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-84",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-190"
+      ],
+      "start": 50.34,
+      "end": 50.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-85",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-192"
+      ],
+      "start": 51.2,
+      "end": 51.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-86",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-194"
+      ],
+      "start": 51.34,
+      "end": 52.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-87",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-196"
+      ],
+      "start": 52.08,
+      "end": 52.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-88",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-198"
+      ],
+      "start": 52.56,
+      "end": 53.26
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-89",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-203"
+      ],
+      "start": 54,
+      "end": 54.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-90",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-206"
+      ],
+      "start": 54.8,
+      "end": 55.66
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-91",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-209"
+      ],
+      "start": 55.76,
+      "end": 55.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-92",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-211"
+      ],
+      "start": 55.84,
+      "end": 55.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-93",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-213"
+      ],
+      "start": 56.02,
+      "end": 56.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-94",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-215"
+      ],
+      "start": 56.62,
+      "end": 57.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-95",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-218"
+      ],
+      "start": 57.68,
+      "end": 58.05
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-96",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-220"
+      ],
+      "start": 58.14,
+      "end": 58.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-97",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-222"
+      ],
+      "start": 58.66,
+      "end": 58.72
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-98",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-224"
+      ],
+      "start": 58.82,
+      "end": 59.28
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-99",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-227"
+      ],
+      "start": 59.86,
+      "end": 60.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-100",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-229"
+      ],
+      "start": 60.4,
+      "end": 60.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-101",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-231"
+      ],
+      "start": 60.5,
+      "end": 61.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-102",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-233"
+      ],
+      "start": 61.06,
+      "end": 61.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-103",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-235"
+      ],
+      "start": 61.52,
+      "end": 61.86
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-104",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-238"
+      ],
+      "start": 62.32,
+      "end": 62.42
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-105",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-240"
+      ],
+      "start": 62.5,
+      "end": 62.64
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-106",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-242"
+      ],
+      "start": 62.68,
+      "end": 63.16
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-107",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-244"
+      ],
+      "start": 63.22,
+      "end": 63.26
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-108",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-246"
+      ],
+      "start": 63.3,
+      "end": 63.84
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-109",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-249"
+      ],
+      "start": 69.02,
+      "end": 69.34
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-110",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-251"
+      ],
+      "start": 69.44,
+      "end": 69.72
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-111",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-253"
+      ],
+      "start": 69.76,
+      "end": 70.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-112",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-258"
+      ],
+      "start": 71.44,
+      "end": 71.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-113",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-260"
+      ],
+      "start": 71.6,
+      "end": 71.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-114",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-262"
+      ],
+      "start": 71.9,
+      "end": 72
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-115",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-265"
+      ],
+      "start": 72.04,
+      "end": 72.79
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-116",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-268"
+      ],
+      "start": 72.92,
+      "end": 73.68
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-117",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-273"
+      ],
+      "start": 74.84,
+      "end": 75.06
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-118",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-275"
+      ],
+      "start": 75.14,
+      "end": 75.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-119",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-277"
+      ],
+      "start": 75.32,
+      "end": 75.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-120",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-279"
+      ],
+      "start": 75.5,
+      "end": 76.03
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-121",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-282"
+      ],
+      "start": 76.54,
+      "end": 76.62
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-122",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-284"
+      ],
+      "start": 76.68,
+      "end": 77.1
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-123",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-286"
+      ],
+      "start": 77.14,
+      "end": 77.16
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-124",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-288"
+      ],
+      "start": 77.22,
+      "end": 77.62
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-125",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-290"
+      ],
+      "start": 77.68,
+      "end": 78.42
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-126",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-295"
+      ],
+      "start": 79.44,
+      "end": 79.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-127",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-298"
+      ],
+      "start": 80.54,
+      "end": 80.64
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-128",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-300"
+      ],
+      "start": 80.68,
+      "end": 80.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-129",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-302"
+      ],
+      "start": 80.98,
+      "end": 81.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-130",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-304"
+      ],
+      "start": 81.36,
+      "end": 81.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-131",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-309"
+      ],
+      "start": 82.96,
+      "end": 83.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-132",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-312"
+      ],
+      "start": 83.32,
+      "end": 84.06
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-133",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-315"
+      ],
+      "start": 84.64,
+      "end": 84.78
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-134",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-317"
+      ],
+      "start": 84.82,
+      "end": 85.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-135",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-320"
+      ],
+      "start": 85.62,
+      "end": 86.44
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-136",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-323"
+      ],
+      "start": 86.88,
+      "end": 87.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-137",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-325"
+      ],
+      "start": 87.52,
+      "end": 87.85
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-138",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-328"
+      ],
+      "start": 89.1,
+      "end": 89.51
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-139",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-330"
+      ],
+      "start": 89.62,
+      "end": 90
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-140",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-332"
+      ],
+      "start": 90.06,
+      "end": 90.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-141",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-334"
+      ],
+      "start": 90.52,
+      "end": 91.16
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-142",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-337"
+      ],
+      "start": 91.94,
+      "end": 92.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-143",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-339"
+      ],
+      "start": 92.38,
+      "end": 92.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-144",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-344"
+      ],
+      "start": 94.02,
+      "end": 94.06
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-145",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-346"
+      ],
+      "start": 94.14,
+      "end": 94.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-146",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-348"
+      ],
+      "start": 94.46,
+      "end": 94.57
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-147",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-351"
+      ],
+      "start": 94.7,
+      "end": 95.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-148",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-354"
+      ],
+      "start": 95.5,
+      "end": 96.12
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-149",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-357"
+      ],
+      "start": 97.24,
+      "end": 97.44
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-150",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-359"
+      ],
+      "start": 97.48,
+      "end": 97.77
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-151",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-361"
+      ],
+      "start": 97.84,
+      "end": 98.5
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-152",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-366"
+      ],
+      "start": 99.54,
+      "end": 100.07
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-153",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-369"
+      ],
+      "start": 100.76,
+      "end": 100.78
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-154",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-371"
+      ],
+      "start": 100.92,
+      "end": 101.14
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-155",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-373"
+      ],
+      "start": 101.22,
+      "end": 101.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-156",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-375"
+      ],
+      "start": 101.64,
+      "end": 102.22
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-157",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-380"
+      ],
+      "start": 103.24,
+      "end": 103.57
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-158",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-383"
+      ],
+      "start": 103.62,
+      "end": 104.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-159",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-386"
+      ],
+      "start": 104.74,
+      "end": 104.78
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-160",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-388"
+      ],
+      "start": 104.84,
+      "end": 105.12
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-161",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-390"
+      ],
+      "start": 105.22,
+      "end": 105.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-162",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-392"
+      ],
+      "start": 105.78,
+      "end": 106.34
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-163",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-395"
+      ],
+      "start": 106.82,
+      "end": 107.32
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-164",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-397"
+      ],
+      "start": 107.4,
+      "end": 108.16
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-165",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-400"
+      ],
+      "start": 108.72,
+      "end": 109.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-166",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-402"
+      ],
+      "start": 109.28,
+      "end": 109.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-167",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-404"
+      ],
+      "start": 109.42,
+      "end": 109.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-168",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-407"
+      ],
+      "start": 110.94,
+      "end": 111.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-169",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-409"
+      ],
+      "start": 111.38,
+      "end": 111.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-170",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-411"
+      ],
+      "start": 111.56,
+      "end": 111.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-171",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-414"
+      ],
+      "start": 112.98,
+      "end": 113.34
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-172",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-416"
+      ],
+      "start": 113.38,
+      "end": 113.79
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-173",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-419"
+      ],
+      "start": 114.44,
+      "end": 114.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-174",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-421"
+      ],
+      "start": 114.96,
+      "end": 115.5
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-175",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-423"
+      ],
+      "start": 115.52,
+      "end": 116.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-176",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-426"
+      ],
+      "start": 116.62,
+      "end": 117.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-177",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-428"
+      ],
+      "start": 117.1,
+      "end": 117.7
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-178",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-430"
+      ],
+      "start": 117.74,
+      "end": 118.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-179",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-435"
+      ],
+      "start": 119.66,
+      "end": 119.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-180",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-437"
+      ],
+      "start": 119.96,
+      "end": 120.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-181",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-439"
+      ],
+      "start": 120.24,
+      "end": 120.34
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-182",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-442"
+      ],
+      "start": 120.42,
+      "end": 121.01
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-183",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-445"
+      ],
+      "start": 121.14,
+      "end": 121.64
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-184",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-450"
+      ],
+      "start": 123.18,
+      "end": 123.42
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-185",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-452"
+      ],
+      "start": 123.46,
+      "end": 123.6
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-186",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-454"
+      ],
+      "start": 123.68,
+      "end": 123.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-187",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-456"
+      ],
+      "start": 123.84,
+      "end": 124.37
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-188",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-459"
+      ],
+      "start": 124.96,
+      "end": 125.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-189",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-461"
+      ],
+      "start": 125.52,
+      "end": 125.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-190",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-463"
+      ],
+      "start": 125.62,
+      "end": 126.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-191",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-465"
+      ],
+      "start": 126.26,
+      "end": 126.62
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-192",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-468"
+      ],
+      "start": 127.1,
+      "end": 127.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-193",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-470"
+      ],
+      "start": 127.26,
+      "end": 127.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-194",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-472"
+      ],
+      "start": 127.64,
+      "end": 128.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-195",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-474"
+      ],
+      "start": 128.24,
+      "end": 128.34
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-196",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-476"
+      ],
+      "start": 128.42,
+      "end": 128.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-197",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-481"
+      ],
+      "start": 130.039,
+      "end": 130.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-198",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-484"
+      ],
+      "start": 130.64,
+      "end": 131.39
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-199",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-487"
+      ],
+      "start": 132.1,
+      "end": 132.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-200",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-489"
+      ],
+      "start": 132.26,
+      "end": 132.52
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-201",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-491"
+      ],
+      "start": 132.56,
+      "end": 133.1
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-202",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-493"
+      ],
+      "start": 133.14,
+      "end": 134.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-203",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-496"
+      ],
+      "start": 134.36,
+      "end": 134.52
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-204",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-498"
+      ],
+      "start": 134.54,
+      "end": 135.12
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-205",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-500"
+      ],
+      "start": 135.2,
+      "end": 136.02
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-206",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-503"
+      ],
+      "start": 136.08,
+      "end": 136.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-207",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-505"
+      ],
+      "start": 136.26,
+      "end": 136.86
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-208",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-507"
+      ],
+      "start": 136.9,
+      "end": 137.74
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-209",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-510"
+      ],
+      "start": 137.8,
+      "end": 137.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-210",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-512"
+      ],
+      "start": 137.96,
+      "end": 138.4
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-211",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-514"
+      ],
+      "start": 138.48,
+      "end": 138.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-212",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-516"
+      ],
+      "start": 138.96,
+      "end": 139.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-213",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-519"
+      ],
+      "start": 140.62,
+      "end": 141.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-214",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-521"
+      ],
+      "start": 141.64,
+      "end": 142.6
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-215",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-524"
+      ],
+      "start": 143.08,
+      "end": 143.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-216",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-526"
+      ],
+      "start": 143.46,
+      "end": 144.06
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-217",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-528"
+      ],
+      "start": 144.14,
+      "end": 144.36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-218",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-530"
+      ],
+      "start": 144.38,
+      "end": 144.68
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-219",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-532"
+      ],
+      "start": 144.72,
+      "end": 144.84
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-220",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-534"
+      ],
+      "start": 144.88,
+      "end": 145.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-221",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-536"
+      ],
+      "start": 145.84,
+      "end": 145.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-222",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-538"
+      ],
+      "start": 145.98,
+      "end": 146.56
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-223",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-540"
+      ],
+      "start": 146.62,
+      "end": 146.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-224",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-542"
+      ],
+      "start": 146.98,
+      "end": 147.28
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-225",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-545"
+      ],
+      "start": 148.16,
+      "end": 148.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-226",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-547"
+      ],
+      "start": 148.5,
+      "end": 148.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-227",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-549"
+      ],
+      "start": 149.12,
+      "end": 149.94
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-228",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-552"
+      ],
+      "start": 150.02,
+      "end": 150.24
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-229",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-554"
+      ],
+      "start": 150.32,
+      "end": 150.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-230",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-556"
+      ],
+      "start": 150.92,
+      "end": 151.7
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-231",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-559"
+      ],
+      "start": 152.26,
+      "end": 152.66
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-232",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-561"
+      ],
+      "start": 152.72,
+      "end": 152.76
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-233",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-563"
+      ],
+      "start": 152.82,
+      "end": 153.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-234",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-565"
+      ],
+      "start": 153.489,
+      "end": 154.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-235",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-568"
+      ],
+      "start": 155.38,
+      "end": 155.829
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-236",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-570"
+      ],
+      "start": 155.9,
+      "end": 156.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-237",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-572"
+      ],
+      "start": 156.4,
+      "end": 156.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-238",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-575"
+      ],
+      "start": 157.4,
+      "end": 158.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-239",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-578"
+      ],
+      "start": 158.44,
+      "end": 159.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-240",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-580"
+      ],
+      "start": 159.1,
+      "end": 159.359
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-241",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-585"
+      ],
+      "start": 160.66,
+      "end": 160.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-242",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-587"
+      ],
+      "start": 160.94,
+      "end": 161.14
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-243",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-590"
+      ],
+      "start": 161.2,
+      "end": 161.74
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-244",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-593"
+      ],
+      "start": 161.8,
+      "end": 162.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-245",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-598"
+      ],
+      "start": 163.66,
+      "end": 163.98
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-246",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-600"
+      ],
+      "start": 164.02,
+      "end": 164.16
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-247",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-602"
+      ],
+      "start": 164.28,
+      "end": 164.87
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-248",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-607"
+      ],
+      "start": 165.34,
+      "end": 165.74
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-249",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-609"
+      ],
+      "start": 165.8,
+      "end": 167.14
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-250",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-612"
+      ],
+      "start": 167.2,
+      "end": 167.76
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-251",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-614"
+      ],
+      "start": 167.8,
+      "end": 168.3
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-252",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-616"
+      ],
+      "start": 168.32,
+      "end": 168.8
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-253",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-618"
+      ],
+      "start": 168.82,
+      "end": 168.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-254",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-620"
+      ],
+      "start": 168.92,
+      "end": 169.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-255",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-623"
+      ],
+      "start": 170,
+      "end": 170.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-256",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-625"
+      ],
+      "start": 170.1,
+      "end": 170.109
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-257",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-627"
+      ],
+      "start": 170.18,
+      "end": 170.6
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-258",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-629"
+      ],
+      "start": 170.62,
+      "end": 171.18
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-259",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-631"
+      ],
+      "start": 171.2,
+      "end": 171.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-260",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-633"
+      ],
+      "start": 171.84,
+      "end": 172.42
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-261",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-636"
+      ],
+      "start": 173.44,
+      "end": 173.78
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-262",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-638"
+      ],
+      "start": 173.84,
+      "end": 173.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-263",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-640"
+      ],
+      "start": 173.98,
+      "end": 174.32
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-264",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-643"
+      ],
+      "start": 174.9,
+      "end": 175.6
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-265",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-645"
+      ],
+      "start": 175.62,
+      "end": 176.2
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-266",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-648"
+      ],
+      "start": 176.58,
+      "end": 176.66
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-267",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-650"
+      ],
+      "start": 176.72,
+      "end": 177.16
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-268",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-652"
+      ],
+      "start": 177.36,
+      "end": 177.92
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-269",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-655"
+      ],
+      "start": 179,
+      "end": 179.36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-270",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-657"
+      ],
+      "start": 179.38,
+      "end": 179.72
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-271",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-659"
+      ],
+      "start": 179.86,
+      "end": 179.87
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-272",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-661"
+      ],
+      "start": 179.88,
+      "end": 180.44
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-273",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-665"
+      ],
+      "start": 180.96,
+      "end": 181.02
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-274",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-667"
+      ],
+      "start": 181.08,
+      "end": 181.58
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-275",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-669"
+      ],
+      "start": 181.62,
+      "end": 181.74
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-276",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-671"
+      ],
+      "start": 181.82,
+      "end": 182.08
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-277",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-674"
+      ],
+      "start": 183.1,
+      "end": 183.38
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-278",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-676"
+      ],
+      "start": 183.42,
+      "end": 184.02
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-279",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-678"
+      ],
+      "start": 184.06,
+      "end": 184.4
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-280",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-680"
+      ],
+      "start": 184.42,
+      "end": 184.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-281",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-682"
+      ],
+      "start": 184.54,
+      "end": 184.82
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-282",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-685"
+      ],
+      "start": 185.34,
+      "end": 185.66
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-283",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-687"
+      ],
+      "start": 185.74,
+      "end": 186.04
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-284",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-689"
+      ],
+      "start": 186.08,
+      "end": 186.46
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-285",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-691"
+      ],
+      "start": 186.5,
+      "end": 187.06
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-286",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-694"
+      ],
+      "start": 188.34,
+      "end": 188.36
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-287",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-696"
+      ],
+      "start": 188.44,
+      "end": 188.62
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-288",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-698"
+      ],
+      "start": 188.76,
+      "end": 188.96
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-289",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-700"
+      ],
+      "start": 189.44,
+      "end": 190.1
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-290",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-702"
+      ],
+      "start": 190.12,
+      "end": 190.14
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-291",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-704"
+      ],
+      "start": 190.22,
+      "end": 190.68
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-292",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-706"
+      ],
+      "start": 190.74,
+      "end": 190.88
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-293",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-708"
+      ],
+      "start": 190.92,
+      "end": 191.48
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-294",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-710"
+      ],
+      "start": 191.52,
+      "end": 191.62
+    },
+    {
+      "cue_id": "reader-preservation-f421d3514bb479143943952d1bfcd348-cue-295",
+      "token_ids": [
+        "display-text-3c711e9dcb5a21bf8d8250645368c752-token-712"
+      ],
+      "start": 191.64,
+      "end": 192.269
+    }
+  ]
+}
