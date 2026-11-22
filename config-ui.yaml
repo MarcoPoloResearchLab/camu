@@ -1,0 +1,49 @@
+{
+  "environments": [
+    {
+      "description": "Kamu public site",
+      "origins": [
+        "https://kamutales.com",
+        "https://www.kamutales.com"
+      ],
+      "auth": {
+        "tauthUrl": "https://kamu-api.kamutales.com",
+        "tenantId": "kamu",
+        "logoutPath": "/auth/logout",
+        "sessionPath": "/auth/session",
+        "providers": {
+          "google": {
+            "enabled": true,
+            "clientId": "312331327459-epu4lrq9soa05cj4tqamcpm7mc3hr5ta.apps.googleusercontent.com",
+            "loginPath": "/auth/google",
+            "noncePath": "/auth/nonce"
+          },
+          "apple": {
+            "enabled": true,
+            "startPath": "/auth/apple/start",
+            "returnTo": "current-url",
+            "label": "Continue with Apple"
+          },
+          "password": {
+            "enabled": true
+          }
+        },
+        "password": {
+          "loginPath": "/auth/password/login",
+          "signupPath": "/auth/password/signup",
+          "verifyEmailPath": "/auth/password/verify-email",
+          "resetStartPath": "/auth/password/reset/start",
+          "resetCompletePath": "/auth/password/reset/complete"
+        },
+        "account": {
+          "passwordChangePath": "/auth/account/password/change",
+          "passwordLinkStartPath": "/auth/account/password/link/start",
+          "passwordLinkVerifyPath": "/auth/account/password/link/verify",
+          "googleLinkPath": "/auth/account/google/link",
+          "unlinkPath": "/auth/account/unlink",
+          "disablePath": "/auth/account/disable"
+        }
+      }
+    }
+  ]
+}

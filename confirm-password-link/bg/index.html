@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="bg"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer">
+<title>Потвърждаване на свързания имейл · Kamu</title>
+<link rel="stylesheet" href="/styles.css">
+<script>
+window.addEventListener('pagehide', () => {
+  history.replaceState(null, '', location.pathname);
+  document.querySelector('mpr-account-panel')?.remove();
+});
+window.addEventListener('pageshow', event => { if (event.persisted) location.reload(); });
+</script>
+<script id="mpr-ui-bundle" type="application/json" data-mpr-ui-bundle-src="https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.js"></script>
+<script data-parent-identity type="application/json">{"stylesheet":"https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.css","scripts":["https://accounts.google.com/gsi/client","https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js","https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui-config.js"],"bundle":"https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.js"}</script>
+<script type="module" src="/parent-controls.js"></script>
+</head><body><main class="shell" style="max-width:34rem;padding:2rem 1rem">
+<h1>Потвърждаване на свързания имейл</h1><p>Влезте в акаунта, от който е поискана тази връзка.</p>
+<section class="settings-account"><button type="button" class="parent-open" data-account-connect>Продължаване</button>
+<div data-parent-area hidden inert>
+<mpr-header id="link-auth" locale="bg" data-config-url="../../config-ui.yaml" data-kamu-api-origin="https://kamu-api.kamutales.com" brand-label="Kamu" theme-config='{"initialMode":"light"}'><span slot="brand"></span></mpr-header>
+<mpr-account-panel locale="bg" action="password-link-verify" auth-target="#link-auth" data-config-url="../../config-ui.yaml" token-fragment-parameter="token"></mpr-account-panel>
+</div></section><a href="/bg/">Назад към приказките</a>
+</main></body></html>
