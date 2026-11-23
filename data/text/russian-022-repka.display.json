@@ -1,0 +1,2853 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "repka",
+  "storyPath": "russian/022-repka.md",
+  "language": "ru",
+  "source": {
+    "kind": "public-reader-delivery",
+    "path": "data/text/russian-022-repka.txt",
+    "sha256": "e6bbf371669c891573dce0e5106397b231be78c152e5d0917cbe9154342f2663"
+  },
+  "readerAuthority": {
+    "story_id": "repka",
+    "package_id": "reader-preservation-e0a2188982411aecc6772a12f98510be",
+    "version_id": "reader-version-38a65fb027feb80406e05d91e639f45d",
+    "language": "ru",
+    "text_id": "display-text-632342d2766ade4207d15c1277928280"
+  },
+  "paragraphs": [
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-1",
+      "start": 0,
+      "end": 28
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-2",
+      "start": 30,
+      "end": 86
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-3",
+      "start": 88,
+      "end": 131
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-4",
+      "start": 133,
+      "end": 189
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-5",
+      "start": 191,
+      "end": 208
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-6",
+      "start": 210,
+      "end": 276
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-7",
+      "start": 278,
+      "end": 299
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-8",
+      "start": 301,
+      "end": 384
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-9",
+      "start": 386,
+      "end": 407
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-10",
+      "start": 409,
+      "end": 509
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-11",
+      "start": 511,
+      "end": 531
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-12",
+      "start": 533,
+      "end": 649
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-13",
+      "start": 651,
+      "end": 671
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-14",
+      "start": 673,
+      "end": 805
+    },
+    {
+      "paragraph_id": "display-text-632342d2766ade4207d15c1277928280-paragraph-15",
+      "start": 807,
+      "end": 850
+    }
+  ],
+  "tokens": [
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-1",
+      "order": 1,
+      "kind": "word",
+      "value": "Посадил",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-2",
+      "order": 2,
+      "kind": "space",
+      "value": " ",
+      "start": 7,
+      "end": 8
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-3",
+      "order": 3,
+      "kind": "word",
+      "value": "дед",
+      "start": 8,
+      "end": 11
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-4",
+      "order": 4,
+      "kind": "space",
+      "value": " ",
+      "start": 11,
+      "end": 12
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-5",
+      "order": 5,
+      "kind": "word",
+      "value": "репку",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-6",
+      "order": 6,
+      "kind": "space",
+      "value": " ",
+      "start": 17,
+      "end": 18
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-7",
+      "order": 7,
+      "kind": "word",
+      "value": "и",
+      "start": 18,
+      "end": 19
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-8",
+      "order": 8,
+      "kind": "space",
+      "value": " ",
+      "start": 19,
+      "end": 20
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-9",
+      "order": 9,
+      "kind": "word",
+      "value": "говорит",
+      "start": 20,
+      "end": 27
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-10",
+      "order": 10,
+      "kind": "punctuation",
+      "value": ":",
+      "start": 27,
+      "end": 28
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-11",
+      "order": 11,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 28,
+      "end": 30
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-12",
+      "order": 12,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 30,
+      "end": 31
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-13",
+      "order": 13,
+      "kind": "space",
+      "value": " ",
+      "start": 31,
+      "end": 32
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-14",
+      "order": 14,
+      "kind": "word",
+      "value": "Расти",
+      "start": 32,
+      "end": 37
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-15",
+      "order": 15,
+      "kind": "space",
+      "value": " ",
+      "start": 37,
+      "end": 38
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-16",
+      "order": 16,
+      "kind": "word",
+      "value": "репка",
+      "start": 38,
+      "end": 43
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-17",
+      "order": 17,
+      "kind": "space",
+      "value": " ",
+      "start": 43,
+      "end": 44
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-18",
+      "order": 18,
+      "kind": "word",
+      "value": "сладкая",
+      "start": 44,
+      "end": 51
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-19",
+      "order": 19,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 51,
+      "end": 52
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-20",
+      "order": 20,
+      "kind": "word",
+      "value": "сладкая",
+      "start": 52,
+      "end": 59
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-21",
+      "order": 21,
+      "kind": "punctuation",
+      "value": "!",
+      "start": 59,
+      "end": 60
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-22",
+      "order": 22,
+      "kind": "space",
+      "value": " ",
+      "start": 60,
+      "end": 61
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-23",
+      "order": 23,
+      "kind": "word",
+      "value": "Расти",
+      "start": 61,
+      "end": 66
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-24",
+      "order": 24,
+      "kind": "space",
+      "value": " ",
+      "start": 66,
+      "end": 67
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-25",
+      "order": 25,
+      "kind": "word",
+      "value": "большая",
+      "start": 67,
+      "end": 74
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-26",
+      "order": 26,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 74,
+      "end": 75
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-27",
+      "order": 27,
+      "kind": "word",
+      "value": "пребольшая",
+      "start": 75,
+      "end": 85
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-28",
+      "order": 28,
+      "kind": "punctuation",
+      "value": "!",
+      "start": 85,
+      "end": 86
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-29",
+      "order": 29,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 86,
+      "end": 88
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-30",
+      "order": 30,
+      "kind": "word",
+      "value": "Выросла",
+      "start": 88,
+      "end": 95
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-31",
+      "order": 31,
+      "kind": "space",
+      "value": " ",
+      "start": 95,
+      "end": 96
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-32",
+      "order": 32,
+      "kind": "word",
+      "value": "репка",
+      "start": 96,
+      "end": 101
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-33",
+      "order": 33,
+      "kind": "space",
+      "value": " ",
+      "start": 101,
+      "end": 102
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-34",
+      "order": 34,
+      "kind": "word",
+      "value": "сладкая",
+      "start": 102,
+      "end": 109
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-35",
+      "order": 35,
+      "kind": "space",
+      "value": " ",
+      "start": 109,
+      "end": 110
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-36",
+      "order": 36,
+      "kind": "word",
+      "value": "и",
+      "start": 110,
+      "end": 111
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-37",
+      "order": 37,
+      "kind": "space",
+      "value": " ",
+      "start": 111,
+      "end": 112
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-38",
+      "order": 38,
+      "kind": "word",
+      "value": "большая",
+      "start": 112,
+      "end": 119
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-39",
+      "order": 39,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 119,
+      "end": 120
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-40",
+      "order": 40,
+      "kind": "word",
+      "value": "пребольшая",
+      "start": 120,
+      "end": 130
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-41",
+      "order": 41,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 130,
+      "end": 131
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-42",
+      "order": 42,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 131,
+      "end": 133
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-43",
+      "order": 43,
+      "kind": "word",
+      "value": "Пошел",
+      "start": 133,
+      "end": 138
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-44",
+      "order": 44,
+      "kind": "space",
+      "value": " ",
+      "start": 138,
+      "end": 139
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-45",
+      "order": 45,
+      "kind": "word",
+      "value": "дед",
+      "start": 139,
+      "end": 142
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-46",
+      "order": 46,
+      "kind": "space",
+      "value": " ",
+      "start": 142,
+      "end": 143
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-47",
+      "order": 47,
+      "kind": "word",
+      "value": "репку",
+      "start": 143,
+      "end": 148
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-48",
+      "order": 48,
+      "kind": "space",
+      "value": " ",
+      "start": 148,
+      "end": 149
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-49",
+      "order": 49,
+      "kind": "word",
+      "value": "рвать",
+      "start": 149,
+      "end": 154
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-50",
+      "order": 50,
+      "kind": "punctuation",
+      "value": ":",
+      "start": 154,
+      "end": 155
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-51",
+      "order": 51,
+      "kind": "space",
+      "value": " ",
+      "start": 155,
+      "end": 156
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-52",
+      "order": 52,
+      "kind": "word",
+      "value": "тянет",
+      "start": 156,
+      "end": 161
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-53",
+      "order": 53,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 161,
+      "end": 162
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-54",
+      "order": 54,
+      "kind": "word",
+      "value": "потянет",
+      "start": 162,
+      "end": 169
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-55",
+      "order": 55,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 169,
+      "end": 170
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-56",
+      "order": 56,
+      "kind": "space",
+      "value": " ",
+      "start": 170,
+      "end": 171
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-57",
+      "order": 57,
+      "kind": "word",
+      "value": "вытянуть",
+      "start": 171,
+      "end": 179
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-58",
+      "order": 58,
+      "kind": "space",
+      "value": " ",
+      "start": 179,
+      "end": 180
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-59",
+      "order": 59,
+      "kind": "word",
+      "value": "не",
+      "start": 180,
+      "end": 182
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-60",
+      "order": 60,
+      "kind": "space",
+      "value": " ",
+      "start": 182,
+      "end": 183
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-61",
+      "order": 61,
+      "kind": "word",
+      "value": "может",
+      "start": 183,
+      "end": 188
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-62",
+      "order": 62,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 188,
+      "end": 189
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-63",
+      "order": 63,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 189,
+      "end": 191
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-64",
+      "order": 64,
+      "kind": "word",
+      "value": "Позвал",
+      "start": 191,
+      "end": 197
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-65",
+      "order": 65,
+      "kind": "space",
+      "value": " ",
+      "start": 197,
+      "end": 198
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-66",
+      "order": 66,
+      "kind": "word",
+      "value": "дед",
+      "start": 198,
+      "end": 201
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-67",
+      "order": 67,
+      "kind": "space",
+      "value": " ",
+      "start": 201,
+      "end": 202
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-68",
+      "order": 68,
+      "kind": "word",
+      "value": "бабку",
+      "start": 202,
+      "end": 207
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-69",
+      "order": 69,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 207,
+      "end": 208
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-70",
+      "order": 70,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 208,
+      "end": 210
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-71",
+      "order": 71,
+      "kind": "word",
+      "value": "Бабка",
+      "start": 210,
+      "end": 215
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-72",
+      "order": 72,
+      "kind": "space",
+      "value": " ",
+      "start": 215,
+      "end": 216
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-73",
+      "order": 73,
+      "kind": "word",
+      "value": "за",
+      "start": 216,
+      "end": 218
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-74",
+      "order": 74,
+      "kind": "space",
+      "value": " ",
+      "start": 218,
+      "end": 219
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-75",
+      "order": 75,
+      "kind": "word",
+      "value": "дедку",
+      "start": 219,
+      "end": 224
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-76",
+      "order": 76,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 224,
+      "end": 225
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-77",
+      "order": 77,
+      "kind": "space",
+      "value": " ",
+      "start": 225,
+      "end": 226
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-78",
+      "order": 78,
+      "kind": "word",
+      "value": "Дедка",
+      "start": 226,
+      "end": 231
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-79",
+      "order": 79,
+      "kind": "space",
+      "value": " ",
+      "start": 231,
+      "end": 232
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-80",
+      "order": 80,
+      "kind": "word",
+      "value": "за",
+      "start": 232,
+      "end": 234
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-81",
+      "order": 81,
+      "kind": "space",
+      "value": " ",
+      "start": 234,
+      "end": 235
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-82",
+      "order": 82,
+      "kind": "word",
+      "value": "репку",
+      "start": 235,
+      "end": 240
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-83",
+      "order": 83,
+      "kind": "space",
+      "value": " ",
+      "start": 240,
+      "end": 241
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-84",
+      "order": 84,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 241,
+      "end": 242
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-85",
+      "order": 85,
+      "kind": "space",
+      "value": " ",
+      "start": 242,
+      "end": 243
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-86",
+      "order": 86,
+      "kind": "word",
+      "value": "Тянут",
+      "start": 243,
+      "end": 248
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-87",
+      "order": 87,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 248,
+      "end": 249
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-88",
+      "order": 88,
+      "kind": "word",
+      "value": "потянут",
+      "start": 249,
+      "end": 256
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-89",
+      "order": 89,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 256,
+      "end": 257
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-90",
+      "order": 90,
+      "kind": "space",
+      "value": " ",
+      "start": 257,
+      "end": 258
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-91",
+      "order": 91,
+      "kind": "word",
+      "value": "вытянуть",
+      "start": 258,
+      "end": 266
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-92",
+      "order": 92,
+      "kind": "space",
+      "value": " ",
+      "start": 266,
+      "end": 267
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-93",
+      "order": 93,
+      "kind": "word",
+      "value": "не",
+      "start": 267,
+      "end": 269
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-94",
+      "order": 94,
+      "kind": "space",
+      "value": " ",
+      "start": 269,
+      "end": 270
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-95",
+      "order": 95,
+      "kind": "word",
+      "value": "могут",
+      "start": 270,
+      "end": 275
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-96",
+      "order": 96,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 275,
+      "end": 276
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-97",
+      "order": 97,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 276,
+      "end": 278
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-98",
+      "order": 98,
+      "kind": "word",
+      "value": "Позвала",
+      "start": 278,
+      "end": 285
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-99",
+      "order": 99,
+      "kind": "space",
+      "value": " ",
+      "start": 285,
+      "end": 286
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-100",
+      "order": 100,
+      "kind": "word",
+      "value": "бабка",
+      "start": 286,
+      "end": 291
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-101",
+      "order": 101,
+      "kind": "space",
+      "value": " ",
+      "start": 291,
+      "end": 292
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-102",
+      "order": 102,
+      "kind": "word",
+      "value": "внучку",
+      "start": 292,
+      "end": 298
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-103",
+      "order": 103,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 298,
+      "end": 299
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-104",
+      "order": 104,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 299,
+      "end": 301
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-105",
+      "order": 105,
+      "kind": "word",
+      "value": "Внучка",
+      "start": 301,
+      "end": 307
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-106",
+      "order": 106,
+      "kind": "space",
+      "value": " ",
+      "start": 307,
+      "end": 308
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-107",
+      "order": 107,
+      "kind": "word",
+      "value": "за",
+      "start": 308,
+      "end": 310
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-108",
+      "order": 108,
+      "kind": "space",
+      "value": " ",
+      "start": 310,
+      "end": 311
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-109",
+      "order": 109,
+      "kind": "word",
+      "value": "бабку",
+      "start": 311,
+      "end": 316
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-110",
+      "order": 110,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 316,
+      "end": 317
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-111",
+      "order": 111,
+      "kind": "space",
+      "value": " ",
+      "start": 317,
+      "end": 318
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-112",
+      "order": 112,
+      "kind": "word",
+      "value": "Бабка",
+      "start": 318,
+      "end": 323
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-113",
+      "order": 113,
+      "kind": "space",
+      "value": " ",
+      "start": 323,
+      "end": 324
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-114",
+      "order": 114,
+      "kind": "word",
+      "value": "за",
+      "start": 324,
+      "end": 326
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-115",
+      "order": 115,
+      "kind": "space",
+      "value": " ",
+      "start": 326,
+      "end": 327
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-116",
+      "order": 116,
+      "kind": "word",
+      "value": "дедку",
+      "start": 327,
+      "end": 332
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-117",
+      "order": 117,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 332,
+      "end": 333
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-118",
+      "order": 118,
+      "kind": "space",
+      "value": " ",
+      "start": 333,
+      "end": 334
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-119",
+      "order": 119,
+      "kind": "word",
+      "value": "Дедка",
+      "start": 334,
+      "end": 339
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-120",
+      "order": 120,
+      "kind": "space",
+      "value": " ",
+      "start": 339,
+      "end": 340
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-121",
+      "order": 121,
+      "kind": "word",
+      "value": "за",
+      "start": 340,
+      "end": 342
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-122",
+      "order": 122,
+      "kind": "space",
+      "value": " ",
+      "start": 342,
+      "end": 343
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-123",
+      "order": 123,
+      "kind": "word",
+      "value": "репку",
+      "start": 343,
+      "end": 348
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-124",
+      "order": 124,
+      "kind": "space",
+      "value": " ",
+      "start": 348,
+      "end": 349
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-125",
+      "order": 125,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 349,
+      "end": 350
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-126",
+      "order": 126,
+      "kind": "space",
+      "value": " ",
+      "start": 350,
+      "end": 351
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-127",
+      "order": 127,
+      "kind": "word",
+      "value": "Тянут",
+      "start": 351,
+      "end": 356
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-128",
+      "order": 128,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 356,
+      "end": 357
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-129",
+      "order": 129,
+      "kind": "word",
+      "value": "потянут",
+      "start": 357,
+      "end": 364
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-130",
+      "order": 130,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 364,
+      "end": 365
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-131",
+      "order": 131,
+      "kind": "space",
+      "value": " ",
+      "start": 365,
+      "end": 366
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-132",
+      "order": 132,
+      "kind": "word",
+      "value": "вытянуть",
+      "start": 366,
+      "end": 374
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-133",
+      "order": 133,
+      "kind": "space",
+      "value": " ",
+      "start": 374,
+      "end": 375
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-134",
+      "order": 134,
+      "kind": "word",
+      "value": "не",
+      "start": 375,
+      "end": 377
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-135",
+      "order": 135,
+      "kind": "space",
+      "value": " ",
+      "start": 377,
+      "end": 378
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-136",
+      "order": 136,
+      "kind": "word",
+      "value": "могут",
+      "start": 378,
+      "end": 383
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-137",
+      "order": 137,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 383,
+      "end": 384
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-138",
+      "order": 138,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 384,
+      "end": 386
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-139",
+      "order": 139,
+      "kind": "word",
+      "value": "Позвала",
+      "start": 386,
+      "end": 393
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-140",
+      "order": 140,
+      "kind": "space",
+      "value": " ",
+      "start": 393,
+      "end": 394
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-141",
+      "order": 141,
+      "kind": "word",
+      "value": "внучка",
+      "start": 394,
+      "end": 400
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-142",
+      "order": 142,
+      "kind": "space",
+      "value": " ",
+      "start": 400,
+      "end": 401
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-143",
+      "order": 143,
+      "kind": "word",
+      "value": "Жучку",
+      "start": 401,
+      "end": 406
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-144",
+      "order": 144,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 406,
+      "end": 407
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-145",
+      "order": 145,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 407,
+      "end": 409
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-146",
+      "order": 146,
+      "kind": "word",
+      "value": "Жучка",
+      "start": 409,
+      "end": 414
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-147",
+      "order": 147,
+      "kind": "space",
+      "value": " ",
+      "start": 414,
+      "end": 415
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-148",
+      "order": 148,
+      "kind": "word",
+      "value": "за",
+      "start": 415,
+      "end": 417
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-149",
+      "order": 149,
+      "kind": "space",
+      "value": " ",
+      "start": 417,
+      "end": 418
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-150",
+      "order": 150,
+      "kind": "word",
+      "value": "внучку",
+      "start": 418,
+      "end": 424
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-151",
+      "order": 151,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 424,
+      "end": 425
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-152",
+      "order": 152,
+      "kind": "space",
+      "value": " ",
+      "start": 425,
+      "end": 426
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-153",
+      "order": 153,
+      "kind": "word",
+      "value": "Внучка",
+      "start": 426,
+      "end": 432
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-154",
+      "order": 154,
+      "kind": "space",
+      "value": " ",
+      "start": 432,
+      "end": 433
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-155",
+      "order": 155,
+      "kind": "word",
+      "value": "за",
+      "start": 433,
+      "end": 435
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-156",
+      "order": 156,
+      "kind": "space",
+      "value": " ",
+      "start": 435,
+      "end": 436
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-157",
+      "order": 157,
+      "kind": "word",
+      "value": "бабку",
+      "start": 436,
+      "end": 441
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-158",
+      "order": 158,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 441,
+      "end": 442
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-159",
+      "order": 159,
+      "kind": "space",
+      "value": " ",
+      "start": 442,
+      "end": 443
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-160",
+      "order": 160,
+      "kind": "word",
+      "value": "Бабка",
+      "start": 443,
+      "end": 448
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-161",
+      "order": 161,
+      "kind": "space",
+      "value": " ",
+      "start": 448,
+      "end": 449
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-162",
+      "order": 162,
+      "kind": "word",
+      "value": "за",
+      "start": 449,
+      "end": 451
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-163",
+      "order": 163,
+      "kind": "space",
+      "value": " ",
+      "start": 451,
+      "end": 452
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-164",
+      "order": 164,
+      "kind": "word",
+      "value": "дедку",
+      "start": 452,
+      "end": 457
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-165",
+      "order": 165,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 457,
+      "end": 458
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-166",
+      "order": 166,
+      "kind": "space",
+      "value": " ",
+      "start": 458,
+      "end": 459
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-167",
+      "order": 167,
+      "kind": "word",
+      "value": "Дедка",
+      "start": 459,
+      "end": 464
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-168",
+      "order": 168,
+      "kind": "space",
+      "value": " ",
+      "start": 464,
+      "end": 465
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-169",
+      "order": 169,
+      "kind": "word",
+      "value": "за",
+      "start": 465,
+      "end": 467
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-170",
+      "order": 170,
+      "kind": "space",
+      "value": " ",
+      "start": 467,
+      "end": 468
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-171",
+      "order": 171,
+      "kind": "word",
+      "value": "репку",
+      "start": 468,
+      "end": 473
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-172",
+      "order": 172,
+      "kind": "space",
+      "value": " ",
+      "start": 473,
+      "end": 474
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-173",
+      "order": 173,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 474,
+      "end": 475
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-174",
+      "order": 174,
+      "kind": "space",
+      "value": " ",
+      "start": 475,
+      "end": 476
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-175",
+      "order": 175,
+      "kind": "word",
+      "value": "Тянут",
+      "start": 476,
+      "end": 481
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-176",
+      "order": 176,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 481,
+      "end": 482
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-177",
+      "order": 177,
+      "kind": "word",
+      "value": "потянут",
+      "start": 482,
+      "end": 489
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-178",
+      "order": 178,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 489,
+      "end": 490
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-179",
+      "order": 179,
+      "kind": "space",
+      "value": " ",
+      "start": 490,
+      "end": 491
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-180",
+      "order": 180,
+      "kind": "word",
+      "value": "вытянуть",
+      "start": 491,
+      "end": 499
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-181",
+      "order": 181,
+      "kind": "space",
+      "value": " ",
+      "start": 499,
+      "end": 500
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-182",
+      "order": 182,
+      "kind": "word",
+      "value": "не",
+      "start": 500,
+      "end": 502
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-183",
+      "order": 183,
+      "kind": "space",
+      "value": " ",
+      "start": 502,
+      "end": 503
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-184",
+      "order": 184,
+      "kind": "word",
+      "value": "могут",
+      "start": 503,
+      "end": 508
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-185",
+      "order": 185,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 508,
+      "end": 509
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-186",
+      "order": 186,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 509,
+      "end": 511
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-187",
+      "order": 187,
+      "kind": "word",
+      "value": "Позвала",
+      "start": 511,
+      "end": 518
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-188",
+      "order": 188,
+      "kind": "space",
+      "value": " ",
+      "start": 518,
+      "end": 519
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-189",
+      "order": 189,
+      "kind": "word",
+      "value": "Жучка",
+      "start": 519,
+      "end": 524
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-190",
+      "order": 190,
+      "kind": "space",
+      "value": " ",
+      "start": 524,
+      "end": 525
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-191",
+      "order": 191,
+      "kind": "word",
+      "value": "кошку",
+      "start": 525,
+      "end": 530
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-192",
+      "order": 192,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 530,
+      "end": 531
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-193",
+      "order": 193,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 531,
+      "end": 533
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-194",
+      "order": 194,
+      "kind": "word",
+      "value": "Кошка",
+      "start": 533,
+      "end": 538
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-195",
+      "order": 195,
+      "kind": "space",
+      "value": " ",
+      "start": 538,
+      "end": 539
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-196",
+      "order": 196,
+      "kind": "word",
+      "value": "за",
+      "start": 539,
+      "end": 541
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-197",
+      "order": 197,
+      "kind": "space",
+      "value": " ",
+      "start": 541,
+      "end": 542
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-198",
+      "order": 198,
+      "kind": "word",
+      "value": "Жучку",
+      "start": 542,
+      "end": 547
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-199",
+      "order": 199,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 547,
+      "end": 548
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-200",
+      "order": 200,
+      "kind": "space",
+      "value": " ",
+      "start": 548,
+      "end": 549
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-201",
+      "order": 201,
+      "kind": "word",
+      "value": "Жучка",
+      "start": 549,
+      "end": 554
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-202",
+      "order": 202,
+      "kind": "space",
+      "value": " ",
+      "start": 554,
+      "end": 555
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-203",
+      "order": 203,
+      "kind": "word",
+      "value": "за",
+      "start": 555,
+      "end": 557
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-204",
+      "order": 204,
+      "kind": "space",
+      "value": " ",
+      "start": 557,
+      "end": 558
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-205",
+      "order": 205,
+      "kind": "word",
+      "value": "внучку",
+      "start": 558,
+      "end": 564
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-206",
+      "order": 206,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 564,
+      "end": 565
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-207",
+      "order": 207,
+      "kind": "space",
+      "value": " ",
+      "start": 565,
+      "end": 566
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-208",
+      "order": 208,
+      "kind": "word",
+      "value": "Внучка",
+      "start": 566,
+      "end": 572
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-209",
+      "order": 209,
+      "kind": "space",
+      "value": " ",
+      "start": 572,
+      "end": 573
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-210",
+      "order": 210,
+      "kind": "word",
+      "value": "за",
+      "start": 573,
+      "end": 575
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-211",
+      "order": 211,
+      "kind": "space",
+      "value": " ",
+      "start": 575,
+      "end": 576
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-212",
+      "order": 212,
+      "kind": "word",
+      "value": "бабку",
+      "start": 576,
+      "end": 581
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-213",
+      "order": 213,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 581,
+      "end": 582
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-214",
+      "order": 214,
+      "kind": "space",
+      "value": " ",
+      "start": 582,
+      "end": 583
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-215",
+      "order": 215,
+      "kind": "word",
+      "value": "Бабка",
+      "start": 583,
+      "end": 588
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-216",
+      "order": 216,
+      "kind": "space",
+      "value": " ",
+      "start": 588,
+      "end": 589
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-217",
+      "order": 217,
+      "kind": "word",
+      "value": "за",
+      "start": 589,
+      "end": 591
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-218",
+      "order": 218,
+      "kind": "space",
+      "value": " ",
+      "start": 591,
+      "end": 592
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-219",
+      "order": 219,
+      "kind": "word",
+      "value": "дедку",
+      "start": 592,
+      "end": 597
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-220",
+      "order": 220,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 597,
+      "end": 598
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-221",
+      "order": 221,
+      "kind": "space",
+      "value": " ",
+      "start": 598,
+      "end": 599
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-222",
+      "order": 222,
+      "kind": "word",
+      "value": "Дедка",
+      "start": 599,
+      "end": 604
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-223",
+      "order": 223,
+      "kind": "space",
+      "value": " ",
+      "start": 604,
+      "end": 605
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-224",
+      "order": 224,
+      "kind": "word",
+      "value": "за",
+      "start": 605,
+      "end": 607
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-225",
+      "order": 225,
+      "kind": "space",
+      "value": " ",
+      "start": 607,
+      "end": 608
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-226",
+      "order": 226,
+      "kind": "word",
+      "value": "репку",
+      "start": 608,
+      "end": 613
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-227",
+      "order": 227,
+      "kind": "space",
+      "value": " ",
+      "start": 613,
+      "end": 614
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-228",
+      "order": 228,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 614,
+      "end": 615
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-229",
+      "order": 229,
+      "kind": "space",
+      "value": " ",
+      "start": 615,
+      "end": 616
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-230",
+      "order": 230,
+      "kind": "word",
+      "value": "Тянут",
+      "start": 616,
+      "end": 621
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-231",
+      "order": 231,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 621,
+      "end": 622
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-232",
+      "order": 232,
+      "kind": "word",
+      "value": "потянут",
+      "start": 622,
+      "end": 629
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-233",
+      "order": 233,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 629,
+      "end": 630
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-234",
+      "order": 234,
+      "kind": "space",
+      "value": " ",
+      "start": 630,
+      "end": 631
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-235",
+      "order": 235,
+      "kind": "word",
+      "value": "вытянуть",
+      "start": 631,
+      "end": 639
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-236",
+      "order": 236,
+      "kind": "space",
+      "value": " ",
+      "start": 639,
+      "end": 640
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-237",
+      "order": 237,
+      "kind": "word",
+      "value": "не",
+      "start": 640,
+      "end": 642
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-238",
+      "order": 238,
+      "kind": "space",
+      "value": " ",
+      "start": 642,
+      "end": 643
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-239",
+      "order": 239,
+      "kind": "word",
+      "value": "могут",
+      "start": 643,
+      "end": 648
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-240",
+      "order": 240,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 648,
+      "end": 649
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-241",
+      "order": 241,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 649,
+      "end": 651
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-242",
+      "order": 242,
+      "kind": "word",
+      "value": "Позвала",
+      "start": 651,
+      "end": 658
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-243",
+      "order": 243,
+      "kind": "space",
+      "value": " ",
+      "start": 658,
+      "end": 659
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-244",
+      "order": 244,
+      "kind": "word",
+      "value": "кошка",
+      "start": 659,
+      "end": 664
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-245",
+      "order": 245,
+      "kind": "space",
+      "value": " ",
+      "start": 664,
+      "end": 665
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-246",
+      "order": 246,
+      "kind": "word",
+      "value": "мышку",
+      "start": 665,
+      "end": 670
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-247",
+      "order": 247,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 670,
+      "end": 671
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-248",
+      "order": 248,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 671,
+      "end": 673
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-249",
+      "order": 249,
+      "kind": "word",
+      "value": "Мышка",
+      "start": 673,
+      "end": 678
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-250",
+      "order": 250,
+      "kind": "space",
+      "value": " ",
+      "start": 678,
+      "end": 679
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-251",
+      "order": 251,
+      "kind": "word",
+      "value": "за",
+      "start": 679,
+      "end": 681
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-252",
+      "order": 252,
+      "kind": "space",
+      "value": " ",
+      "start": 681,
+      "end": 682
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-253",
+      "order": 253,
+      "kind": "word",
+      "value": "кошку",
+      "start": 682,
+      "end": 687
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-254",
+      "order": 254,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 687,
+      "end": 688
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-255",
+      "order": 255,
+      "kind": "space",
+      "value": " ",
+      "start": 688,
+      "end": 689
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-256",
+      "order": 256,
+      "kind": "word",
+      "value": "Кошка",
+      "start": 689,
+      "end": 694
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-257",
+      "order": 257,
+      "kind": "space",
+      "value": " ",
+      "start": 694,
+      "end": 695
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-258",
+      "order": 258,
+      "kind": "word",
+      "value": "за",
+      "start": 695,
+      "end": 697
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-259",
+      "order": 259,
+      "kind": "space",
+      "value": " ",
+      "start": 697,
+      "end": 698
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-260",
+      "order": 260,
+      "kind": "word",
+      "value": "Жучку",
+      "start": 698,
+      "end": 703
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-261",
+      "order": 261,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 703,
+      "end": 704
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-262",
+      "order": 262,
+      "kind": "space",
+      "value": " ",
+      "start": 704,
+      "end": 705
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-263",
+      "order": 263,
+      "kind": "word",
+      "value": "Жучка",
+      "start": 705,
+      "end": 710
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-264",
+      "order": 264,
+      "kind": "space",
+      "value": " ",
+      "start": 710,
+      "end": 711
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-265",
+      "order": 265,
+      "kind": "word",
+      "value": "за",
+      "start": 711,
+      "end": 713
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-266",
+      "order": 266,
+      "kind": "space",
+      "value": " ",
+      "start": 713,
+      "end": 714
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-267",
+      "order": 267,
+      "kind": "word",
+      "value": "внучку",
+      "start": 714,
+      "end": 720
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-268",
+      "order": 268,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 720,
+      "end": 721
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-269",
+      "order": 269,
+      "kind": "space",
+      "value": " ",
+      "start": 721,
+      "end": 722
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-270",
+      "order": 270,
+      "kind": "word",
+      "value": "Внучка",
+      "start": 722,
+      "end": 728
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-271",
+      "order": 271,
+      "kind": "space",
+      "value": " ",
+      "start": 728,
+      "end": 729
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-272",
+      "order": 272,
+      "kind": "word",
+      "value": "за",
+      "start": 729,
+      "end": 731
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-273",
+      "order": 273,
+      "kind": "space",
+      "value": " ",
+      "start": 731,
+      "end": 732
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-274",
+      "order": 274,
+      "kind": "word",
+      "value": "бабку",
+      "start": 732,
+      "end": 737
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-275",
+      "order": 275,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 737,
+      "end": 738
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-276",
+      "order": 276,
+      "kind": "space",
+      "value": " ",
+      "start": 738,
+      "end": 739
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-277",
+      "order": 277,
+      "kind": "word",
+      "value": "Бабка",
+      "start": 739,
+      "end": 744
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-278",
+      "order": 278,
+      "kind": "space",
+      "value": " ",
+      "start": 744,
+      "end": 745
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-279",
+      "order": 279,
+      "kind": "word",
+      "value": "за",
+      "start": 745,
+      "end": 747
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-280",
+      "order": 280,
+      "kind": "space",
+      "value": " ",
+      "start": 747,
+      "end": 748
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-281",
+      "order": 281,
+      "kind": "word",
+      "value": "дедку",
+      "start": 748,
+      "end": 753
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-282",
+      "order": 282,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 753,
+      "end": 754
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-283",
+      "order": 283,
+      "kind": "space",
+      "value": " ",
+      "start": 754,
+      "end": 755
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-284",
+      "order": 284,
+      "kind": "word",
+      "value": "Дедка",
+      "start": 755,
+      "end": 760
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-285",
+      "order": 285,
+      "kind": "space",
+      "value": " ",
+      "start": 760,
+      "end": 761
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-286",
+      "order": 286,
+      "kind": "word",
+      "value": "за",
+      "start": 761,
+      "end": 763
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-287",
+      "order": 287,
+      "kind": "space",
+      "value": " ",
+      "start": 763,
+      "end": 764
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-288",
+      "order": 288,
+      "kind": "word",
+      "value": "репку",
+      "start": 764,
+      "end": 769
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-289",
+      "order": 289,
+      "kind": "space",
+      "value": " ",
+      "start": 769,
+      "end": 770
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-290",
+      "order": 290,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 770,
+      "end": 771
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-291",
+      "order": 291,
+      "kind": "space",
+      "value": " ",
+      "start": 771,
+      "end": 772
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-292",
+      "order": 292,
+      "kind": "word",
+      "value": "Тянут",
+      "start": 772,
+      "end": 777
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-293",
+      "order": 293,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 777,
+      "end": 778
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-294",
+      "order": 294,
+      "kind": "word",
+      "value": "потянут",
+      "start": 778,
+      "end": 785
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-295",
+      "order": 295,
+      "kind": "space",
+      "value": " ",
+      "start": 785,
+      "end": 786
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-296",
+      "order": 296,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 786,
+      "end": 787
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-297",
+      "order": 297,
+      "kind": "space",
+      "value": " ",
+      "start": 787,
+      "end": 788
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-298",
+      "order": 298,
+      "kind": "word",
+      "value": "и",
+      "start": 788,
+      "end": 789
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-299",
+      "order": 299,
+      "kind": "space",
+      "value": " ",
+      "start": 789,
+      "end": 790
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-300",
+      "order": 300,
+      "kind": "word",
+      "value": "вытянули",
+      "start": 790,
+      "end": 798
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-301",
+      "order": 301,
+      "kind": "space",
+      "value": " ",
+      "start": 798,
+      "end": 799
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-302",
+      "order": 302,
+      "kind": "word",
+      "value": "репку",
+      "start": 799,
+      "end": 804
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-303",
+      "order": 303,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 804,
+      "end": 805
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-304",
+      "order": 304,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 805,
+      "end": 807
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-305",
+      "order": 305,
+      "kind": "word",
+      "value": "Вот",
+      "start": 807,
+      "end": 810
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-306",
+      "order": 306,
+      "kind": "space",
+      "value": " ",
+      "start": 810,
+      "end": 811
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-307",
+      "order": 307,
+      "kind": "word",
+      "value": "и",
+      "start": 811,
+      "end": 812
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-308",
+      "order": 308,
+      "kind": "space",
+      "value": " ",
+      "start": 812,
+      "end": 813
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-309",
+      "order": 309,
+      "kind": "word",
+      "value": "сказке",
+      "start": 813,
+      "end": 819
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-310",
+      "order": 310,
+      "kind": "space",
+      "value": " ",
+      "start": 819,
+      "end": 820
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-311",
+      "order": 311,
+      "kind": "word",
+      "value": "конец",
+      "start": 820,
+      "end": 825
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-312",
+      "order": 312,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 825,
+      "end": 826
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-313",
+      "order": 313,
+      "kind": "space",
+      "value": " ",
+      "start": 826,
+      "end": 827
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-314",
+      "order": 314,
+      "kind": "word",
+      "value": "а",
+      "start": 827,
+      "end": 828
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-315",
+      "order": 315,
+      "kind": "space",
+      "value": " ",
+      "start": 828,
+      "end": 829
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-316",
+      "order": 316,
+      "kind": "word",
+      "value": "кто",
+      "start": 829,
+      "end": 832
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-317",
+      "order": 317,
+      "kind": "space",
+      "value": " ",
+      "start": 832,
+      "end": 833
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-318",
+      "order": 318,
+      "kind": "word",
+      "value": "слушал",
+      "start": 833,
+      "end": 839
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-319",
+      "order": 319,
+      "kind": "space",
+      "value": " ",
+      "start": 839,
+      "end": 840
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-320",
+      "order": 320,
+      "kind": "punctuation",
+      "value": "—",
+      "start": 840,
+      "end": 841
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-321",
+      "order": 321,
+      "kind": "space",
+      "value": " ",
+      "start": 841,
+      "end": 842
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-322",
+      "order": 322,
+      "kind": "word",
+      "value": "молодец",
+      "start": 842,
+      "end": 849
+    },
+    {
+      "token_id": "display-text-632342d2766ade4207d15c1277928280-token-323",
+      "order": 323,
+      "kind": "punctuation",
+      "value": "!",
+      "start": 849,
+      "end": 850
+    }
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-1",
+      "start": 0,
+      "end": 28,
+      "lines": [
+        "Посадил дед репку и говорит:"
+      ],
+      "text": "Посадил дед репку и говорит:"
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-2",
+      "start": 30,
+      "end": 86,
+      "lines": [
+        "— Расти репка сладкая-сладкая! Расти большая-пребольшая!"
+      ],
+      "text": "— Расти репка сладкая-сладкая! Расти большая-пребольшая!"
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-3",
+      "start": 88,
+      "end": 131,
+      "lines": [
+        "Выросла репка сладкая и большая-пребольшая."
+      ],
+      "text": "Выросла репка сладкая и большая-пребольшая."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-4",
+      "start": 133,
+      "end": 189,
+      "lines": [
+        "Пошел дед репку рвать: тянет-потянет, вытянуть не может."
+      ],
+      "text": "Пошел дед репку рвать: тянет-потянет, вытянуть не может."
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-5",
+      "start": 191,
+      "end": 208,
+      "lines": [
+        "Позвал дед бабку."
+      ],
+      "text": "Позвал дед бабку."
+    },
+    {
+      "index": 5,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-6",
+      "start": 210,
+      "end": 276,
+      "lines": [
+        "Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+      ],
+      "text": "Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+    },
+    {
+      "index": 6,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-7",
+      "start": 278,
+      "end": 299,
+      "lines": [
+        "Позвала бабка внучку."
+      ],
+      "text": "Позвала бабка внучку."
+    },
+    {
+      "index": 7,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-8",
+      "start": 301,
+      "end": 384,
+      "lines": [
+        "Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+      ],
+      "text": "Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+    },
+    {
+      "index": 8,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-9",
+      "start": 386,
+      "end": 407,
+      "lines": [
+        "Позвала внучка Жучку."
+      ],
+      "text": "Позвала внучка Жучку."
+    },
+    {
+      "index": 9,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-10",
+      "start": 409,
+      "end": 509,
+      "lines": [
+        "Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+      ],
+      "text": "Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+    },
+    {
+      "index": 10,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-11",
+      "start": 511,
+      "end": 531,
+      "lines": [
+        "Позвала Жучка кошку."
+      ],
+      "text": "Позвала Жучка кошку."
+    },
+    {
+      "index": 11,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-12",
+      "start": 533,
+      "end": 649,
+      "lines": [
+        "Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+      ],
+      "text": "Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут."
+    },
+    {
+      "index": 12,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-13",
+      "start": 651,
+      "end": 671,
+      "lines": [
+        "Позвала кошка мышку."
+      ],
+      "text": "Позвала кошка мышку."
+    },
+    {
+      "index": 13,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-14",
+      "start": 673,
+      "end": 805,
+      "lines": [
+        "Мышка за кошку, Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут — и вытянули репку."
+      ],
+      "text": "Мышка за кошку, Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут — и вытянули репку."
+    },
+    {
+      "index": 14,
+      "type": "paragraph",
+      "paragraphId": "display-text-632342d2766ade4207d15c1277928280-paragraph-15",
+      "start": 807,
+      "end": 850,
+      "lines": [
+        "Вот и сказке конец, а кто слушал — молодец!"
+      ],
+      "text": "Вот и сказке конец, а кто слушал — молодец!"
+    }
+  ],
+  "plainText": "Посадил дед репку и говорит:\n\n— Расти репка сладкая-сладкая! Расти большая-пребольшая!\n\nВыросла репка сладкая и большая-пребольшая.\n\nПошел дед репку рвать: тянет-потянет, вытянуть не может.\n\nПозвал дед бабку.\n\nБабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут.\n\nПозвала бабка внучку.\n\nВнучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут.\n\nПозвала внучка Жучку.\n\nЖучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут.\n\nПозвала Жучка кошку.\n\nКошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут, вытянуть не могут.\n\nПозвала кошка мышку.\n\nМышка за кошку, Кошка за Жучку, Жучка за внучку, Внучка за бабку, Бабка за дедку, Дедка за репку — Тянут-потянут — и вытянули репку.\n\nВот и сказке конец, а кто слушал — молодец!",
+  "plainTextSha256": "e6bbf371669c891573dce0e5106397b231be78c152e5d0917cbe9154342f2663",
+  "wordCount": 135,
+  "characterCount": 850,
+  "sha256": "fa966de1cfe80505c32fad55f00783c18165fa7ac17cd64162408ac810851a19"
+}

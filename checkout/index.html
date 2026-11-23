@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,follow">
+  <meta name="description" content="Sign in to purchase Kamu Tales Pro through Paddle.">
+  <title>Subscribe to Kamu Tales Pro</title>
+  <link rel="canonical" href="https://kamutales.com/checkout/">
+
+  <meta property="og:site_name" content="Fairy Tales by Kamu">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Subscribe to Kamu Tales Pro">
+  <meta property="og:description" content="Sign in to purchase Kamu Tales Pro through Paddle.">
+  <meta property="og:url" content="https://kamutales.com/checkout/">
+  <meta property="og:locale" content="en_US">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Subscribe to Kamu Tales Pro">
+  <meta name="twitter:description" content="Sign in to purchase Kamu Tales Pro through Paddle.">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <meta name="referrer" content="no-referrer">
+  
+  <script type="module" src="../checkout.js"></script>
+  
+  <script type="module" src="/parent-controls.js"></script>
+  <script type="module" src="/parent-account-data-browser.js"></script>
+  <link rel="stylesheet" href="../styles.css">
+  
+  <script data-parent-identity type="application/json">{"stylesheet":"https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.css","scripts":["https://accounts.google.com/gsi/client","https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js","https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui-config.js"],"bundle":"https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.js"}</script>
+  <script id="mpr-ui-bundle" type="application/json" data-mpr-ui-bundle-src="https://cdn.jsdelivr.net/gh/MarcoPoloResearchLab/mpr-ui@latest/mpr-ui.js"></script>
+</head>
+<body class="legal-page checkout-page">
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="legal-hero"><nav class="shell legal-nav" aria-label="Checkout navigation"><a href="/en/">Stories</a></nav></header>
+<main id="main-content" class="shell legal-content" data-checkout-root data-kamu-api-origin="https://kamu-api.kamutales.com" data-checkout-origin="https://kamutales.com" data-tauth-tenant="kamu">
+  <h1>Subscribe to Kamu Tales Pro</h1>
+  <p>Sign in to purchase a subscription. Paddle processes your payment.</p>
+  <section class="settings-account">
+        <button type="button" class="parent-open" data-parent-open>Sign in</button>
+        <div data-parent-area hidden inert>
+        <div class="account-auth-controls" data-auth-controls>
+        <span class="settings-sign-in-label settings-eyebrow">Sign in with</span>
+        <mpr-header id="kamu-auth" locale="en" class="account-auth-header" data-config-url="../config-ui.yaml" data-kamu-api-origin="https://kamu-api.kamutales.com" brand-label="Kamu" theme-config='{"initialMode":"light"}'>
+          <span slot="brand"></span>
+          <div class="settings-identity" slot="aux">
+            <span class="settings-profile" data-settings-profile hidden><span data-settings-profile-name></span><span data-settings-profile-email></span></span>
+            <mpr-user class="subscription-user-menu" display-mode="avatar" auth-target="#kamu-auth" data-config-url="../config-ui.yaml" logout-url="#signed-out" logout-label="Sign out"></mpr-user>
+          </div>
+        </mpr-header>
+        </div>
+        <div data-account-tools hidden data-kamu-api-origin="https://kamu-api.kamutales.com" data-tauth-tenant="kamu">
+        <p role="status" data-settings-capabilities-status></p>
+        <details class="settings-account-details" data-settings-credential="link" hidden><summary>Add email and password</summary><mpr-account-panel locale="en" action="password-link-start" auth-target="#kamu-auth"></mpr-account-panel><p data-settings-link-pending hidden>Check your email. Open the link with the same account to finish linking.</p></details>
+        <details class="settings-account-details" data-settings-credential="change" hidden><summary>Change password</summary><mpr-account-panel locale="en" action="password-change" auth-target="#kamu-auth"></mpr-account-panel></details>
+        <details class="settings-privacy" data-settings-privacy><summary>Privacy</summary>
+        <p>Your account ID, name, email, profile picture, and current subscription status in a JSON file.</p>
+        <button type="button" class="parent-open" data-parent-account-data data-kamu-api-origin="https://kamu-api.kamutales.com" data-tauth-tenant="kamu" hidden disabled>Download account information</button>
+        <p role="status" data-parent-account-data-status></p>
+        <div data-settings-billing hidden>
+        <p>Your purchase and subscription records in a JSON file. This file is not an invoice.</p>
+        <button type="button" class="parent-open" data-parent-billing-data data-kamu-api-origin="https://kamu-api.kamutales.com" data-tauth-tenant="kamu" hidden disabled>Download billing records</button>
+        <p role="status" data-parent-billing-data-status></p>
+        </div></details>
+
+        </div>
+        <section aria-label="Subscription checkout">
+      <button type="button" class="parent-open" data-checkout-start disabled>Open checkout</button>
+      <p role="status" aria-live="polite" data-checkout-status data-state="signed-out">Sign in to continue.</p>
+      <a href="/account/" data-checkout-return hidden>Return to your account</a>
+    </section></div></section>
+</main>
+
+
+</body>
+</html>

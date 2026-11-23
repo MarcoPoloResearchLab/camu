@@ -1,0 +1,7157 @@
+{
+  "schema": "kamu.display-text.v1",
+  "storyId": "paul-bunyan",
+  "storyPath": "american/007-paul-bunyan.md",
+  "language": "en",
+  "source": {
+    "kind": "public-reader-delivery",
+    "path": "data/text/american-007-paul-bunyan.txt",
+    "sha256": "96c46a51d6eefe51366a847be4b60dcfd69c24e9294a3d84c204127e1ec869a3"
+  },
+  "readerAuthority": {
+    "story_id": "paul-bunyan",
+    "package_id": "reader-preservation-5e02114566dec0b422a440fde903d588",
+    "version_id": "reader-version-900d1c310ff3c3b2948ed76d4e36c877",
+    "language": "en",
+    "text_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f"
+  },
+  "paragraphs": [
+    {
+      "paragraph_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-1",
+      "start": 0,
+      "end": 260
+    },
+    {
+      "paragraph_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-2",
+      "start": 262,
+      "end": 589
+    },
+    {
+      "paragraph_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-3",
+      "start": 591,
+      "end": 1046
+    },
+    {
+      "paragraph_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-4",
+      "start": 1048,
+      "end": 1751
+    },
+    {
+      "paragraph_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-5",
+      "start": 1753,
+      "end": 2247
+    }
+  ],
+  "tokens": [
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-1",
+      "order": 1,
+      "kind": "word",
+      "value": "Babe",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-2",
+      "order": 2,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 4,
+      "end": 5
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-3",
+      "order": 3,
+      "kind": "space",
+      "value": " ",
+      "start": 5,
+      "end": 6
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-4",
+      "order": 4,
+      "kind": "word",
+      "value": "the",
+      "start": 6,
+      "end": 9
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-5",
+      "order": 5,
+      "kind": "space",
+      "value": " ",
+      "start": 9,
+      "end": 10
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-6",
+      "order": 6,
+      "kind": "word",
+      "value": "big",
+      "start": 10,
+      "end": 13
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-7",
+      "order": 7,
+      "kind": "space",
+      "value": " ",
+      "start": 13,
+      "end": 14
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-8",
+      "order": 8,
+      "kind": "word",
+      "value": "blue",
+      "start": 14,
+      "end": 18
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-9",
+      "order": 9,
+      "kind": "space",
+      "value": " ",
+      "start": 18,
+      "end": 19
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-10",
+      "order": 10,
+      "kind": "word",
+      "value": "ox",
+      "start": 19,
+      "end": 21
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-11",
+      "order": 11,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 21,
+      "end": 22
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-12",
+      "order": 12,
+      "kind": "space",
+      "value": " ",
+      "start": 22,
+      "end": 23
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-13",
+      "order": 13,
+      "kind": "word",
+      "value": "constituted",
+      "start": 23,
+      "end": 34
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-14",
+      "order": 14,
+      "kind": "space",
+      "value": " ",
+      "start": 34,
+      "end": 35
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-15",
+      "order": 15,
+      "kind": "word",
+      "value": "Paul",
+      "start": 35,
+      "end": 39
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-16",
+      "order": 16,
+      "kind": "space",
+      "value": " ",
+      "start": 39,
+      "end": 40
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-17",
+      "order": 17,
+      "kind": "word",
+      "value": "Bunyan",
+      "start": 40,
+      "end": 46
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-18",
+      "order": 18,
+      "kind": "punctuation",
+      "value": "'",
+      "start": 46,
+      "end": 47
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-19",
+      "order": 19,
+      "kind": "word",
+      "value": "s",
+      "start": 47,
+      "end": 48
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-20",
+      "order": 20,
+      "kind": "space",
+      "value": " ",
+      "start": 48,
+      "end": 49
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-21",
+      "order": 21,
+      "kind": "word",
+      "value": "assets",
+      "start": 49,
+      "end": 55
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-22",
+      "order": 22,
+      "kind": "space",
+      "value": " ",
+      "start": 55,
+      "end": 56
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-23",
+      "order": 23,
+      "kind": "word",
+      "value": "and",
+      "start": 56,
+      "end": 59
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-24",
+      "order": 24,
+      "kind": "space",
+      "value": " ",
+      "start": 59,
+      "end": 60
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-25",
+      "order": 25,
+      "kind": "word",
+      "value": "liabilities",
+      "start": 60,
+      "end": 71
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-26",
+      "order": 26,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 71,
+      "end": 72
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-27",
+      "order": 27,
+      "kind": "space",
+      "value": " ",
+      "start": 72,
+      "end": 73
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-28",
+      "order": 28,
+      "kind": "word",
+      "value": "History",
+      "start": 73,
+      "end": 80
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-29",
+      "order": 29,
+      "kind": "space",
+      "value": " ",
+      "start": 80,
+      "end": 81
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-30",
+      "order": 30,
+      "kind": "word",
+      "value": "disagrees",
+      "start": 81,
+      "end": 90
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-31",
+      "order": 31,
+      "kind": "space",
+      "value": " ",
+      "start": 90,
+      "end": 91
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-32",
+      "order": 32,
+      "kind": "word",
+      "value": "as",
+      "start": 91,
+      "end": 93
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-33",
+      "order": 33,
+      "kind": "space",
+      "value": " ",
+      "start": 93,
+      "end": 94
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-34",
+      "order": 34,
+      "kind": "word",
+      "value": "to",
+      "start": 94,
+      "end": 96
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-35",
+      "order": 35,
+      "kind": "space",
+      "value": " ",
+      "start": 96,
+      "end": 97
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-36",
+      "order": 36,
+      "kind": "word",
+      "value": "when",
+      "start": 97,
+      "end": 101
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-37",
+      "order": 37,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 101,
+      "end": 102
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-38",
+      "order": 38,
+      "kind": "space",
+      "value": " ",
+      "start": 102,
+      "end": 103
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-39",
+      "order": 39,
+      "kind": "word",
+      "value": "where",
+      "start": 103,
+      "end": 108
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-40",
+      "order": 40,
+      "kind": "space",
+      "value": " ",
+      "start": 108,
+      "end": 109
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-41",
+      "order": 41,
+      "kind": "word",
+      "value": "and",
+      "start": 109,
+      "end": 112
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-42",
+      "order": 42,
+      "kind": "space",
+      "value": " ",
+      "start": 112,
+      "end": 113
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-43",
+      "order": 43,
+      "kind": "word",
+      "value": "how",
+      "start": 113,
+      "end": 116
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-44",
+      "order": 44,
+      "kind": "space",
+      "value": " ",
+      "start": 116,
+      "end": 117
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-45",
+      "order": 45,
+      "kind": "word",
+      "value": "Paul",
+      "start": 117,
+      "end": 121
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-46",
+      "order": 46,
+      "kind": "space",
+      "value": " ",
+      "start": 121,
+      "end": 122
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-47",
+      "order": 47,
+      "kind": "word",
+      "value": "first",
+      "start": 122,
+      "end": 127
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-48",
+      "order": 48,
+      "kind": "space",
+      "value": " ",
+      "start": 127,
+      "end": 128
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-49",
+      "order": 49,
+      "kind": "word",
+      "value": "acquired",
+      "start": 128,
+      "end": 136
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-50",
+      "order": 50,
+      "kind": "space",
+      "value": " ",
+      "start": 136,
+      "end": 137
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-51",
+      "order": 51,
+      "kind": "word",
+      "value": "this",
+      "start": 137,
+      "end": 141
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-52",
+      "order": 52,
+      "kind": "space",
+      "value": " ",
+      "start": 141,
+      "end": 142
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-53",
+      "order": 53,
+      "kind": "word",
+      "value": "bovine",
+      "start": 142,
+      "end": 148
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-54",
+      "order": 54,
+      "kind": "space",
+      "value": " ",
+      "start": 148,
+      "end": 149
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-55",
+      "order": 55,
+      "kind": "word",
+      "value": "locomotive",
+      "start": 149,
+      "end": 159
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-56",
+      "order": 56,
+      "kind": "space",
+      "value": " ",
+      "start": 159,
+      "end": 160
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-57",
+      "order": 57,
+      "kind": "word",
+      "value": "but",
+      "start": 160,
+      "end": 163
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-58",
+      "order": 58,
+      "kind": "space",
+      "value": " ",
+      "start": 163,
+      "end": 164
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-59",
+      "order": 59,
+      "kind": "word",
+      "value": "his",
+      "start": 164,
+      "end": 167
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-60",
+      "order": 60,
+      "kind": "space",
+      "value": " ",
+      "start": 167,
+      "end": 168
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-61",
+      "order": 61,
+      "kind": "word",
+      "value": "subsequent",
+      "start": 168,
+      "end": 178
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-62",
+      "order": 62,
+      "kind": "space",
+      "value": " ",
+      "start": 178,
+      "end": 179
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-63",
+      "order": 63,
+      "kind": "word",
+      "value": "record",
+      "start": 179,
+      "end": 185
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-64",
+      "order": 64,
+      "kind": "space",
+      "value": " ",
+      "start": 185,
+      "end": 186
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-65",
+      "order": 65,
+      "kind": "word",
+      "value": "is",
+      "start": 186,
+      "end": 188
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-66",
+      "order": 66,
+      "kind": "space",
+      "value": " ",
+      "start": 188,
+      "end": 189
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-67",
+      "order": 67,
+      "kind": "word",
+      "value": "reliably",
+      "start": 189,
+      "end": 197
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-68",
+      "order": 68,
+      "kind": "space",
+      "value": " ",
+      "start": 197,
+      "end": 198
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-69",
+      "order": 69,
+      "kind": "word",
+      "value": "established",
+      "start": 198,
+      "end": 209
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-70",
+      "order": 70,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 209,
+      "end": 210
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-71",
+      "order": 71,
+      "kind": "space",
+      "value": " ",
+      "start": 210,
+      "end": 211
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-72",
+      "order": 72,
+      "kind": "word",
+      "value": "Babe",
+      "start": 211,
+      "end": 215
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-73",
+      "order": 73,
+      "kind": "space",
+      "value": " ",
+      "start": 215,
+      "end": 216
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-74",
+      "order": 74,
+      "kind": "word",
+      "value": "could",
+      "start": 216,
+      "end": 221
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-75",
+      "order": 75,
+      "kind": "space",
+      "value": " ",
+      "start": 221,
+      "end": 222
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-76",
+      "order": 76,
+      "kind": "word",
+      "value": "pull",
+      "start": 222,
+      "end": 226
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-77",
+      "order": 77,
+      "kind": "space",
+      "value": " ",
+      "start": 226,
+      "end": 227
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-78",
+      "order": 78,
+      "kind": "word",
+      "value": "anything",
+      "start": 227,
+      "end": 235
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-79",
+      "order": 79,
+      "kind": "space",
+      "value": " ",
+      "start": 235,
+      "end": 236
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-80",
+      "order": 80,
+      "kind": "word",
+      "value": "that",
+      "start": 236,
+      "end": 240
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-81",
+      "order": 81,
+      "kind": "space",
+      "value": " ",
+      "start": 240,
+      "end": 241
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-82",
+      "order": 82,
+      "kind": "word",
+      "value": "had",
+      "start": 241,
+      "end": 244
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-83",
+      "order": 83,
+      "kind": "space",
+      "value": " ",
+      "start": 244,
+      "end": 245
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-84",
+      "order": 84,
+      "kind": "word",
+      "value": "two",
+      "start": 245,
+      "end": 248
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-85",
+      "order": 85,
+      "kind": "space",
+      "value": " ",
+      "start": 248,
+      "end": 249
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-86",
+      "order": 86,
+      "kind": "word",
+      "value": "ends",
+      "start": 249,
+      "end": 253
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-87",
+      "order": 87,
+      "kind": "space",
+      "value": " ",
+      "start": 253,
+      "end": 254
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-88",
+      "order": 88,
+      "kind": "word",
+      "value": "to",
+      "start": 254,
+      "end": 256
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-89",
+      "order": 89,
+      "kind": "space",
+      "value": " ",
+      "start": 256,
+      "end": 257
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-90",
+      "order": 90,
+      "kind": "word",
+      "value": "it",
+      "start": 257,
+      "end": 259
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-91",
+      "order": 91,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 259,
+      "end": 260
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-92",
+      "order": 92,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 260,
+      "end": 262
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-93",
+      "order": 93,
+      "kind": "word",
+      "value": "Babe",
+      "start": 262,
+      "end": 266
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-94",
+      "order": 94,
+      "kind": "space",
+      "value": " ",
+      "start": 266,
+      "end": 267
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-95",
+      "order": 95,
+      "kind": "word",
+      "value": "was",
+      "start": 267,
+      "end": 270
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-96",
+      "order": 96,
+      "kind": "space",
+      "value": " ",
+      "start": 270,
+      "end": 271
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-97",
+      "order": 97,
+      "kind": "word",
+      "value": "seven",
+      "start": 271,
+      "end": 276
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-98",
+      "order": 98,
+      "kind": "space",
+      "value": " ",
+      "start": 276,
+      "end": 277
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-99",
+      "order": 99,
+      "kind": "word",
+      "value": "axe",
+      "start": 277,
+      "end": 280
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-100",
+      "order": 100,
+      "kind": "space",
+      "value": " ",
+      "start": 280,
+      "end": 281
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-101",
+      "order": 101,
+      "kind": "word",
+      "value": "handles",
+      "start": 281,
+      "end": 288
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-102",
+      "order": 102,
+      "kind": "space",
+      "value": " ",
+      "start": 288,
+      "end": 289
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-103",
+      "order": 103,
+      "kind": "word",
+      "value": "wide",
+      "start": 289,
+      "end": 293
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-104",
+      "order": 104,
+      "kind": "space",
+      "value": " ",
+      "start": 293,
+      "end": 294
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-105",
+      "order": 105,
+      "kind": "word",
+      "value": "between",
+      "start": 294,
+      "end": 301
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-106",
+      "order": 106,
+      "kind": "space",
+      "value": " ",
+      "start": 301,
+      "end": 302
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-107",
+      "order": 107,
+      "kind": "word",
+      "value": "the",
+      "start": 302,
+      "end": 305
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-108",
+      "order": 108,
+      "kind": "space",
+      "value": " ",
+      "start": 305,
+      "end": 306
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-109",
+      "order": 109,
+      "kind": "word",
+      "value": "eyes",
+      "start": 306,
+      "end": 310
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-110",
+      "order": 110,
+      "kind": "space",
+      "value": " ",
+      "start": 310,
+      "end": 311
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-111",
+      "order": 111,
+      "kind": "word",
+      "value": "according",
+      "start": 311,
+      "end": 320
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-112",
+      "order": 112,
+      "kind": "space",
+      "value": " ",
+      "start": 320,
+      "end": 321
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-113",
+      "order": 113,
+      "kind": "word",
+      "value": "to",
+      "start": 321,
+      "end": 323
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-114",
+      "order": 114,
+      "kind": "space",
+      "value": " ",
+      "start": 323,
+      "end": 324
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-115",
+      "order": 115,
+      "kind": "word",
+      "value": "some",
+      "start": 324,
+      "end": 328
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-116",
+      "order": 116,
+      "kind": "space",
+      "value": " ",
+      "start": 328,
+      "end": 329
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-117",
+      "order": 117,
+      "kind": "word",
+      "value": "authorities",
+      "start": 329,
+      "end": 340
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-118",
+      "order": 118,
+      "kind": "punctuation",
+      "value": ";",
+      "start": 340,
+      "end": 341
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-119",
+      "order": 119,
+      "kind": "space",
+      "value": " ",
+      "start": 341,
+      "end": 342
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-120",
+      "order": 120,
+      "kind": "word",
+      "value": "others",
+      "start": 342,
+      "end": 348
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-121",
+      "order": 121,
+      "kind": "space",
+      "value": " ",
+      "start": 348,
+      "end": 349
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-122",
+      "order": 122,
+      "kind": "word",
+      "value": "equally",
+      "start": 349,
+      "end": 356
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-123",
+      "order": 123,
+      "kind": "space",
+      "value": " ",
+      "start": 356,
+      "end": 357
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-124",
+      "order": 124,
+      "kind": "word",
+      "value": "dependable",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-125",
+      "order": 125,
+      "kind": "space",
+      "value": " ",
+      "start": 367,
+      "end": 368
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-126",
+      "order": 126,
+      "kind": "word",
+      "value": "say",
+      "start": 368,
+      "end": 371
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-127",
+      "order": 127,
+      "kind": "space",
+      "value": " ",
+      "start": 371,
+      "end": 372
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-128",
+      "order": 128,
+      "kind": "word",
+      "value": "forty",
+      "start": 372,
+      "end": 377
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-129",
+      "order": 129,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 377,
+      "end": 378
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-130",
+      "order": 130,
+      "kind": "word",
+      "value": "two",
+      "start": 378,
+      "end": 381
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-131",
+      "order": 131,
+      "kind": "space",
+      "value": " ",
+      "start": 381,
+      "end": 382
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-132",
+      "order": 132,
+      "kind": "word",
+      "value": "axe",
+      "start": 382,
+      "end": 385
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-133",
+      "order": 133,
+      "kind": "space",
+      "value": " ",
+      "start": 385,
+      "end": 386
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-134",
+      "order": 134,
+      "kind": "word",
+      "value": "handles",
+      "start": 386,
+      "end": 393
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-135",
+      "order": 135,
+      "kind": "space",
+      "value": " ",
+      "start": 393,
+      "end": 394
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-136",
+      "order": 136,
+      "kind": "word",
+      "value": "and",
+      "start": 394,
+      "end": 397
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-137",
+      "order": 137,
+      "kind": "space",
+      "value": " ",
+      "start": 397,
+      "end": 398
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-138",
+      "order": 138,
+      "kind": "word",
+      "value": "a",
+      "start": 398,
+      "end": 399
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-139",
+      "order": 139,
+      "kind": "space",
+      "value": " ",
+      "start": 399,
+      "end": 400
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-140",
+      "order": 140,
+      "kind": "word",
+      "value": "plug",
+      "start": 400,
+      "end": 404
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-141",
+      "order": 141,
+      "kind": "space",
+      "value": " ",
+      "start": 404,
+      "end": 405
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-142",
+      "order": 142,
+      "kind": "word",
+      "value": "of",
+      "start": 405,
+      "end": 407
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-143",
+      "order": 143,
+      "kind": "space",
+      "value": " ",
+      "start": 407,
+      "end": 408
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-144",
+      "order": 144,
+      "kind": "word",
+      "value": "tobacco",
+      "start": 408,
+      "end": 415
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-145",
+      "order": 145,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 415,
+      "end": 416
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-146",
+      "order": 146,
+      "kind": "space",
+      "value": " ",
+      "start": 416,
+      "end": 417
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-147",
+      "order": 147,
+      "kind": "word",
+      "value": "Like",
+      "start": 417,
+      "end": 421
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-148",
+      "order": 148,
+      "kind": "space",
+      "value": " ",
+      "start": 421,
+      "end": 422
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-149",
+      "order": 149,
+      "kind": "word",
+      "value": "other",
+      "start": 422,
+      "end": 427
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-150",
+      "order": 150,
+      "kind": "space",
+      "value": " ",
+      "start": 427,
+      "end": 428
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-151",
+      "order": 151,
+      "kind": "word",
+      "value": "historical",
+      "start": 428,
+      "end": 438
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-152",
+      "order": 152,
+      "kind": "space",
+      "value": " ",
+      "start": 438,
+      "end": 439
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-153",
+      "order": 153,
+      "kind": "word",
+      "value": "contradictions",
+      "start": 439,
+      "end": 453
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-154",
+      "order": 154,
+      "kind": "space",
+      "value": " ",
+      "start": 453,
+      "end": 454
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-155",
+      "order": 155,
+      "kind": "word",
+      "value": "this",
+      "start": 454,
+      "end": 458
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-156",
+      "order": 156,
+      "kind": "space",
+      "value": " ",
+      "start": 458,
+      "end": 459
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-157",
+      "order": 157,
+      "kind": "word",
+      "value": "comes",
+      "start": 459,
+      "end": 464
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-158",
+      "order": 158,
+      "kind": "space",
+      "value": " ",
+      "start": 464,
+      "end": 465
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-159",
+      "order": 159,
+      "kind": "word",
+      "value": "from",
+      "start": 465,
+      "end": 469
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-160",
+      "order": 160,
+      "kind": "space",
+      "value": " ",
+      "start": 469,
+      "end": 470
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-161",
+      "order": 161,
+      "kind": "word",
+      "value": "using",
+      "start": 470,
+      "end": 475
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-162",
+      "order": 162,
+      "kind": "space",
+      "value": " ",
+      "start": 475,
+      "end": 476
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-163",
+      "order": 163,
+      "kind": "word",
+      "value": "different",
+      "start": 476,
+      "end": 485
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-164",
+      "order": 164,
+      "kind": "space",
+      "value": " ",
+      "start": 485,
+      "end": 486
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-165",
+      "order": 165,
+      "kind": "word",
+      "value": "standards",
+      "start": 486,
+      "end": 495
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-166",
+      "order": 166,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 495,
+      "end": 496
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-167",
+      "order": 167,
+      "kind": "space",
+      "value": " ",
+      "start": 496,
+      "end": 497
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-168",
+      "order": 168,
+      "kind": "word",
+      "value": "Seven",
+      "start": 497,
+      "end": 502
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-169",
+      "order": 169,
+      "kind": "space",
+      "value": " ",
+      "start": 502,
+      "end": 503
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-170",
+      "order": 170,
+      "kind": "word",
+      "value": "of",
+      "start": 503,
+      "end": 505
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-171",
+      "order": 171,
+      "kind": "space",
+      "value": " ",
+      "start": 505,
+      "end": 506
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-172",
+      "order": 172,
+      "kind": "word",
+      "value": "Paul",
+      "start": 506,
+      "end": 510
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-173",
+      "order": 173,
+      "kind": "punctuation",
+      "value": "'",
+      "start": 510,
+      "end": 511
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-174",
+      "order": 174,
+      "kind": "word",
+      "value": "s",
+      "start": 511,
+      "end": 512
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-175",
+      "order": 175,
+      "kind": "space",
+      "value": " ",
+      "start": 512,
+      "end": 513
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-176",
+      "order": 176,
+      "kind": "word",
+      "value": "axe",
+      "start": 513,
+      "end": 516
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-177",
+      "order": 177,
+      "kind": "space",
+      "value": " ",
+      "start": 516,
+      "end": 517
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-178",
+      "order": 178,
+      "kind": "word",
+      "value": "handles",
+      "start": 517,
+      "end": 524
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-179",
+      "order": 179,
+      "kind": "space",
+      "value": " ",
+      "start": 524,
+      "end": 525
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-180",
+      "order": 180,
+      "kind": "word",
+      "value": "were",
+      "start": 525,
+      "end": 529
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-181",
+      "order": 181,
+      "kind": "space",
+      "value": " ",
+      "start": 529,
+      "end": 530
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-182",
+      "order": 182,
+      "kind": "word",
+      "value": "equal",
+      "start": 530,
+      "end": 535
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-183",
+      "order": 183,
+      "kind": "space",
+      "value": " ",
+      "start": 535,
+      "end": 536
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-184",
+      "order": 184,
+      "kind": "word",
+      "value": "to",
+      "start": 536,
+      "end": 538
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-185",
+      "order": 185,
+      "kind": "space",
+      "value": " ",
+      "start": 538,
+      "end": 539
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-186",
+      "order": 186,
+      "kind": "word",
+      "value": "a",
+      "start": 539,
+      "end": 540
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-187",
+      "order": 187,
+      "kind": "space",
+      "value": " ",
+      "start": 540,
+      "end": 541
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-188",
+      "order": 188,
+      "kind": "word",
+      "value": "little",
+      "start": 541,
+      "end": 547
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-189",
+      "order": 189,
+      "kind": "space",
+      "value": " ",
+      "start": 547,
+      "end": 548
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-190",
+      "order": 190,
+      "kind": "word",
+      "value": "more",
+      "start": 548,
+      "end": 552
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-191",
+      "order": 191,
+      "kind": "space",
+      "value": " ",
+      "start": 552,
+      "end": 553
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-192",
+      "order": 192,
+      "kind": "word",
+      "value": "than",
+      "start": 553,
+      "end": 557
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-193",
+      "order": 193,
+      "kind": "space",
+      "value": " ",
+      "start": 557,
+      "end": 558
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-194",
+      "order": 194,
+      "kind": "word",
+      "value": "forty",
+      "start": 558,
+      "end": 563
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-195",
+      "order": 195,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 563,
+      "end": 564
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-196",
+      "order": 196,
+      "kind": "word",
+      "value": "two",
+      "start": 564,
+      "end": 567
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-197",
+      "order": 197,
+      "kind": "space",
+      "value": " ",
+      "start": 567,
+      "end": 568
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-198",
+      "order": 198,
+      "kind": "word",
+      "value": "of",
+      "start": 568,
+      "end": 570
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-199",
+      "order": 199,
+      "kind": "space",
+      "value": " ",
+      "start": 570,
+      "end": 571
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-200",
+      "order": 200,
+      "kind": "word",
+      "value": "the",
+      "start": 571,
+      "end": 574
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-201",
+      "order": 201,
+      "kind": "space",
+      "value": " ",
+      "start": 574,
+      "end": 575
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-202",
+      "order": 202,
+      "kind": "word",
+      "value": "ordinary",
+      "start": 575,
+      "end": 583
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-203",
+      "order": 203,
+      "kind": "space",
+      "value": " ",
+      "start": 583,
+      "end": 584
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-204",
+      "order": 204,
+      "kind": "word",
+      "value": "kind",
+      "start": 584,
+      "end": 588
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-205",
+      "order": 205,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 588,
+      "end": 589
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-206",
+      "order": 206,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 589,
+      "end": 591
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-207",
+      "order": 207,
+      "kind": "word",
+      "value": "When",
+      "start": 591,
+      "end": 595
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-208",
+      "order": 208,
+      "kind": "space",
+      "value": " ",
+      "start": 595,
+      "end": 596
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-209",
+      "order": 209,
+      "kind": "word",
+      "value": "cost",
+      "start": 596,
+      "end": 600
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-210",
+      "order": 210,
+      "kind": "space",
+      "value": " ",
+      "start": 600,
+      "end": 601
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-211",
+      "order": 211,
+      "kind": "word",
+      "value": "sheets",
+      "start": 601,
+      "end": 607
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-212",
+      "order": 212,
+      "kind": "space",
+      "value": " ",
+      "start": 607,
+      "end": 608
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-213",
+      "order": 213,
+      "kind": "word",
+      "value": "were",
+      "start": 608,
+      "end": 612
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-214",
+      "order": 214,
+      "kind": "space",
+      "value": " ",
+      "start": 612,
+      "end": 613
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-215",
+      "order": 215,
+      "kind": "word",
+      "value": "figured",
+      "start": 613,
+      "end": 620
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-216",
+      "order": 216,
+      "kind": "space",
+      "value": " ",
+      "start": 620,
+      "end": 621
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-217",
+      "order": 217,
+      "kind": "word",
+      "value": "on",
+      "start": 621,
+      "end": 623
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-218",
+      "order": 218,
+      "kind": "space",
+      "value": " ",
+      "start": 623,
+      "end": 624
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-219",
+      "order": 219,
+      "kind": "word",
+      "value": "Babe",
+      "start": 624,
+      "end": 628
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-220",
+      "order": 220,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 628,
+      "end": 629
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-221",
+      "order": 221,
+      "kind": "space",
+      "value": " ",
+      "start": 629,
+      "end": 630
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-222",
+      "order": 222,
+      "kind": "word",
+      "value": "Johnny",
+      "start": 630,
+      "end": 636
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-223",
+      "order": 223,
+      "kind": "space",
+      "value": " ",
+      "start": 636,
+      "end": 637
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-224",
+      "order": 224,
+      "kind": "word",
+      "value": "Inkslinger",
+      "start": 637,
+      "end": 647
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-225",
+      "order": 225,
+      "kind": "space",
+      "value": " ",
+      "start": 647,
+      "end": 648
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-226",
+      "order": 226,
+      "kind": "word",
+      "value": "found",
+      "start": 648,
+      "end": 653
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-227",
+      "order": 227,
+      "kind": "space",
+      "value": " ",
+      "start": 653,
+      "end": 654
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-228",
+      "order": 228,
+      "kind": "word",
+      "value": "that",
+      "start": 654,
+      "end": 658
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-229",
+      "order": 229,
+      "kind": "space",
+      "value": " ",
+      "start": 658,
+      "end": 659
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-230",
+      "order": 230,
+      "kind": "word",
+      "value": "upkeep",
+      "start": 659,
+      "end": 665
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-231",
+      "order": 231,
+      "kind": "space",
+      "value": " ",
+      "start": 665,
+      "end": 666
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-232",
+      "order": 232,
+      "kind": "word",
+      "value": "and",
+      "start": 666,
+      "end": 669
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-233",
+      "order": 233,
+      "kind": "space",
+      "value": " ",
+      "start": 669,
+      "end": 670
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-234",
+      "order": 234,
+      "kind": "word",
+      "value": "overhead",
+      "start": 670,
+      "end": 678
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-235",
+      "order": 235,
+      "kind": "space",
+      "value": " ",
+      "start": 678,
+      "end": 679
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-236",
+      "order": 236,
+      "kind": "word",
+      "value": "were",
+      "start": 679,
+      "end": 683
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-237",
+      "order": 237,
+      "kind": "space",
+      "value": " ",
+      "start": 683,
+      "end": 684
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-238",
+      "order": 238,
+      "kind": "word",
+      "value": "expensive",
+      "start": 684,
+      "end": 693
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-239",
+      "order": 239,
+      "kind": "space",
+      "value": " ",
+      "start": 693,
+      "end": 694
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-240",
+      "order": 240,
+      "kind": "word",
+      "value": "but",
+      "start": 694,
+      "end": 697
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-241",
+      "order": 241,
+      "kind": "space",
+      "value": " ",
+      "start": 697,
+      "end": 698
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-242",
+      "order": 242,
+      "kind": "word",
+      "value": "the",
+      "start": 698,
+      "end": 701
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-243",
+      "order": 243,
+      "kind": "space",
+      "value": " ",
+      "start": 701,
+      "end": 702
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-244",
+      "order": 244,
+      "kind": "word",
+      "value": "charges",
+      "start": 702,
+      "end": 709
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-245",
+      "order": 245,
+      "kind": "space",
+      "value": " ",
+      "start": 709,
+      "end": 710
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-246",
+      "order": 246,
+      "kind": "word",
+      "value": "for",
+      "start": 710,
+      "end": 713
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-247",
+      "order": 247,
+      "kind": "space",
+      "value": " ",
+      "start": 713,
+      "end": 714
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-248",
+      "order": 248,
+      "kind": "word",
+      "value": "operation",
+      "start": 714,
+      "end": 723
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-249",
+      "order": 249,
+      "kind": "space",
+      "value": " ",
+      "start": 723,
+      "end": 724
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-250",
+      "order": 250,
+      "kind": "word",
+      "value": "and",
+      "start": 724,
+      "end": 727
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-251",
+      "order": 251,
+      "kind": "space",
+      "value": " ",
+      "start": 727,
+      "end": 728
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-252",
+      "order": 252,
+      "kind": "word",
+      "value": "depreciation",
+      "start": 728,
+      "end": 740
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-253",
+      "order": 253,
+      "kind": "space",
+      "value": " ",
+      "start": 740,
+      "end": 741
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-254",
+      "order": 254,
+      "kind": "word",
+      "value": "were",
+      "start": 741,
+      "end": 745
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-255",
+      "order": 255,
+      "kind": "space",
+      "value": " ",
+      "start": 745,
+      "end": 746
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-256",
+      "order": 256,
+      "kind": "word",
+      "value": "low",
+      "start": 746,
+      "end": 749
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-257",
+      "order": 257,
+      "kind": "space",
+      "value": " ",
+      "start": 749,
+      "end": 750
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-258",
+      "order": 258,
+      "kind": "word",
+      "value": "and",
+      "start": 750,
+      "end": 753
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-259",
+      "order": 259,
+      "kind": "space",
+      "value": " ",
+      "start": 753,
+      "end": 754
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-260",
+      "order": 260,
+      "kind": "word",
+      "value": "the",
+      "start": 754,
+      "end": 757
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-261",
+      "order": 261,
+      "kind": "space",
+      "value": " ",
+      "start": 757,
+      "end": 758
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-262",
+      "order": 262,
+      "kind": "word",
+      "value": "efficiency",
+      "start": 758,
+      "end": 768
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-263",
+      "order": 263,
+      "kind": "space",
+      "value": " ",
+      "start": 768,
+      "end": 769
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-264",
+      "order": 264,
+      "kind": "word",
+      "value": "was",
+      "start": 769,
+      "end": 772
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-265",
+      "order": 265,
+      "kind": "space",
+      "value": " ",
+      "start": 772,
+      "end": 773
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-266",
+      "order": 266,
+      "kind": "word",
+      "value": "very",
+      "start": 773,
+      "end": 777
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-267",
+      "order": 267,
+      "kind": "space",
+      "value": " ",
+      "start": 777,
+      "end": 778
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-268",
+      "order": 268,
+      "kind": "word",
+      "value": "high",
+      "start": 778,
+      "end": 782
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-269",
+      "order": 269,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 782,
+      "end": 783
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-270",
+      "order": 270,
+      "kind": "space",
+      "value": " ",
+      "start": 783,
+      "end": 784
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-271",
+      "order": 271,
+      "kind": "word",
+      "value": "How",
+      "start": 784,
+      "end": 787
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-272",
+      "order": 272,
+      "kind": "space",
+      "value": " ",
+      "start": 787,
+      "end": 788
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-273",
+      "order": 273,
+      "kind": "word",
+      "value": "else",
+      "start": 788,
+      "end": 792
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-274",
+      "order": 274,
+      "kind": "space",
+      "value": " ",
+      "start": 792,
+      "end": 793
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-275",
+      "order": 275,
+      "kind": "word",
+      "value": "could",
+      "start": 793,
+      "end": 798
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-276",
+      "order": 276,
+      "kind": "space",
+      "value": " ",
+      "start": 798,
+      "end": 799
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-277",
+      "order": 277,
+      "kind": "word",
+      "value": "Paul",
+      "start": 799,
+      "end": 803
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-278",
+      "order": 278,
+      "kind": "space",
+      "value": " ",
+      "start": 803,
+      "end": 804
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-279",
+      "order": 279,
+      "kind": "word",
+      "value": "have",
+      "start": 804,
+      "end": 808
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-280",
+      "order": 280,
+      "kind": "space",
+      "value": " ",
+      "start": 808,
+      "end": 809
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-281",
+      "order": 281,
+      "kind": "word",
+      "value": "hauled",
+      "start": 809,
+      "end": 815
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-282",
+      "order": 282,
+      "kind": "space",
+      "value": " ",
+      "start": 815,
+      "end": 816
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-283",
+      "order": 283,
+      "kind": "word",
+      "value": "logs",
+      "start": 816,
+      "end": 820
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-284",
+      "order": 284,
+      "kind": "space",
+      "value": " ",
+      "start": 820,
+      "end": 821
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-285",
+      "order": 285,
+      "kind": "word",
+      "value": "to",
+      "start": 821,
+      "end": 823
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-286",
+      "order": 286,
+      "kind": "space",
+      "value": " ",
+      "start": 823,
+      "end": 824
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-287",
+      "order": 287,
+      "kind": "word",
+      "value": "the",
+      "start": 824,
+      "end": 827
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-288",
+      "order": 288,
+      "kind": "space",
+      "value": " ",
+      "start": 827,
+      "end": 828
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-289",
+      "order": 289,
+      "kind": "word",
+      "value": "landing",
+      "start": 828,
+      "end": 835
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-290",
+      "order": 290,
+      "kind": "space",
+      "value": " ",
+      "start": 835,
+      "end": 836
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-291",
+      "order": 291,
+      "kind": "word",
+      "value": "a",
+      "start": 836,
+      "end": 837
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-292",
+      "order": 292,
+      "kind": "space",
+      "value": " ",
+      "start": 837,
+      "end": 838
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-293",
+      "order": 293,
+      "kind": "word",
+      "value": "whole",
+      "start": 838,
+      "end": 843
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-294",
+      "order": 294,
+      "kind": "space",
+      "value": " ",
+      "start": 843,
+      "end": 844
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-295",
+      "order": 295,
+      "kind": "word",
+      "value": "section",
+      "start": 844,
+      "end": 851
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-296",
+      "order": 296,
+      "kind": "space",
+      "value": " ",
+      "start": 851,
+      "end": 852
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-297",
+      "order": 297,
+      "kind": "punctuation",
+      "value": "(",
+      "start": 852,
+      "end": 853
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-298",
+      "order": 298,
+      "kind": "word",
+      "value": "640",
+      "start": 853,
+      "end": 856
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-299",
+      "order": 299,
+      "kind": "space",
+      "value": " ",
+      "start": 856,
+      "end": 857
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-300",
+      "order": 300,
+      "kind": "word",
+      "value": "acres",
+      "start": 857,
+      "end": 862
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-301",
+      "order": 301,
+      "kind": "punctuation",
+      "value": ")",
+      "start": 862,
+      "end": 863
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-302",
+      "order": 302,
+      "kind": "space",
+      "value": " ",
+      "start": 863,
+      "end": 864
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-303",
+      "order": 303,
+      "kind": "word",
+      "value": "at",
+      "start": 864,
+      "end": 866
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-304",
+      "order": 304,
+      "kind": "space",
+      "value": " ",
+      "start": 866,
+      "end": 867
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-305",
+      "order": 305,
+      "kind": "word",
+      "value": "a",
+      "start": 867,
+      "end": 868
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-306",
+      "order": 306,
+      "kind": "space",
+      "value": " ",
+      "start": 868,
+      "end": 869
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-307",
+      "order": 307,
+      "kind": "word",
+      "value": "time",
+      "start": 869,
+      "end": 873
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-308",
+      "order": 308,
+      "kind": "punctuation",
+      "value": "?",
+      "start": 873,
+      "end": 874
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-309",
+      "order": 309,
+      "kind": "space",
+      "value": " ",
+      "start": 874,
+      "end": 875
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-310",
+      "order": 310,
+      "kind": "word",
+      "value": "He",
+      "start": 875,
+      "end": 877
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-311",
+      "order": 311,
+      "kind": "space",
+      "value": " ",
+      "start": 877,
+      "end": 878
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-312",
+      "order": 312,
+      "kind": "word",
+      "value": "also",
+      "start": 878,
+      "end": 882
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-313",
+      "order": 313,
+      "kind": "space",
+      "value": " ",
+      "start": 882,
+      "end": 883
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-314",
+      "order": 314,
+      "kind": "word",
+      "value": "used",
+      "start": 883,
+      "end": 887
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-315",
+      "order": 315,
+      "kind": "space",
+      "value": " ",
+      "start": 887,
+      "end": 888
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-316",
+      "order": 316,
+      "kind": "word",
+      "value": "Babe",
+      "start": 888,
+      "end": 892
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-317",
+      "order": 317,
+      "kind": "space",
+      "value": " ",
+      "start": 892,
+      "end": 893
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-318",
+      "order": 318,
+      "kind": "word",
+      "value": "to",
+      "start": 893,
+      "end": 895
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-319",
+      "order": 319,
+      "kind": "space",
+      "value": " ",
+      "start": 895,
+      "end": 896
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-320",
+      "order": 320,
+      "kind": "word",
+      "value": "pull",
+      "start": 896,
+      "end": 900
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-321",
+      "order": 321,
+      "kind": "space",
+      "value": " ",
+      "start": 900,
+      "end": 901
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-322",
+      "order": 322,
+      "kind": "word",
+      "value": "the",
+      "start": 901,
+      "end": 904
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-323",
+      "order": 323,
+      "kind": "space",
+      "value": " ",
+      "start": 904,
+      "end": 905
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-324",
+      "order": 324,
+      "kind": "word",
+      "value": "kinks",
+      "start": 905,
+      "end": 910
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-325",
+      "order": 325,
+      "kind": "space",
+      "value": " ",
+      "start": 910,
+      "end": 911
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-326",
+      "order": 326,
+      "kind": "word",
+      "value": "out",
+      "start": 911,
+      "end": 914
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-327",
+      "order": 327,
+      "kind": "space",
+      "value": " ",
+      "start": 914,
+      "end": 915
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-328",
+      "order": 328,
+      "kind": "word",
+      "value": "of",
+      "start": 915,
+      "end": 917
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-329",
+      "order": 329,
+      "kind": "space",
+      "value": " ",
+      "start": 917,
+      "end": 918
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-330",
+      "order": 330,
+      "kind": "word",
+      "value": "the",
+      "start": 918,
+      "end": 921
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-331",
+      "order": 331,
+      "kind": "space",
+      "value": " ",
+      "start": 921,
+      "end": 922
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-332",
+      "order": 332,
+      "kind": "word",
+      "value": "crooked",
+      "start": 922,
+      "end": 929
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-333",
+      "order": 333,
+      "kind": "space",
+      "value": " ",
+      "start": 929,
+      "end": 930
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-334",
+      "order": 334,
+      "kind": "word",
+      "value": "logging",
+      "start": 930,
+      "end": 937
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-335",
+      "order": 335,
+      "kind": "space",
+      "value": " ",
+      "start": 937,
+      "end": 938
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-336",
+      "order": 336,
+      "kind": "word",
+      "value": "roads",
+      "start": 938,
+      "end": 943
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-337",
+      "order": 337,
+      "kind": "space",
+      "value": " ",
+      "start": 943,
+      "end": 944
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-338",
+      "order": 338,
+      "kind": "word",
+      "value": "and",
+      "start": 944,
+      "end": 947
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-339",
+      "order": 339,
+      "kind": "space",
+      "value": " ",
+      "start": 947,
+      "end": 948
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-340",
+      "order": 340,
+      "kind": "word",
+      "value": "it",
+      "start": 948,
+      "end": 950
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-341",
+      "order": 341,
+      "kind": "space",
+      "value": " ",
+      "start": 950,
+      "end": 951
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-342",
+      "order": 342,
+      "kind": "word",
+      "value": "was",
+      "start": 951,
+      "end": 954
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-343",
+      "order": 343,
+      "kind": "space",
+      "value": " ",
+      "start": 954,
+      "end": 955
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-344",
+      "order": 344,
+      "kind": "word",
+      "value": "on",
+      "start": 955,
+      "end": 957
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-345",
+      "order": 345,
+      "kind": "space",
+      "value": " ",
+      "start": 957,
+      "end": 958
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-346",
+      "order": 346,
+      "kind": "word",
+      "value": "a",
+      "start": 958,
+      "end": 959
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-347",
+      "order": 347,
+      "kind": "space",
+      "value": " ",
+      "start": 959,
+      "end": 960
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-348",
+      "order": 348,
+      "kind": "word",
+      "value": "job",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-349",
+      "order": 349,
+      "kind": "space",
+      "value": " ",
+      "start": 963,
+      "end": 964
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-350",
+      "order": 350,
+      "kind": "word",
+      "value": "of",
+      "start": 964,
+      "end": 966
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-351",
+      "order": 351,
+      "kind": "space",
+      "value": " ",
+      "start": 966,
+      "end": 967
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-352",
+      "order": 352,
+      "kind": "word",
+      "value": "this",
+      "start": 967,
+      "end": 971
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-353",
+      "order": 353,
+      "kind": "space",
+      "value": " ",
+      "start": 971,
+      "end": 972
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-354",
+      "order": 354,
+      "kind": "word",
+      "value": "kind",
+      "start": 972,
+      "end": 976
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-355",
+      "order": 355,
+      "kind": "space",
+      "value": " ",
+      "start": 976,
+      "end": 977
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-356",
+      "order": 356,
+      "kind": "word",
+      "value": "that",
+      "start": 977,
+      "end": 981
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-357",
+      "order": 357,
+      "kind": "space",
+      "value": " ",
+      "start": 981,
+      "end": 982
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-358",
+      "order": 358,
+      "kind": "word",
+      "value": "Babe",
+      "start": 982,
+      "end": 986
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-359",
+      "order": 359,
+      "kind": "space",
+      "value": " ",
+      "start": 986,
+      "end": 987
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-360",
+      "order": 360,
+      "kind": "word",
+      "value": "pulled",
+      "start": 987,
+      "end": 993
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-361",
+      "order": 361,
+      "kind": "space",
+      "value": " ",
+      "start": 993,
+      "end": 994
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-362",
+      "order": 362,
+      "kind": "word",
+      "value": "a",
+      "start": 994,
+      "end": 995
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-363",
+      "order": 363,
+      "kind": "space",
+      "value": " ",
+      "start": 995,
+      "end": 996
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-364",
+      "order": 364,
+      "kind": "word",
+      "value": "chain",
+      "start": 996,
+      "end": 1001
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-365",
+      "order": 365,
+      "kind": "space",
+      "value": " ",
+      "start": 1001,
+      "end": 1002
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-366",
+      "order": 366,
+      "kind": "word",
+      "value": "of",
+      "start": 1002,
+      "end": 1004
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-367",
+      "order": 367,
+      "kind": "space",
+      "value": " ",
+      "start": 1004,
+      "end": 1005
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-368",
+      "order": 368,
+      "kind": "word",
+      "value": "three",
+      "start": 1005,
+      "end": 1010
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-369",
+      "order": 369,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 1010,
+      "end": 1011
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-370",
+      "order": 370,
+      "kind": "word",
+      "value": "inch",
+      "start": 1011,
+      "end": 1015
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-371",
+      "order": 371,
+      "kind": "space",
+      "value": " ",
+      "start": 1015,
+      "end": 1016
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-372",
+      "order": 372,
+      "kind": "word",
+      "value": "links",
+      "start": 1016,
+      "end": 1021
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-373",
+      "order": 373,
+      "kind": "space",
+      "value": " ",
+      "start": 1021,
+      "end": 1022
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-374",
+      "order": 374,
+      "kind": "word",
+      "value": "out",
+      "start": 1022,
+      "end": 1025
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-375",
+      "order": 375,
+      "kind": "space",
+      "value": " ",
+      "start": 1025,
+      "end": 1026
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-376",
+      "order": 376,
+      "kind": "word",
+      "value": "into",
+      "start": 1026,
+      "end": 1030
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-377",
+      "order": 377,
+      "kind": "space",
+      "value": " ",
+      "start": 1030,
+      "end": 1031
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-378",
+      "order": 378,
+      "kind": "word",
+      "value": "a",
+      "start": 1031,
+      "end": 1032
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-379",
+      "order": 379,
+      "kind": "space",
+      "value": " ",
+      "start": 1032,
+      "end": 1033
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-380",
+      "order": 380,
+      "kind": "word",
+      "value": "straight",
+      "start": 1033,
+      "end": 1041
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-381",
+      "order": 381,
+      "kind": "space",
+      "value": " ",
+      "start": 1041,
+      "end": 1042
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-382",
+      "order": 382,
+      "kind": "word",
+      "value": "bar",
+      "start": 1042,
+      "end": 1045
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-383",
+      "order": 383,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1045,
+      "end": 1046
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-384",
+      "order": 384,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 1046,
+      "end": 1048
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-385",
+      "order": 385,
+      "kind": "word",
+      "value": "They",
+      "start": 1048,
+      "end": 1052
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-386",
+      "order": 386,
+      "kind": "space",
+      "value": " ",
+      "start": 1052,
+      "end": 1053
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-387",
+      "order": 387,
+      "kind": "word",
+      "value": "could",
+      "start": 1053,
+      "end": 1058
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-388",
+      "order": 388,
+      "kind": "space",
+      "value": " ",
+      "start": 1058,
+      "end": 1059
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-389",
+      "order": 389,
+      "kind": "word",
+      "value": "never",
+      "start": 1059,
+      "end": 1064
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-390",
+      "order": 390,
+      "kind": "space",
+      "value": " ",
+      "start": 1064,
+      "end": 1065
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-391",
+      "order": 391,
+      "kind": "word",
+      "value": "keep",
+      "start": 1065,
+      "end": 1069
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-392",
+      "order": 392,
+      "kind": "space",
+      "value": " ",
+      "start": 1069,
+      "end": 1070
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-393",
+      "order": 393,
+      "kind": "word",
+      "value": "Babe",
+      "start": 1070,
+      "end": 1074
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-394",
+      "order": 394,
+      "kind": "space",
+      "value": " ",
+      "start": 1074,
+      "end": 1075
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-395",
+      "order": 395,
+      "kind": "word",
+      "value": "more",
+      "start": 1075,
+      "end": 1079
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-396",
+      "order": 396,
+      "kind": "space",
+      "value": " ",
+      "start": 1079,
+      "end": 1080
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-397",
+      "order": 397,
+      "kind": "word",
+      "value": "than",
+      "start": 1080,
+      "end": 1084
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-398",
+      "order": 398,
+      "kind": "space",
+      "value": " ",
+      "start": 1084,
+      "end": 1085
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-399",
+      "order": 399,
+      "kind": "word",
+      "value": "one",
+      "start": 1085,
+      "end": 1088
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-400",
+      "order": 400,
+      "kind": "space",
+      "value": " ",
+      "start": 1088,
+      "end": 1089
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-401",
+      "order": 401,
+      "kind": "word",
+      "value": "night",
+      "start": 1089,
+      "end": 1094
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-402",
+      "order": 402,
+      "kind": "space",
+      "value": " ",
+      "start": 1094,
+      "end": 1095
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-403",
+      "order": 403,
+      "kind": "word",
+      "value": "at",
+      "start": 1095,
+      "end": 1097
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-404",
+      "order": 404,
+      "kind": "space",
+      "value": " ",
+      "start": 1097,
+      "end": 1098
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-405",
+      "order": 405,
+      "kind": "word",
+      "value": "a",
+      "start": 1098,
+      "end": 1099
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-406",
+      "order": 406,
+      "kind": "space",
+      "value": " ",
+      "start": 1099,
+      "end": 1100
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-407",
+      "order": 407,
+      "kind": "word",
+      "value": "camp",
+      "start": 1100,
+      "end": 1104
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-408",
+      "order": 408,
+      "kind": "space",
+      "value": " ",
+      "start": 1104,
+      "end": 1105
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-409",
+      "order": 409,
+      "kind": "word",
+      "value": "for",
+      "start": 1105,
+      "end": 1108
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-410",
+      "order": 410,
+      "kind": "space",
+      "value": " ",
+      "start": 1108,
+      "end": 1109
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-411",
+      "order": 411,
+      "kind": "word",
+      "value": "he",
+      "start": 1109,
+      "end": 1111
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-412",
+      "order": 412,
+      "kind": "space",
+      "value": " ",
+      "start": 1111,
+      "end": 1112
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-413",
+      "order": 413,
+      "kind": "word",
+      "value": "would",
+      "start": 1112,
+      "end": 1117
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-414",
+      "order": 414,
+      "kind": "space",
+      "value": " ",
+      "start": 1117,
+      "end": 1118
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-415",
+      "order": 415,
+      "kind": "word",
+      "value": "eat",
+      "start": 1118,
+      "end": 1121
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-416",
+      "order": 416,
+      "kind": "space",
+      "value": " ",
+      "start": 1121,
+      "end": 1122
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-417",
+      "order": 417,
+      "kind": "word",
+      "value": "in",
+      "start": 1122,
+      "end": 1124
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-418",
+      "order": 418,
+      "kind": "space",
+      "value": " ",
+      "start": 1124,
+      "end": 1125
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-419",
+      "order": 419,
+      "kind": "word",
+      "value": "one",
+      "start": 1125,
+      "end": 1128
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-420",
+      "order": 420,
+      "kind": "space",
+      "value": " ",
+      "start": 1128,
+      "end": 1129
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-421",
+      "order": 421,
+      "kind": "word",
+      "value": "day",
+      "start": 1129,
+      "end": 1132
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-422",
+      "order": 422,
+      "kind": "space",
+      "value": " ",
+      "start": 1132,
+      "end": 1133
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-423",
+      "order": 423,
+      "kind": "word",
+      "value": "all",
+      "start": 1133,
+      "end": 1136
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-424",
+      "order": 424,
+      "kind": "space",
+      "value": " ",
+      "start": 1136,
+      "end": 1137
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-425",
+      "order": 425,
+      "kind": "word",
+      "value": "the",
+      "start": 1137,
+      "end": 1140
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-426",
+      "order": 426,
+      "kind": "space",
+      "value": " ",
+      "start": 1140,
+      "end": 1141
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-427",
+      "order": 427,
+      "kind": "word",
+      "value": "feed",
+      "start": 1141,
+      "end": 1145
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-428",
+      "order": 428,
+      "kind": "space",
+      "value": " ",
+      "start": 1145,
+      "end": 1146
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-429",
+      "order": 429,
+      "kind": "word",
+      "value": "one",
+      "start": 1146,
+      "end": 1149
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-430",
+      "order": 430,
+      "kind": "space",
+      "value": " ",
+      "start": 1149,
+      "end": 1150
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-431",
+      "order": 431,
+      "kind": "word",
+      "value": "crew",
+      "start": 1150,
+      "end": 1154
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-432",
+      "order": 432,
+      "kind": "space",
+      "value": " ",
+      "start": 1154,
+      "end": 1155
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-433",
+      "order": 433,
+      "kind": "word",
+      "value": "could",
+      "start": 1155,
+      "end": 1160
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-434",
+      "order": 434,
+      "kind": "space",
+      "value": " ",
+      "start": 1160,
+      "end": 1161
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-435",
+      "order": 435,
+      "kind": "word",
+      "value": "tote",
+      "start": 1161,
+      "end": 1165
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-436",
+      "order": 436,
+      "kind": "space",
+      "value": " ",
+      "start": 1165,
+      "end": 1166
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-437",
+      "order": 437,
+      "kind": "word",
+      "value": "to",
+      "start": 1166,
+      "end": 1168
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-438",
+      "order": 438,
+      "kind": "space",
+      "value": " ",
+      "start": 1168,
+      "end": 1169
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-439",
+      "order": 439,
+      "kind": "word",
+      "value": "camp",
+      "start": 1169,
+      "end": 1173
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-440",
+      "order": 440,
+      "kind": "space",
+      "value": " ",
+      "start": 1173,
+      "end": 1174
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-441",
+      "order": 441,
+      "kind": "word",
+      "value": "in",
+      "start": 1174,
+      "end": 1176
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-442",
+      "order": 442,
+      "kind": "space",
+      "value": " ",
+      "start": 1176,
+      "end": 1177
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-443",
+      "order": 443,
+      "kind": "word",
+      "value": "a",
+      "start": 1177,
+      "end": 1178
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-444",
+      "order": 444,
+      "kind": "space",
+      "value": " ",
+      "start": 1178,
+      "end": 1179
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-445",
+      "order": 445,
+      "kind": "word",
+      "value": "year",
+      "start": 1179,
+      "end": 1183
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-446",
+      "order": 446,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1183,
+      "end": 1184
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-447",
+      "order": 447,
+      "kind": "space",
+      "value": " ",
+      "start": 1184,
+      "end": 1185
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-448",
+      "order": 448,
+      "kind": "word",
+      "value": "For",
+      "start": 1185,
+      "end": 1188
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-449",
+      "order": 449,
+      "kind": "space",
+      "value": " ",
+      "start": 1188,
+      "end": 1189
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-450",
+      "order": 450,
+      "kind": "word",
+      "value": "a",
+      "start": 1189,
+      "end": 1190
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-451",
+      "order": 451,
+      "kind": "space",
+      "value": " ",
+      "start": 1190,
+      "end": 1191
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-452",
+      "order": 452,
+      "kind": "word",
+      "value": "snack",
+      "start": 1191,
+      "end": 1196
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-453",
+      "order": 453,
+      "kind": "space",
+      "value": " ",
+      "start": 1196,
+      "end": 1197
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-454",
+      "order": 454,
+      "kind": "word",
+      "value": "between",
+      "start": 1197,
+      "end": 1204
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-455",
+      "order": 455,
+      "kind": "space",
+      "value": " ",
+      "start": 1204,
+      "end": 1205
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-456",
+      "order": 456,
+      "kind": "word",
+      "value": "meals",
+      "start": 1205,
+      "end": 1210
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-457",
+      "order": 457,
+      "kind": "space",
+      "value": " ",
+      "start": 1210,
+      "end": 1211
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-458",
+      "order": 458,
+      "kind": "word",
+      "value": "he",
+      "start": 1211,
+      "end": 1213
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-459",
+      "order": 459,
+      "kind": "space",
+      "value": " ",
+      "start": 1213,
+      "end": 1214
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-460",
+      "order": 460,
+      "kind": "word",
+      "value": "would",
+      "start": 1214,
+      "end": 1219
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-461",
+      "order": 461,
+      "kind": "space",
+      "value": " ",
+      "start": 1219,
+      "end": 1220
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-462",
+      "order": 462,
+      "kind": "word",
+      "value": "eat",
+      "start": 1220,
+      "end": 1223
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-463",
+      "order": 463,
+      "kind": "space",
+      "value": " ",
+      "start": 1223,
+      "end": 1224
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-464",
+      "order": 464,
+      "kind": "word",
+      "value": "fifty",
+      "start": 1224,
+      "end": 1229
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-465",
+      "order": 465,
+      "kind": "space",
+      "value": " ",
+      "start": 1229,
+      "end": 1230
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-466",
+      "order": 466,
+      "kind": "word",
+      "value": "bales",
+      "start": 1230,
+      "end": 1235
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-467",
+      "order": 467,
+      "kind": "space",
+      "value": " ",
+      "start": 1235,
+      "end": 1236
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-468",
+      "order": 468,
+      "kind": "word",
+      "value": "of",
+      "start": 1236,
+      "end": 1238
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-469",
+      "order": 469,
+      "kind": "space",
+      "value": " ",
+      "start": 1238,
+      "end": 1239
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-470",
+      "order": 470,
+      "kind": "word",
+      "value": "hay",
+      "start": 1239,
+      "end": 1242
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-471",
+      "order": 471,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 1242,
+      "end": 1243
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-472",
+      "order": 472,
+      "kind": "space",
+      "value": " ",
+      "start": 1243,
+      "end": 1244
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-473",
+      "order": 473,
+      "kind": "word",
+      "value": "wire",
+      "start": 1244,
+      "end": 1248
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-474",
+      "order": 474,
+      "kind": "space",
+      "value": " ",
+      "start": 1248,
+      "end": 1249
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-475",
+      "order": 475,
+      "kind": "word",
+      "value": "and",
+      "start": 1249,
+      "end": 1252
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-476",
+      "order": 476,
+      "kind": "space",
+      "value": " ",
+      "start": 1252,
+      "end": 1253
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-477",
+      "order": 477,
+      "kind": "word",
+      "value": "all",
+      "start": 1253,
+      "end": 1256
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-478",
+      "order": 478,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 1256,
+      "end": 1257
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-479",
+      "order": 479,
+      "kind": "space",
+      "value": " ",
+      "start": 1257,
+      "end": 1258
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-480",
+      "order": 480,
+      "kind": "word",
+      "value": "and",
+      "start": 1258,
+      "end": 1261
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-481",
+      "order": 481,
+      "kind": "space",
+      "value": " ",
+      "start": 1261,
+      "end": 1262
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-482",
+      "order": 482,
+      "kind": "word",
+      "value": "six",
+      "start": 1262,
+      "end": 1265
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-483",
+      "order": 483,
+      "kind": "space",
+      "value": " ",
+      "start": 1265,
+      "end": 1266
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-484",
+      "order": 484,
+      "kind": "word",
+      "value": "men",
+      "start": 1266,
+      "end": 1269
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-485",
+      "order": 485,
+      "kind": "space",
+      "value": " ",
+      "start": 1269,
+      "end": 1270
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-486",
+      "order": 486,
+      "kind": "word",
+      "value": "with",
+      "start": 1270,
+      "end": 1274
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-487",
+      "order": 487,
+      "kind": "space",
+      "value": " ",
+      "start": 1274,
+      "end": 1275
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-488",
+      "order": 488,
+      "kind": "word",
+      "value": "pickaroons",
+      "start": 1275,
+      "end": 1285
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-489",
+      "order": 489,
+      "kind": "space",
+      "value": " ",
+      "start": 1285,
+      "end": 1286
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-490",
+      "order": 490,
+      "kind": "word",
+      "value": "were",
+      "start": 1286,
+      "end": 1290
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-491",
+      "order": 491,
+      "kind": "space",
+      "value": " ",
+      "start": 1290,
+      "end": 1291
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-492",
+      "order": 492,
+      "kind": "word",
+      "value": "kept",
+      "start": 1291,
+      "end": 1295
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-493",
+      "order": 493,
+      "kind": "space",
+      "value": " ",
+      "start": 1295,
+      "end": 1296
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-494",
+      "order": 494,
+      "kind": "word",
+      "value": "busy",
+      "start": 1296,
+      "end": 1300
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-495",
+      "order": 495,
+      "kind": "space",
+      "value": " ",
+      "start": 1300,
+      "end": 1301
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-496",
+      "order": 496,
+      "kind": "word",
+      "value": "picking",
+      "start": 1301,
+      "end": 1308
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-497",
+      "order": 497,
+      "kind": "space",
+      "value": " ",
+      "start": 1308,
+      "end": 1309
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-498",
+      "order": 498,
+      "kind": "word",
+      "value": "the",
+      "start": 1309,
+      "end": 1312
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-499",
+      "order": 499,
+      "kind": "space",
+      "value": " ",
+      "start": 1312,
+      "end": 1313
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-500",
+      "order": 500,
+      "kind": "word",
+      "value": "wire",
+      "start": 1313,
+      "end": 1317
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-501",
+      "order": 501,
+      "kind": "space",
+      "value": " ",
+      "start": 1317,
+      "end": 1318
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-502",
+      "order": 502,
+      "kind": "word",
+      "value": "out",
+      "start": 1318,
+      "end": 1321
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-503",
+      "order": 503,
+      "kind": "space",
+      "value": " ",
+      "start": 1321,
+      "end": 1322
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-504",
+      "order": 504,
+      "kind": "word",
+      "value": "of",
+      "start": 1322,
+      "end": 1324
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-505",
+      "order": 505,
+      "kind": "space",
+      "value": " ",
+      "start": 1324,
+      "end": 1325
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-506",
+      "order": 506,
+      "kind": "word",
+      "value": "his",
+      "start": 1325,
+      "end": 1328
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-507",
+      "order": 507,
+      "kind": "space",
+      "value": " ",
+      "start": 1328,
+      "end": 1329
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-508",
+      "order": 508,
+      "kind": "word",
+      "value": "teeth",
+      "start": 1329,
+      "end": 1334
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-509",
+      "order": 509,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1334,
+      "end": 1335
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-510",
+      "order": 510,
+      "kind": "space",
+      "value": " ",
+      "start": 1335,
+      "end": 1336
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-511",
+      "order": 511,
+      "kind": "word",
+      "value": "Babe",
+      "start": 1336,
+      "end": 1340
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-512",
+      "order": 512,
+      "kind": "space",
+      "value": " ",
+      "start": 1340,
+      "end": 1341
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-513",
+      "order": 513,
+      "kind": "word",
+      "value": "was",
+      "start": 1341,
+      "end": 1344
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-514",
+      "order": 514,
+      "kind": "space",
+      "value": " ",
+      "start": 1344,
+      "end": 1345
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-515",
+      "order": 515,
+      "kind": "word",
+      "value": "a",
+      "start": 1345,
+      "end": 1346
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-516",
+      "order": 516,
+      "kind": "space",
+      "value": " ",
+      "start": 1346,
+      "end": 1347
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-517",
+      "order": 517,
+      "kind": "word",
+      "value": "great",
+      "start": 1347,
+      "end": 1352
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-518",
+      "order": 518,
+      "kind": "space",
+      "value": " ",
+      "start": 1352,
+      "end": 1353
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-519",
+      "order": 519,
+      "kind": "word",
+      "value": "pet",
+      "start": 1353,
+      "end": 1356
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-520",
+      "order": 520,
+      "kind": "space",
+      "value": " ",
+      "start": 1356,
+      "end": 1357
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-521",
+      "order": 521,
+      "kind": "word",
+      "value": "and",
+      "start": 1357,
+      "end": 1360
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-522",
+      "order": 522,
+      "kind": "space",
+      "value": " ",
+      "start": 1360,
+      "end": 1361
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-523",
+      "order": 523,
+      "kind": "word",
+      "value": "very",
+      "start": 1361,
+      "end": 1365
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-524",
+      "order": 524,
+      "kind": "space",
+      "value": " ",
+      "start": 1365,
+      "end": 1366
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-525",
+      "order": 525,
+      "kind": "word",
+      "value": "docile",
+      "start": 1366,
+      "end": 1372
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-526",
+      "order": 526,
+      "kind": "space",
+      "value": " ",
+      "start": 1372,
+      "end": 1373
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-527",
+      "order": 527,
+      "kind": "word",
+      "value": "as",
+      "start": 1373,
+      "end": 1375
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-528",
+      "order": 528,
+      "kind": "space",
+      "value": " ",
+      "start": 1375,
+      "end": 1376
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-529",
+      "order": 529,
+      "kind": "word",
+      "value": "a",
+      "start": 1376,
+      "end": 1377
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-530",
+      "order": 530,
+      "kind": "space",
+      "value": " ",
+      "start": 1377,
+      "end": 1378
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-531",
+      "order": 531,
+      "kind": "word",
+      "value": "general",
+      "start": 1378,
+      "end": 1385
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-532",
+      "order": 532,
+      "kind": "space",
+      "value": " ",
+      "start": 1385,
+      "end": 1386
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-533",
+      "order": 533,
+      "kind": "word",
+      "value": "thing",
+      "start": 1386,
+      "end": 1391
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-534",
+      "order": 534,
+      "kind": "space",
+      "value": " ",
+      "start": 1391,
+      "end": 1392
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-535",
+      "order": 535,
+      "kind": "word",
+      "value": "but",
+      "start": 1392,
+      "end": 1395
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-536",
+      "order": 536,
+      "kind": "space",
+      "value": " ",
+      "start": 1395,
+      "end": 1396
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-537",
+      "order": 537,
+      "kind": "word",
+      "value": "he",
+      "start": 1396,
+      "end": 1398
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-538",
+      "order": 538,
+      "kind": "space",
+      "value": " ",
+      "start": 1398,
+      "end": 1399
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-539",
+      "order": 539,
+      "kind": "word",
+      "value": "seemed",
+      "start": 1399,
+      "end": 1405
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-540",
+      "order": 540,
+      "kind": "space",
+      "value": " ",
+      "start": 1405,
+      "end": 1406
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-541",
+      "order": 541,
+      "kind": "word",
+      "value": "to",
+      "start": 1406,
+      "end": 1408
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-542",
+      "order": 542,
+      "kind": "space",
+      "value": " ",
+      "start": 1408,
+      "end": 1409
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-543",
+      "order": 543,
+      "kind": "word",
+      "value": "have",
+      "start": 1409,
+      "end": 1413
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-544",
+      "order": 544,
+      "kind": "space",
+      "value": " ",
+      "start": 1413,
+      "end": 1414
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-545",
+      "order": 545,
+      "kind": "word",
+      "value": "a",
+      "start": 1414,
+      "end": 1415
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-546",
+      "order": 546,
+      "kind": "space",
+      "value": " ",
+      "start": 1415,
+      "end": 1416
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-547",
+      "order": 547,
+      "kind": "word",
+      "value": "sense",
+      "start": 1416,
+      "end": 1421
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-548",
+      "order": 548,
+      "kind": "space",
+      "value": " ",
+      "start": 1421,
+      "end": 1422
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-549",
+      "order": 549,
+      "kind": "word",
+      "value": "of",
+      "start": 1422,
+      "end": 1424
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-550",
+      "order": 550,
+      "kind": "space",
+      "value": " ",
+      "start": 1424,
+      "end": 1425
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-551",
+      "order": 551,
+      "kind": "word",
+      "value": "humor",
+      "start": 1425,
+      "end": 1430
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-552",
+      "order": 552,
+      "kind": "space",
+      "value": " ",
+      "start": 1430,
+      "end": 1431
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-553",
+      "order": 553,
+      "kind": "word",
+      "value": "and",
+      "start": 1431,
+      "end": 1434
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-554",
+      "order": 554,
+      "kind": "space",
+      "value": " ",
+      "start": 1434,
+      "end": 1435
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-555",
+      "order": 555,
+      "kind": "word",
+      "value": "frequently",
+      "start": 1435,
+      "end": 1445
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-556",
+      "order": 556,
+      "kind": "space",
+      "value": " ",
+      "start": 1445,
+      "end": 1446
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-557",
+      "order": 557,
+      "kind": "word",
+      "value": "got",
+      "start": 1446,
+      "end": 1449
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-558",
+      "order": 558,
+      "kind": "space",
+      "value": " ",
+      "start": 1449,
+      "end": 1450
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-559",
+      "order": 559,
+      "kind": "word",
+      "value": "into",
+      "start": 1450,
+      "end": 1454
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-560",
+      "order": 560,
+      "kind": "space",
+      "value": " ",
+      "start": 1454,
+      "end": 1455
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-561",
+      "order": 561,
+      "kind": "word",
+      "value": "mischief",
+      "start": 1455,
+      "end": 1463
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-562",
+      "order": 562,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1463,
+      "end": 1464
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-563",
+      "order": 563,
+      "kind": "space",
+      "value": " ",
+      "start": 1464,
+      "end": 1465
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-564",
+      "order": 564,
+      "kind": "word",
+      "value": "He",
+      "start": 1465,
+      "end": 1467
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-565",
+      "order": 565,
+      "kind": "space",
+      "value": " ",
+      "start": 1467,
+      "end": 1468
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-566",
+      "order": 566,
+      "kind": "word",
+      "value": "would",
+      "start": 1468,
+      "end": 1473
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-567",
+      "order": 567,
+      "kind": "space",
+      "value": " ",
+      "start": 1473,
+      "end": 1474
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-568",
+      "order": 568,
+      "kind": "word",
+      "value": "sneak",
+      "start": 1474,
+      "end": 1479
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-569",
+      "order": 569,
+      "kind": "space",
+      "value": " ",
+      "start": 1479,
+      "end": 1480
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-570",
+      "order": 570,
+      "kind": "word",
+      "value": "up",
+      "start": 1480,
+      "end": 1482
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-571",
+      "order": 571,
+      "kind": "space",
+      "value": " ",
+      "start": 1482,
+      "end": 1483
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-572",
+      "order": 572,
+      "kind": "word",
+      "value": "behind",
+      "start": 1483,
+      "end": 1489
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-573",
+      "order": 573,
+      "kind": "space",
+      "value": " ",
+      "start": 1489,
+      "end": 1490
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-574",
+      "order": 574,
+      "kind": "word",
+      "value": "a",
+      "start": 1490,
+      "end": 1491
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-575",
+      "order": 575,
+      "kind": "space",
+      "value": " ",
+      "start": 1491,
+      "end": 1492
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-576",
+      "order": 576,
+      "kind": "word",
+      "value": "drive",
+      "start": 1492,
+      "end": 1497
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-577",
+      "order": 577,
+      "kind": "space",
+      "value": " ",
+      "start": 1497,
+      "end": 1498
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-578",
+      "order": 578,
+      "kind": "word",
+      "value": "and",
+      "start": 1498,
+      "end": 1501
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-579",
+      "order": 579,
+      "kind": "space",
+      "value": " ",
+      "start": 1501,
+      "end": 1502
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-580",
+      "order": 580,
+      "kind": "word",
+      "value": "drink",
+      "start": 1502,
+      "end": 1507
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-581",
+      "order": 581,
+      "kind": "space",
+      "value": " ",
+      "start": 1507,
+      "end": 1508
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-582",
+      "order": 582,
+      "kind": "word",
+      "value": "all",
+      "start": 1508,
+      "end": 1511
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-583",
+      "order": 583,
+      "kind": "space",
+      "value": " ",
+      "start": 1511,
+      "end": 1512
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-584",
+      "order": 584,
+      "kind": "word",
+      "value": "the",
+      "start": 1512,
+      "end": 1515
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-585",
+      "order": 585,
+      "kind": "space",
+      "value": " ",
+      "start": 1515,
+      "end": 1516
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-586",
+      "order": 586,
+      "kind": "word",
+      "value": "water",
+      "start": 1516,
+      "end": 1521
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-587",
+      "order": 587,
+      "kind": "space",
+      "value": " ",
+      "start": 1521,
+      "end": 1522
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-588",
+      "order": 588,
+      "kind": "word",
+      "value": "out",
+      "start": 1522,
+      "end": 1525
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-589",
+      "order": 589,
+      "kind": "space",
+      "value": " ",
+      "start": 1525,
+      "end": 1526
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-590",
+      "order": 590,
+      "kind": "word",
+      "value": "of",
+      "start": 1526,
+      "end": 1528
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-591",
+      "order": 591,
+      "kind": "space",
+      "value": " ",
+      "start": 1528,
+      "end": 1529
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-592",
+      "order": 592,
+      "kind": "word",
+      "value": "the",
+      "start": 1529,
+      "end": 1532
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-593",
+      "order": 593,
+      "kind": "space",
+      "value": " ",
+      "start": 1532,
+      "end": 1533
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-594",
+      "order": 594,
+      "kind": "word",
+      "value": "river",
+      "start": 1533,
+      "end": 1538
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-595",
+      "order": 595,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 1538,
+      "end": 1539
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-596",
+      "order": 596,
+      "kind": "space",
+      "value": " ",
+      "start": 1539,
+      "end": 1540
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-597",
+      "order": 597,
+      "kind": "word",
+      "value": "leaving",
+      "start": 1540,
+      "end": 1547
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-598",
+      "order": 598,
+      "kind": "space",
+      "value": " ",
+      "start": 1547,
+      "end": 1548
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-599",
+      "order": 599,
+      "kind": "word",
+      "value": "the",
+      "start": 1548,
+      "end": 1551
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-600",
+      "order": 600,
+      "kind": "space",
+      "value": " ",
+      "start": 1551,
+      "end": 1552
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-601",
+      "order": 601,
+      "kind": "word",
+      "value": "logs",
+      "start": 1552,
+      "end": 1556
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-602",
+      "order": 602,
+      "kind": "space",
+      "value": " ",
+      "start": 1556,
+      "end": 1557
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-603",
+      "order": 603,
+      "kind": "word",
+      "value": "high",
+      "start": 1557,
+      "end": 1561
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-604",
+      "order": 604,
+      "kind": "space",
+      "value": " ",
+      "start": 1561,
+      "end": 1562
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-605",
+      "order": 605,
+      "kind": "word",
+      "value": "and",
+      "start": 1562,
+      "end": 1565
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-606",
+      "order": 606,
+      "kind": "space",
+      "value": " ",
+      "start": 1565,
+      "end": 1566
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-607",
+      "order": 607,
+      "kind": "word",
+      "value": "dry",
+      "start": 1566,
+      "end": 1569
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-608",
+      "order": 608,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1569,
+      "end": 1570
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-609",
+      "order": 609,
+      "kind": "space",
+      "value": " ",
+      "start": 1570,
+      "end": 1571
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-610",
+      "order": 610,
+      "kind": "word",
+      "value": "It",
+      "start": 1571,
+      "end": 1573
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-611",
+      "order": 611,
+      "kind": "space",
+      "value": " ",
+      "start": 1573,
+      "end": 1574
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-612",
+      "order": 612,
+      "kind": "word",
+      "value": "was",
+      "start": 1574,
+      "end": 1577
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-613",
+      "order": 613,
+      "kind": "space",
+      "value": " ",
+      "start": 1577,
+      "end": 1578
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-614",
+      "order": 614,
+      "kind": "word",
+      "value": "impossible",
+      "start": 1578,
+      "end": 1588
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-615",
+      "order": 615,
+      "kind": "space",
+      "value": " ",
+      "start": 1588,
+      "end": 1589
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-616",
+      "order": 616,
+      "kind": "word",
+      "value": "to",
+      "start": 1589,
+      "end": 1591
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-617",
+      "order": 617,
+      "kind": "space",
+      "value": " ",
+      "start": 1591,
+      "end": 1592
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-618",
+      "order": 618,
+      "kind": "word",
+      "value": "build",
+      "start": 1592,
+      "end": 1597
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-619",
+      "order": 619,
+      "kind": "space",
+      "value": " ",
+      "start": 1597,
+      "end": 1598
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-620",
+      "order": 620,
+      "kind": "word",
+      "value": "an",
+      "start": 1598,
+      "end": 1600
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-621",
+      "order": 621,
+      "kind": "space",
+      "value": " ",
+      "start": 1600,
+      "end": 1601
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-622",
+      "order": 622,
+      "kind": "word",
+      "value": "ox",
+      "start": 1601,
+      "end": 1603
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-623",
+      "order": 623,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 1603,
+      "end": 1604
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-624",
+      "order": 624,
+      "kind": "word",
+      "value": "sling",
+      "start": 1604,
+      "end": 1609
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-625",
+      "order": 625,
+      "kind": "space",
+      "value": " ",
+      "start": 1609,
+      "end": 1610
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-626",
+      "order": 626,
+      "kind": "word",
+      "value": "big",
+      "start": 1610,
+      "end": 1613
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-627",
+      "order": 627,
+      "kind": "space",
+      "value": " ",
+      "start": 1613,
+      "end": 1614
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-628",
+      "order": 628,
+      "kind": "word",
+      "value": "enough",
+      "start": 1614,
+      "end": 1620
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-629",
+      "order": 629,
+      "kind": "space",
+      "value": " ",
+      "start": 1620,
+      "end": 1621
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-630",
+      "order": 630,
+      "kind": "word",
+      "value": "to",
+      "start": 1621,
+      "end": 1623
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-631",
+      "order": 631,
+      "kind": "space",
+      "value": " ",
+      "start": 1623,
+      "end": 1624
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-632",
+      "order": 632,
+      "kind": "word",
+      "value": "hoist",
+      "start": 1624,
+      "end": 1629
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-633",
+      "order": 633,
+      "kind": "space",
+      "value": " ",
+      "start": 1629,
+      "end": 1630
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-634",
+      "order": 634,
+      "kind": "word",
+      "value": "Babe",
+      "start": 1630,
+      "end": 1634
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-635",
+      "order": 635,
+      "kind": "space",
+      "value": " ",
+      "start": 1634,
+      "end": 1635
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-636",
+      "order": 636,
+      "kind": "word",
+      "value": "off",
+      "start": 1635,
+      "end": 1638
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-637",
+      "order": 637,
+      "kind": "space",
+      "value": " ",
+      "start": 1638,
+      "end": 1639
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-638",
+      "order": 638,
+      "kind": "word",
+      "value": "the",
+      "start": 1639,
+      "end": 1642
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-639",
+      "order": 639,
+      "kind": "space",
+      "value": " ",
+      "start": 1642,
+      "end": 1643
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-640",
+      "order": 640,
+      "kind": "word",
+      "value": "ground",
+      "start": 1643,
+      "end": 1649
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-641",
+      "order": 641,
+      "kind": "space",
+      "value": " ",
+      "start": 1649,
+      "end": 1650
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-642",
+      "order": 642,
+      "kind": "word",
+      "value": "for",
+      "start": 1650,
+      "end": 1653
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-643",
+      "order": 643,
+      "kind": "space",
+      "value": " ",
+      "start": 1653,
+      "end": 1654
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-644",
+      "order": 644,
+      "kind": "word",
+      "value": "shoeing",
+      "start": 1654,
+      "end": 1661
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-645",
+      "order": 645,
+      "kind": "punctuation",
+      "value": ",",
+      "start": 1661,
+      "end": 1662
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-646",
+      "order": 646,
+      "kind": "space",
+      "value": " ",
+      "start": 1662,
+      "end": 1663
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-647",
+      "order": 647,
+      "kind": "word",
+      "value": "but",
+      "start": 1663,
+      "end": 1666
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-648",
+      "order": 648,
+      "kind": "space",
+      "value": " ",
+      "start": 1666,
+      "end": 1667
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-649",
+      "order": 649,
+      "kind": "word",
+      "value": "after",
+      "start": 1667,
+      "end": 1672
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-650",
+      "order": 650,
+      "kind": "space",
+      "value": " ",
+      "start": 1672,
+      "end": 1673
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-651",
+      "order": 651,
+      "kind": "word",
+      "value": "they",
+      "start": 1673,
+      "end": 1677
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-652",
+      "order": 652,
+      "kind": "space",
+      "value": " ",
+      "start": 1677,
+      "end": 1678
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-653",
+      "order": 653,
+      "kind": "word",
+      "value": "logged",
+      "start": 1678,
+      "end": 1684
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-654",
+      "order": 654,
+      "kind": "space",
+      "value": " ",
+      "start": 1684,
+      "end": 1685
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-655",
+      "order": 655,
+      "kind": "word",
+      "value": "off",
+      "start": 1685,
+      "end": 1688
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-656",
+      "order": 656,
+      "kind": "space",
+      "value": " ",
+      "start": 1688,
+      "end": 1689
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-657",
+      "order": 657,
+      "kind": "word",
+      "value": "Dakota",
+      "start": 1689,
+      "end": 1695
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-658",
+      "order": 658,
+      "kind": "space",
+      "value": " ",
+      "start": 1695,
+      "end": 1696
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-659",
+      "order": 659,
+      "kind": "word",
+      "value": "there",
+      "start": 1696,
+      "end": 1701
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-660",
+      "order": 660,
+      "kind": "space",
+      "value": " ",
+      "start": 1701,
+      "end": 1702
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-661",
+      "order": 661,
+      "kind": "word",
+      "value": "was",
+      "start": 1702,
+      "end": 1705
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-662",
+      "order": 662,
+      "kind": "space",
+      "value": " ",
+      "start": 1705,
+      "end": 1706
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-663",
+      "order": 663,
+      "kind": "word",
+      "value": "room",
+      "start": 1706,
+      "end": 1710
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-664",
+      "order": 664,
+      "kind": "space",
+      "value": " ",
+      "start": 1710,
+      "end": 1711
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-665",
+      "order": 665,
+      "kind": "word",
+      "value": "for",
+      "start": 1711,
+      "end": 1714
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-666",
+      "order": 666,
+      "kind": "space",
+      "value": " ",
+      "start": 1714,
+      "end": 1715
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-667",
+      "order": 667,
+      "kind": "word",
+      "value": "Babe",
+      "start": 1715,
+      "end": 1719
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-668",
+      "order": 668,
+      "kind": "space",
+      "value": " ",
+      "start": 1719,
+      "end": 1720
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-669",
+      "order": 669,
+      "kind": "word",
+      "value": "to",
+      "start": 1720,
+      "end": 1722
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-670",
+      "order": 670,
+      "kind": "space",
+      "value": " ",
+      "start": 1722,
+      "end": 1723
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-671",
+      "order": 671,
+      "kind": "word",
+      "value": "lie",
+      "start": 1723,
+      "end": 1726
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-672",
+      "order": 672,
+      "kind": "space",
+      "value": " ",
+      "start": 1726,
+      "end": 1727
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-673",
+      "order": 673,
+      "kind": "word",
+      "value": "down",
+      "start": 1727,
+      "end": 1731
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-674",
+      "order": 674,
+      "kind": "space",
+      "value": " ",
+      "start": 1731,
+      "end": 1732
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-675",
+      "order": 675,
+      "kind": "word",
+      "value": "for",
+      "start": 1732,
+      "end": 1735
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-676",
+      "order": 676,
+      "kind": "space",
+      "value": " ",
+      "start": 1735,
+      "end": 1736
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-677",
+      "order": 677,
+      "kind": "word",
+      "value": "this",
+      "start": 1736,
+      "end": 1740
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-678",
+      "order": 678,
+      "kind": "space",
+      "value": " ",
+      "start": 1740,
+      "end": 1741
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-679",
+      "order": 679,
+      "kind": "word",
+      "value": "operation",
+      "start": 1741,
+      "end": 1750
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-680",
+      "order": 680,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1750,
+      "end": 1751
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-681",
+      "order": 681,
+      "kind": "space",
+      "value": "\n\n",
+      "start": 1751,
+      "end": 1753
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-682",
+      "order": 682,
+      "kind": "word",
+      "value": "Once",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-683",
+      "order": 683,
+      "kind": "space",
+      "value": " ",
+      "start": 1757,
+      "end": 1758
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-684",
+      "order": 684,
+      "kind": "word",
+      "value": "in",
+      "start": 1758,
+      "end": 1760
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-685",
+      "order": 685,
+      "kind": "space",
+      "value": " ",
+      "start": 1760,
+      "end": 1761
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-686",
+      "order": 686,
+      "kind": "word",
+      "value": "a",
+      "start": 1761,
+      "end": 1762
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-687",
+      "order": 687,
+      "kind": "space",
+      "value": " ",
+      "start": 1762,
+      "end": 1763
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-688",
+      "order": 688,
+      "kind": "word",
+      "value": "while",
+      "start": 1763,
+      "end": 1768
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-689",
+      "order": 689,
+      "kind": "space",
+      "value": " ",
+      "start": 1768,
+      "end": 1769
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-690",
+      "order": 690,
+      "kind": "word",
+      "value": "Babe",
+      "start": 1769,
+      "end": 1773
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-691",
+      "order": 691,
+      "kind": "space",
+      "value": " ",
+      "start": 1773,
+      "end": 1774
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-692",
+      "order": 692,
+      "kind": "word",
+      "value": "would",
+      "start": 1774,
+      "end": 1779
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-693",
+      "order": 693,
+      "kind": "space",
+      "value": " ",
+      "start": 1779,
+      "end": 1780
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-694",
+      "order": 694,
+      "kind": "word",
+      "value": "run",
+      "start": 1780,
+      "end": 1783
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-695",
+      "order": 695,
+      "kind": "space",
+      "value": " ",
+      "start": 1783,
+      "end": 1784
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-696",
+      "order": 696,
+      "kind": "word",
+      "value": "away",
+      "start": 1784,
+      "end": 1788
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-697",
+      "order": 697,
+      "kind": "space",
+      "value": " ",
+      "start": 1788,
+      "end": 1789
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-698",
+      "order": 698,
+      "kind": "word",
+      "value": "and",
+      "start": 1789,
+      "end": 1792
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-699",
+      "order": 699,
+      "kind": "space",
+      "value": " ",
+      "start": 1792,
+      "end": 1793
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-700",
+      "order": 700,
+      "kind": "word",
+      "value": "be",
+      "start": 1793,
+      "end": 1795
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-701",
+      "order": 701,
+      "kind": "space",
+      "value": " ",
+      "start": 1795,
+      "end": 1796
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-702",
+      "order": 702,
+      "kind": "word",
+      "value": "gone",
+      "start": 1796,
+      "end": 1800
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-703",
+      "order": 703,
+      "kind": "space",
+      "value": " ",
+      "start": 1800,
+      "end": 1801
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-704",
+      "order": 704,
+      "kind": "word",
+      "value": "all",
+      "start": 1801,
+      "end": 1804
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-705",
+      "order": 705,
+      "kind": "space",
+      "value": " ",
+      "start": 1804,
+      "end": 1805
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-706",
+      "order": 706,
+      "kind": "word",
+      "value": "day",
+      "start": 1805,
+      "end": 1808
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-707",
+      "order": 707,
+      "kind": "space",
+      "value": " ",
+      "start": 1808,
+      "end": 1809
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-708",
+      "order": 708,
+      "kind": "word",
+      "value": "roaming",
+      "start": 1809,
+      "end": 1816
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-709",
+      "order": 709,
+      "kind": "space",
+      "value": " ",
+      "start": 1816,
+      "end": 1817
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-710",
+      "order": 710,
+      "kind": "word",
+      "value": "all",
+      "start": 1817,
+      "end": 1820
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-711",
+      "order": 711,
+      "kind": "space",
+      "value": " ",
+      "start": 1820,
+      "end": 1821
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-712",
+      "order": 712,
+      "kind": "word",
+      "value": "over",
+      "start": 1821,
+      "end": 1825
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-713",
+      "order": 713,
+      "kind": "space",
+      "value": " ",
+      "start": 1825,
+      "end": 1826
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-714",
+      "order": 714,
+      "kind": "word",
+      "value": "the",
+      "start": 1826,
+      "end": 1829
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-715",
+      "order": 715,
+      "kind": "space",
+      "value": " ",
+      "start": 1829,
+      "end": 1830
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-716",
+      "order": 716,
+      "kind": "word",
+      "value": "Northwestern",
+      "start": 1830,
+      "end": 1842
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-717",
+      "order": 717,
+      "kind": "space",
+      "value": " ",
+      "start": 1842,
+      "end": 1843
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-718",
+      "order": 718,
+      "kind": "word",
+      "value": "country",
+      "start": 1843,
+      "end": 1850
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-719",
+      "order": 719,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 1850,
+      "end": 1851
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-720",
+      "order": 720,
+      "kind": "space",
+      "value": " ",
+      "start": 1851,
+      "end": 1852
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-721",
+      "order": 721,
+      "kind": "word",
+      "value": "His",
+      "start": 1852,
+      "end": 1855
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-722",
+      "order": 722,
+      "kind": "space",
+      "value": " ",
+      "start": 1855,
+      "end": 1856
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-723",
+      "order": 723,
+      "kind": "word",
+      "value": "tracks",
+      "start": 1856,
+      "end": 1862
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-724",
+      "order": 724,
+      "kind": "space",
+      "value": " ",
+      "start": 1862,
+      "end": 1863
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-725",
+      "order": 725,
+      "kind": "word",
+      "value": "were",
+      "start": 1863,
+      "end": 1867
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-726",
+      "order": 726,
+      "kind": "space",
+      "value": " ",
+      "start": 1867,
+      "end": 1868
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-727",
+      "order": 727,
+      "kind": "word",
+      "value": "so",
+      "start": 1868,
+      "end": 1870
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-728",
+      "order": 728,
+      "kind": "space",
+      "value": " ",
+      "start": 1870,
+      "end": 1871
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-729",
+      "order": 729,
+      "kind": "word",
+      "value": "far",
+      "start": 1871,
+      "end": 1874
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-730",
+      "order": 730,
+      "kind": "space",
+      "value": " ",
+      "start": 1874,
+      "end": 1875
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-731",
+      "order": 731,
+      "kind": "word",
+      "value": "apart",
+      "start": 1875,
+      "end": 1880
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-732",
+      "order": 732,
+      "kind": "space",
+      "value": " ",
+      "start": 1880,
+      "end": 1881
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-733",
+      "order": 733,
+      "kind": "word",
+      "value": "that",
+      "start": 1881,
+      "end": 1885
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-734",
+      "order": 734,
+      "kind": "space",
+      "value": " ",
+      "start": 1885,
+      "end": 1886
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-735",
+      "order": 735,
+      "kind": "word",
+      "value": "it",
+      "start": 1886,
+      "end": 1888
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-736",
+      "order": 736,
+      "kind": "space",
+      "value": " ",
+      "start": 1888,
+      "end": 1889
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-737",
+      "order": 737,
+      "kind": "word",
+      "value": "was",
+      "start": 1889,
+      "end": 1892
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-738",
+      "order": 738,
+      "kind": "space",
+      "value": " ",
+      "start": 1892,
+      "end": 1893
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-739",
+      "order": 739,
+      "kind": "word",
+      "value": "impossible",
+      "start": 1893,
+      "end": 1903
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-740",
+      "order": 740,
+      "kind": "space",
+      "value": " ",
+      "start": 1903,
+      "end": 1904
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-741",
+      "order": 741,
+      "kind": "word",
+      "value": "to",
+      "start": 1904,
+      "end": 1906
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-742",
+      "order": 742,
+      "kind": "space",
+      "value": " ",
+      "start": 1906,
+      "end": 1907
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-743",
+      "order": 743,
+      "kind": "word",
+      "value": "follow",
+      "start": 1907,
+      "end": 1913
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-744",
+      "order": 744,
+      "kind": "space",
+      "value": " ",
+      "start": 1913,
+      "end": 1914
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-745",
+      "order": 745,
+      "kind": "word",
+      "value": "him",
+      "start": 1914,
+      "end": 1917
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-746",
+      "order": 746,
+      "kind": "space",
+      "value": " ",
+      "start": 1917,
+      "end": 1918
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-747",
+      "order": 747,
+      "kind": "word",
+      "value": "and",
+      "start": 1918,
+      "end": 1921
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-748",
+      "order": 748,
+      "kind": "space",
+      "value": " ",
+      "start": 1921,
+      "end": 1922
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-749",
+      "order": 749,
+      "kind": "word",
+      "value": "so",
+      "start": 1922,
+      "end": 1924
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-750",
+      "order": 750,
+      "kind": "space",
+      "value": " ",
+      "start": 1924,
+      "end": 1925
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-751",
+      "order": 751,
+      "kind": "word",
+      "value": "deep",
+      "start": 1925,
+      "end": 1929
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-752",
+      "order": 752,
+      "kind": "space",
+      "value": " ",
+      "start": 1929,
+      "end": 1930
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-753",
+      "order": 753,
+      "kind": "word",
+      "value": "that",
+      "start": 1930,
+      "end": 1934
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-754",
+      "order": 754,
+      "kind": "space",
+      "value": " ",
+      "start": 1934,
+      "end": 1935
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-755",
+      "order": 755,
+      "kind": "word",
+      "value": "a",
+      "start": 1935,
+      "end": 1936
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-756",
+      "order": 756,
+      "kind": "space",
+      "value": " ",
+      "start": 1936,
+      "end": 1937
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-757",
+      "order": 757,
+      "kind": "word",
+      "value": "man",
+      "start": 1937,
+      "end": 1940
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-758",
+      "order": 758,
+      "kind": "space",
+      "value": " ",
+      "start": 1940,
+      "end": 1941
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-759",
+      "order": 759,
+      "kind": "word",
+      "value": "falling",
+      "start": 1941,
+      "end": 1948
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-760",
+      "order": 760,
+      "kind": "space",
+      "value": " ",
+      "start": 1948,
+      "end": 1949
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-761",
+      "order": 761,
+      "kind": "word",
+      "value": "into",
+      "start": 1949,
+      "end": 1953
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-762",
+      "order": 762,
+      "kind": "space",
+      "value": " ",
+      "start": 1953,
+      "end": 1954
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-763",
+      "order": 763,
+      "kind": "word",
+      "value": "one",
+      "start": 1954,
+      "end": 1957
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-764",
+      "order": 764,
+      "kind": "space",
+      "value": " ",
+      "start": 1957,
+      "end": 1958
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-765",
+      "order": 765,
+      "kind": "word",
+      "value": "could",
+      "start": 1958,
+      "end": 1963
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-766",
+      "order": 766,
+      "kind": "space",
+      "value": " ",
+      "start": 1963,
+      "end": 1964
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-767",
+      "order": 767,
+      "kind": "word",
+      "value": "only",
+      "start": 1964,
+      "end": 1968
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-768",
+      "order": 768,
+      "kind": "space",
+      "value": " ",
+      "start": 1968,
+      "end": 1969
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-769",
+      "order": 769,
+      "kind": "word",
+      "value": "be",
+      "start": 1969,
+      "end": 1971
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-770",
+      "order": 770,
+      "kind": "space",
+      "value": " ",
+      "start": 1971,
+      "end": 1972
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-771",
+      "order": 771,
+      "kind": "word",
+      "value": "hauled",
+      "start": 1972,
+      "end": 1978
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-772",
+      "order": 772,
+      "kind": "space",
+      "value": " ",
+      "start": 1978,
+      "end": 1979
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-773",
+      "order": 773,
+      "kind": "word",
+      "value": "out",
+      "start": 1979,
+      "end": 1982
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-774",
+      "order": 774,
+      "kind": "space",
+      "value": " ",
+      "start": 1982,
+      "end": 1983
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-775",
+      "order": 775,
+      "kind": "word",
+      "value": "with",
+      "start": 1983,
+      "end": 1987
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-776",
+      "order": 776,
+      "kind": "space",
+      "value": " ",
+      "start": 1987,
+      "end": 1988
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-777",
+      "order": 777,
+      "kind": "word",
+      "value": "difficulty",
+      "start": 1988,
+      "end": 1998
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-778",
+      "order": 778,
+      "kind": "space",
+      "value": " ",
+      "start": 1998,
+      "end": 1999
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-779",
+      "order": 779,
+      "kind": "word",
+      "value": "and",
+      "start": 1999,
+      "end": 2002
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-780",
+      "order": 780,
+      "kind": "space",
+      "value": " ",
+      "start": 2002,
+      "end": 2003
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-781",
+      "order": 781,
+      "kind": "word",
+      "value": "a",
+      "start": 2003,
+      "end": 2004
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-782",
+      "order": 782,
+      "kind": "space",
+      "value": " ",
+      "start": 2004,
+      "end": 2005
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-783",
+      "order": 783,
+      "kind": "word",
+      "value": "long",
+      "start": 2005,
+      "end": 2009
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-784",
+      "order": 784,
+      "kind": "space",
+      "value": " ",
+      "start": 2009,
+      "end": 2010
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-785",
+      "order": 785,
+      "kind": "word",
+      "value": "rope",
+      "start": 2010,
+      "end": 2014
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-786",
+      "order": 786,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 2014,
+      "end": 2015
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-787",
+      "order": 787,
+      "kind": "space",
+      "value": " ",
+      "start": 2015,
+      "end": 2016
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-788",
+      "order": 788,
+      "kind": "word",
+      "value": "Once",
+      "start": 2016,
+      "end": 2020
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-789",
+      "order": 789,
+      "kind": "space",
+      "value": " ",
+      "start": 2020,
+      "end": 2021
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-790",
+      "order": 790,
+      "kind": "word",
+      "value": "a",
+      "start": 2021,
+      "end": 2022
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-791",
+      "order": 791,
+      "kind": "space",
+      "value": " ",
+      "start": 2022,
+      "end": 2023
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-792",
+      "order": 792,
+      "kind": "word",
+      "value": "settler",
+      "start": 2023,
+      "end": 2030
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-793",
+      "order": 793,
+      "kind": "space",
+      "value": " ",
+      "start": 2030,
+      "end": 2031
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-794",
+      "order": 794,
+      "kind": "word",
+      "value": "and",
+      "start": 2031,
+      "end": 2034
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-795",
+      "order": 795,
+      "kind": "space",
+      "value": " ",
+      "start": 2034,
+      "end": 2035
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-796",
+      "order": 796,
+      "kind": "word",
+      "value": "his",
+      "start": 2035,
+      "end": 2038
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-797",
+      "order": 797,
+      "kind": "space",
+      "value": " ",
+      "start": 2038,
+      "end": 2039
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-798",
+      "order": 798,
+      "kind": "word",
+      "value": "wife",
+      "start": 2039,
+      "end": 2043
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-799",
+      "order": 799,
+      "kind": "space",
+      "value": " ",
+      "start": 2043,
+      "end": 2044
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-800",
+      "order": 800,
+      "kind": "word",
+      "value": "and",
+      "start": 2044,
+      "end": 2047
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-801",
+      "order": 801,
+      "kind": "space",
+      "value": " ",
+      "start": 2047,
+      "end": 2048
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-802",
+      "order": 802,
+      "kind": "word",
+      "value": "baby",
+      "start": 2048,
+      "end": 2052
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-803",
+      "order": 803,
+      "kind": "space",
+      "value": " ",
+      "start": 2052,
+      "end": 2053
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-804",
+      "order": 804,
+      "kind": "word",
+      "value": "fell",
+      "start": 2053,
+      "end": 2057
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-805",
+      "order": 805,
+      "kind": "space",
+      "value": " ",
+      "start": 2057,
+      "end": 2058
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-806",
+      "order": 806,
+      "kind": "word",
+      "value": "into",
+      "start": 2058,
+      "end": 2062
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-807",
+      "order": 807,
+      "kind": "space",
+      "value": " ",
+      "start": 2062,
+      "end": 2063
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-808",
+      "order": 808,
+      "kind": "word",
+      "value": "one",
+      "start": 2063,
+      "end": 2066
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-809",
+      "order": 809,
+      "kind": "space",
+      "value": " ",
+      "start": 2066,
+      "end": 2067
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-810",
+      "order": 810,
+      "kind": "word",
+      "value": "of",
+      "start": 2067,
+      "end": 2069
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-811",
+      "order": 811,
+      "kind": "space",
+      "value": " ",
+      "start": 2069,
+      "end": 2070
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-812",
+      "order": 812,
+      "kind": "word",
+      "value": "these",
+      "start": 2070,
+      "end": 2075
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-813",
+      "order": 813,
+      "kind": "space",
+      "value": " ",
+      "start": 2075,
+      "end": 2076
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-814",
+      "order": 814,
+      "kind": "word",
+      "value": "tracks",
+      "start": 2076,
+      "end": 2082
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-815",
+      "order": 815,
+      "kind": "space",
+      "value": " ",
+      "start": 2082,
+      "end": 2083
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-816",
+      "order": 816,
+      "kind": "word",
+      "value": "and",
+      "start": 2083,
+      "end": 2086
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-817",
+      "order": 817,
+      "kind": "space",
+      "value": " ",
+      "start": 2086,
+      "end": 2087
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-818",
+      "order": 818,
+      "kind": "word",
+      "value": "the",
+      "start": 2087,
+      "end": 2090
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-819",
+      "order": 819,
+      "kind": "space",
+      "value": " ",
+      "start": 2090,
+      "end": 2091
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-820",
+      "order": 820,
+      "kind": "word",
+      "value": "son",
+      "start": 2091,
+      "end": 2094
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-821",
+      "order": 821,
+      "kind": "space",
+      "value": " ",
+      "start": 2094,
+      "end": 2095
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-822",
+      "order": 822,
+      "kind": "word",
+      "value": "got",
+      "start": 2095,
+      "end": 2098
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-823",
+      "order": 823,
+      "kind": "space",
+      "value": " ",
+      "start": 2098,
+      "end": 2099
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-824",
+      "order": 824,
+      "kind": "word",
+      "value": "out",
+      "start": 2099,
+      "end": 2102
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-825",
+      "order": 825,
+      "kind": "space",
+      "value": " ",
+      "start": 2102,
+      "end": 2103
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-826",
+      "order": 826,
+      "kind": "word",
+      "value": "when",
+      "start": 2103,
+      "end": 2107
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-827",
+      "order": 827,
+      "kind": "space",
+      "value": " ",
+      "start": 2107,
+      "end": 2108
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-828",
+      "order": 828,
+      "kind": "word",
+      "value": "he",
+      "start": 2108,
+      "end": 2110
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-829",
+      "order": 829,
+      "kind": "space",
+      "value": " ",
+      "start": 2110,
+      "end": 2111
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-830",
+      "order": 830,
+      "kind": "word",
+      "value": "was",
+      "start": 2111,
+      "end": 2114
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-831",
+      "order": 831,
+      "kind": "space",
+      "value": " ",
+      "start": 2114,
+      "end": 2115
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-832",
+      "order": 832,
+      "kind": "word",
+      "value": "fifty",
+      "start": 2115,
+      "end": 2120
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-833",
+      "order": 833,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 2120,
+      "end": 2121
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-834",
+      "order": 834,
+      "kind": "word",
+      "value": "seven",
+      "start": 2121,
+      "end": 2126
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-835",
+      "order": 835,
+      "kind": "space",
+      "value": " ",
+      "start": 2126,
+      "end": 2127
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-836",
+      "order": 836,
+      "kind": "word",
+      "value": "years",
+      "start": 2127,
+      "end": 2132
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-837",
+      "order": 837,
+      "kind": "space",
+      "value": " ",
+      "start": 2132,
+      "end": 2133
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-838",
+      "order": 838,
+      "kind": "word",
+      "value": "old",
+      "start": 2133,
+      "end": 2136
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-839",
+      "order": 839,
+      "kind": "space",
+      "value": " ",
+      "start": 2136,
+      "end": 2137
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-840",
+      "order": 840,
+      "kind": "word",
+      "value": "and",
+      "start": 2137,
+      "end": 2140
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-841",
+      "order": 841,
+      "kind": "space",
+      "value": " ",
+      "start": 2140,
+      "end": 2141
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-842",
+      "order": 842,
+      "kind": "word",
+      "value": "reported",
+      "start": 2141,
+      "end": 2149
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-843",
+      "order": 843,
+      "kind": "space",
+      "value": " ",
+      "start": 2149,
+      "end": 2150
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-844",
+      "order": 844,
+      "kind": "word",
+      "value": "the",
+      "start": 2150,
+      "end": 2153
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-845",
+      "order": 845,
+      "kind": "space",
+      "value": " ",
+      "start": 2153,
+      "end": 2154
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-846",
+      "order": 846,
+      "kind": "word",
+      "value": "accident",
+      "start": 2154,
+      "end": 2162
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-847",
+      "order": 847,
+      "kind": "punctuation",
+      "value": ".",
+      "start": 2162,
+      "end": 2163
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-848",
+      "order": 848,
+      "kind": "space",
+      "value": " ",
+      "start": 2163,
+      "end": 2164
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-849",
+      "order": 849,
+      "kind": "word",
+      "value": "These",
+      "start": 2164,
+      "end": 2169
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-850",
+      "order": 850,
+      "kind": "space",
+      "value": " ",
+      "start": 2169,
+      "end": 2170
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-851",
+      "order": 851,
+      "kind": "word",
+      "value": "tracks",
+      "start": 2170,
+      "end": 2176
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-852",
+      "order": 852,
+      "kind": "space",
+      "value": " ",
+      "start": 2176,
+      "end": 2177
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-853",
+      "order": 853,
+      "kind": "word",
+      "value": "today",
+      "start": 2177,
+      "end": 2182
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-854",
+      "order": 854,
+      "kind": "space",
+      "value": " ",
+      "start": 2182,
+      "end": 2183
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-855",
+      "order": 855,
+      "kind": "word",
+      "value": "form",
+      "start": 2183,
+      "end": 2187
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-856",
+      "order": 856,
+      "kind": "space",
+      "value": " ",
+      "start": 2187,
+      "end": 2188
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-857",
+      "order": 857,
+      "kind": "word",
+      "value": "the",
+      "start": 2188,
+      "end": 2191
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-858",
+      "order": 858,
+      "kind": "space",
+      "value": " ",
+      "start": 2191,
+      "end": 2192
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-859",
+      "order": 859,
+      "kind": "word",
+      "value": "thousands",
+      "start": 2192,
+      "end": 2201
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-860",
+      "order": 860,
+      "kind": "space",
+      "value": " ",
+      "start": 2201,
+      "end": 2202
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-861",
+      "order": 861,
+      "kind": "word",
+      "value": "of",
+      "start": 2202,
+      "end": 2204
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-862",
+      "order": 862,
+      "kind": "space",
+      "value": " ",
+      "start": 2204,
+      "end": 2205
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-863",
+      "order": 863,
+      "kind": "word",
+      "value": "lakes",
+      "start": 2205,
+      "end": 2210
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-864",
+      "order": 864,
+      "kind": "space",
+      "value": " ",
+      "start": 2210,
+      "end": 2211
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-865",
+      "order": 865,
+      "kind": "word",
+      "value": "in",
+      "start": 2211,
+      "end": 2213
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-866",
+      "order": 866,
+      "kind": "space",
+      "value": " ",
+      "start": 2213,
+      "end": 2214
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-867",
+      "order": 867,
+      "kind": "word",
+      "value": "the",
+      "start": 2214,
+      "end": 2217
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-868",
+      "order": 868,
+      "kind": "space",
+      "value": " ",
+      "start": 2217,
+      "end": 2218
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-869",
+      "order": 869,
+      "kind": "punctuation",
+      "value": "\"",
+      "start": 2218,
+      "end": 2219
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-870",
+      "order": 870,
+      "kind": "word",
+      "value": "Land",
+      "start": 2219,
+      "end": 2223
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-871",
+      "order": 871,
+      "kind": "space",
+      "value": " ",
+      "start": 2223,
+      "end": 2224
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-872",
+      "order": 872,
+      "kind": "word",
+      "value": "of",
+      "start": 2224,
+      "end": 2226
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-873",
+      "order": 873,
+      "kind": "space",
+      "value": " ",
+      "start": 2226,
+      "end": 2227
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-874",
+      "order": 874,
+      "kind": "word",
+      "value": "the",
+      "start": 2227,
+      "end": 2230
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-875",
+      "order": 875,
+      "kind": "space",
+      "value": " ",
+      "start": 2230,
+      "end": 2231
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-876",
+      "order": 876,
+      "kind": "word",
+      "value": "Sky",
+      "start": 2231,
+      "end": 2234
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-877",
+      "order": 877,
+      "kind": "punctuation",
+      "value": "-",
+      "start": 2234,
+      "end": 2235
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-878",
+      "order": 878,
+      "kind": "word",
+      "value": "Blue",
+      "start": 2235,
+      "end": 2239
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-879",
+      "order": 879,
+      "kind": "space",
+      "value": " ",
+      "start": 2239,
+      "end": 2240
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-880",
+      "order": 880,
+      "kind": "word",
+      "value": "Water",
+      "start": 2240,
+      "end": 2245
+    },
+    {
+      "token_id": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-token-881",
+      "order": 881,
+      "kind": "punctuation",
+      "value": ".\"",
+      "start": 2245,
+      "end": 2247
+    }
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "type": "paragraph",
+      "paragraphId": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-1",
+      "start": 0,
+      "end": 260,
+      "lines": [
+        "Babe, the big blue ox, constituted Paul Bunyan's assets and liabilities. History disagrees as to when, where and how Paul first acquired this bovine locomotive but his subsequent record is reliably established. Babe could pull anything that had two ends to it."
+      ],
+      "text": "Babe, the big blue ox, constituted Paul Bunyan's assets and liabilities. History disagrees as to when, where and how Paul first acquired this bovine locomotive but his subsequent record is reliably established. Babe could pull anything that had two ends to it."
+    },
+    {
+      "index": 1,
+      "type": "paragraph",
+      "paragraphId": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-2",
+      "start": 262,
+      "end": 589,
+      "lines": [
+        "Babe was seven axe handles wide between the eyes according to some authorities; others equally dependable say forty-two axe handles and a plug of tobacco. Like other historical contradictions this comes from using different standards. Seven of Paul's axe handles were equal to a little more than forty-two of the ordinary kind."
+      ],
+      "text": "Babe was seven axe handles wide between the eyes according to some authorities; others equally dependable say forty-two axe handles and a plug of tobacco. Like other historical contradictions this comes from using different standards. Seven of Paul's axe handles were equal to a little more than forty-two of the ordinary kind."
+    },
+    {
+      "index": 2,
+      "type": "paragraph",
+      "paragraphId": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-3",
+      "start": 591,
+      "end": 1046,
+      "lines": [
+        "When cost sheets were figured on Babe, Johnny Inkslinger found that upkeep and overhead were expensive but the charges for operation and depreciation were low and the efficiency was very high. How else could Paul have hauled logs to the landing a whole section (640 acres) at a time? He also used Babe to pull the kinks out of the crooked logging roads and it was on a job of this kind that Babe pulled a chain of three-inch links out into a straight bar."
+      ],
+      "text": "When cost sheets were figured on Babe, Johnny Inkslinger found that upkeep and overhead were expensive but the charges for operation and depreciation were low and the efficiency was very high. How else could Paul have hauled logs to the landing a whole section (640 acres) at a time? He also used Babe to pull the kinks out of the crooked logging roads and it was on a job of this kind that Babe pulled a chain of three-inch links out into a straight bar."
+    },
+    {
+      "index": 3,
+      "type": "paragraph",
+      "paragraphId": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-4",
+      "start": 1048,
+      "end": 1751,
+      "lines": [
+        "They could never keep Babe more than one night at a camp for he would eat in one day all the feed one crew could tote to camp in a year. For a snack between meals he would eat fifty bales of hay, wire and all, and six men with pickaroons were kept busy picking the wire out of his teeth. Babe was a great pet and very docile as a general thing but he seemed to have a sense of humor and frequently got into mischief. He would sneak up behind a drive and drink all the water out of the river, leaving the logs high and dry. It was impossible to build an ox-sling big enough to hoist Babe off the ground for shoeing, but after they logged off Dakota there was room for Babe to lie down for this operation."
+      ],
+      "text": "They could never keep Babe more than one night at a camp for he would eat in one day all the feed one crew could tote to camp in a year. For a snack between meals he would eat fifty bales of hay, wire and all, and six men with pickaroons were kept busy picking the wire out of his teeth. Babe was a great pet and very docile as a general thing but he seemed to have a sense of humor and frequently got into mischief. He would sneak up behind a drive and drink all the water out of the river, leaving the logs high and dry. It was impossible to build an ox-sling big enough to hoist Babe off the ground for shoeing, but after they logged off Dakota there was room for Babe to lie down for this operation."
+    },
+    {
+      "index": 4,
+      "type": "paragraph",
+      "paragraphId": "display-text-34e6a92a26a27f09fdb1cf02481ae09f-paragraph-5",
+      "start": 1753,
+      "end": 2247,
+      "lines": [
+        "Once in a while Babe would run away and be gone all day roaming all over the Northwestern country. His tracks were so far apart that it was impossible to follow him and so deep that a man falling into one could only be hauled out with difficulty and a long rope. Once a settler and his wife and baby fell into one of these tracks and the son got out when he was fifty-seven years old and reported the accident. These tracks today form the thousands of lakes in the \"Land of the Sky-Blue Water.\""
+      ],
+      "text": "Once in a while Babe would run away and be gone all day roaming all over the Northwestern country. His tracks were so far apart that it was impossible to follow him and so deep that a man falling into one could only be hauled out with difficulty and a long rope. Once a settler and his wife and baby fell into one of these tracks and the son got out when he was fifty-seven years old and reported the accident. These tracks today form the thousands of lakes in the \"Land of the Sky-Blue Water.\""
+    }
+  ],
+  "plainText": "Babe, the big blue ox, constituted Paul Bunyan's assets and liabilities. History disagrees as to when, where and how Paul first acquired this bovine locomotive but his subsequent record is reliably established. Babe could pull anything that had two ends to it.\n\nBabe was seven axe handles wide between the eyes according to some authorities; others equally dependable say forty-two axe handles and a plug of tobacco. Like other historical contradictions this comes from using different standards. Seven of Paul's axe handles were equal to a little more than forty-two of the ordinary kind.\n\nWhen cost sheets were figured on Babe, Johnny Inkslinger found that upkeep and overhead were expensive but the charges for operation and depreciation were low and the efficiency was very high. How else could Paul have hauled logs to the landing a whole section (640 acres) at a time? He also used Babe to pull the kinks out of the crooked logging roads and it was on a job of this kind that Babe pulled a chain of three-inch links out into a straight bar.\n\nThey could never keep Babe more than one night at a camp for he would eat in one day all the feed one crew could tote to camp in a year. For a snack between meals he would eat fifty bales of hay, wire and all, and six men with pickaroons were kept busy picking the wire out of his teeth. Babe was a great pet and very docile as a general thing but he seemed to have a sense of humor and frequently got into mischief. He would sneak up behind a drive and drink all the water out of the river, leaving the logs high and dry. It was impossible to build an ox-sling big enough to hoist Babe off the ground for shoeing, but after they logged off Dakota there was room for Babe to lie down for this operation.\n\nOnce in a while Babe would run away and be gone all day roaming all over the Northwestern country. His tracks were so far apart that it was impossible to follow him and so deep that a man falling into one could only be hauled out with difficulty and a long rope. Once a settler and his wife and baby fell into one of these tracks and the son got out when he was fifty-seven years old and reported the accident. These tracks today form the thousands of lakes in the \"Land of the Sky-Blue Water.\"",
+  "plainTextSha256": "96c46a51d6eefe51366a847be4b60dcfd69c24e9294a3d84c204127e1ec869a3",
+  "wordCount": 426,
+  "characterCount": 2247,
+  "sha256": "19f7248713b888d542a1d9b0817d2d74eeeb96faeb0b361779bda484321cb5e6"
+}
